@@ -250,10 +250,11 @@ class Visualizador:
         plt.tight_layout()
     
 
-    def plot_relacion2(self, vr, tamano_grafica=(20, 10), tamanio_fuente=18):
+
+    def plot_relacion_individual(self, vr, tamano_grafica=(20, 10), tamanio_fuente=18):
         """
         Genera gráficos que muestran la relación entre cada columna del DataFrame y una variable de referencia (vr).
-        Los gráficos se dividen en dos: uno para los que tienen vr=1 y otro para los que tienen vr=0.
+        Los gráficos se generan en subplots para las variables numéricas, categóricas con menos de 6 categorías y categóricas con 6 o más categorías.
 
         Parámetros:
         -----------
@@ -267,363 +268,80 @@ class Visualizador:
         Retorno:
         --------
         None
-            Muestra una serie de gráficos separados para los que tienen vr=1 y los que tienen vr=0.
-
-        Notas:
-        ------
-        - La función asume que el DataFrame de interés está definido dentro de la clase como `self.dataframe`.
-        - Se utiliza `self.separar_dataframes()` para obtener las columnas numéricas y categóricas en listas separadas.
-        - La variable de referencia (`vr`) no será graficada contra sí misma.
-        - Los gráficos utilizan la paleta "magma" para la diferenciación de categorías o valores de la variable de referencia.
+            Muestra una serie de gráficos para cada columna con vr=0 y vr=1.
         """
+        import matplotlib.pyplot as plt
+        import seaborn as sns
+        import math
 
         lista_num = self.separar_dataframes()[0].columns
         lista_cat = self.separar_dataframes()[1].columns
 
-        # Filtrar datos para vr=1 y vr=0
+        
         df_vr_1 = self.dataframe[self.dataframe[vr] == 1]
         df_vr_0 = self.dataframe[self.dataframe[vr] == 0]
 
-        # Gráficos para los que tienen vr=1
-        fig_vr_1, axes_vr_1 = plt.subplots(ncols=2, nrows=math.ceil(len(self.dataframe.columns) / 2), figsize=tamano_grafica)
-        axes_vr_1 = axes_vr_1.flat
+        # variables numéricas
+        num_vars = [col for col in lista_num if col != vr]
+        fig_num, axes_num = plt.subplots(ncols=2, nrows=len(num_vars), figsize=tamano_grafica)
+        axes_num = axes_num.flat
 
-        for indice, columna in enumerate(self.dataframe.columns):
-            if columna == vr:
-                fig_vr_1.delaxes(axes_vr_1[indice])
-            elif columna in lista_num:
-                sns.histplot(x=columna, 
-                            data=df_vr_1, 
-                            ax=axes_vr_1[indice], 
-                            palette="magma", 
-                            legend=False)
-                plt.tight_layout()
-            elif columna in lista_cat:
-                sns.countplot(x=columna, 
-                            data=df_vr_1, 
-                            ax=axes_vr_1[indice], 
-                            palette="magma")
-                plt.tight_layout()
+        for i, columna in enumerate(num_vars):
+            
+            sns.histplot(x=columna, data=df_vr_0, ax=axes_num[i * 2], color="blue", kde=False)
+            axes_num[i * 2].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
 
-            axes_vr_1[indice].set_title(f"VR=1: {columna}", size=tamanio_fuente)
+            
+            sns.histplot(x=columna, data=df_vr_1, ax=axes_num[i * 2 + 1], color="orange", kde=False)
+            axes_num[i * 2 + 1].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
+
+            
+            x_min = min(self.dataframe[columna].min(), df_vr_0[columna].min(), df_vr_1[columna].min())
+            x_max = max(self.dataframe[columna].max(), df_vr_0[columna].max(), df_vr_1[columna].max())
+            axes_num[i * 2].set_xlim(x_min, x_max)
+            axes_num[i * 2 + 1].set_xlim(x_min, x_max)
 
         plt.tight_layout()
-        plt.suptitle("Gráficos para los que tienen VR=1", fontsize=tamanio_fuente + 2)
-
-        # Gráficos para los que tienen vr=0
-        fig_vr_0, axes_vr_0 = plt.subplots(ncols=2, nrows=math.ceil(len(self.dataframe.columns) / 2), figsize=tamano_grafica)
-        axes_vr_0 = axes_vr_0.flat
-
-        for indice, columna in enumerate(self.dataframe.columns):
-            if columna == vr:
-                fig_vr_0.delaxes(axes_vr_0[indice])
-            elif columna in lista_num:
-                sns.histplot(x=columna, 
-                            data=df_vr_0, 
-                            ax=axes_vr_0[indice], 
-                            palette="magma", 
-                            legend=False)
-                plt.tight_layout()
-            elif columna in lista_cat:
-                sns.countplot(x=columna, 
-                            data=df_vr_0, 
-                            ax=axes_vr_0[indice], 
-                            palette="magma")
-                plt.tight_layout()
-
-            axes_vr_0[indice].set_title(f"VR=0: {columna}", size=tamanio_fuente)
-
-        plt.tight_layout()
-        plt.suptitle("Gráficos para los que tienen VR=0", fontsize=tamanio_fuente + 2)
-
-
-
-
-    def plot_relacion3(self, vr, tamano_grafica=(20, 10), tamanio_fuente=18):
-        """
-        Genera gráficos que muestran la relación entre cada columna del DataFrame y una variable de referencia (vr).
-        Los gráficos se generan de forma secuencial para los valores vr=0 y vr=1 de cada columna.
-
-        Parámetros:
-        -----------
-        vr : str
-            Nombre de la columna que actúa como la variable de referencia para las relaciones.
-        tamano_grafica : tuple, opcional
-            Tamaño de la figura en el formato (ancho, alto). Por defecto es (20, 10).
-        tamanio_fuente : int, opcional
-            Tamaño de la fuente para los títulos de los gráficos. Por defecto es 18.
-
-        Retorno:
-        --------
-        None
-            Muestra una serie de gráficos para cada columna con vr=0 y vr=1 de manera consecutiva.
-
-        Notas:
-        ------
-        - La función asume que el DataFrame de interés está definido dentro de la clase como `self.dataframe`.
-        - Se utiliza `self.separar_dataframes()` para obtener las columnas numéricas y categóricas en listas separadas.
-        - La variable de referencia (`vr`) no será graficada contra sí misma.
-        - Los gráficos utilizan la paleta "magma" para la diferenciación de categorías o valores de la variable de referencia.
-        """
-
-        lista_num = self.separar_dataframes()[0].columns
-        lista_cat = self.separar_dataframes()[1].columns
-
-        # Filtrar datos por vr=0 y vr=1
-        df_vr_1 = self.dataframe[self.dataframe[vr] == 1]
-        df_vr_0 = self.dataframe[self.dataframe[vr] == 0]
-
-        # Crear gráficos secuenciales para cada columna
-        fig, axes = plt.subplots(ncols=2, nrows=math.ceil(len(self.dataframe.columns) * 2 / 2), figsize=tamano_grafica)
-        axes = axes.flat
-
-        for indice, columna in enumerate(self.dataframe.columns):
-            if columna == vr:
-                continue
-
-            if columna in lista_num:
-                # Gráfico para vr=0
-                sns.histplot(x=columna, 
-                            data=df_vr_0, 
-                            ax=axes[indice * 2], 
-                            color="blue", 
-                            legend=False)
-                axes[indice * 2].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
-
-                # Gráfico para vr=1
-                sns.histplot(x=columna, 
-                            data=df_vr_1, 
-                            ax=axes[indice * 2 + 1], 
-                            color="orange", 
-                            legend=False)
-                axes[indice * 2 + 1].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
-
-            elif columna in lista_cat:
-                # Gráfico para vr=0
-                sns.countplot(x=columna, 
-                            data=df_vr_0, 
-                            ax=axes[indice * 2], 
-                            color="blue")
-                axes[indice * 2].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
-
-                # Gráfico para vr=1
-                sns.countplot(x=columna, 
-                            data=df_vr_1, 
-                            ax=axes[indice * 2 + 1], 
-                            color="orange")
-                axes[indice * 2 + 1].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
-
-        plt.tight_layout()
-        plt.suptitle("Relación de columnas con VR=0 y VR=1", fontsize=tamanio_fuente + 2)
+        plt.suptitle("Variables Numéricas", fontsize=tamanio_fuente + 2)
         plt.show()
 
+        # variables categóricas con menos de 6 categorías
+        cat_vars_small = [col for col in lista_cat if col != vr and self.dataframe[col].nunique() < 6]
+        fig_cat_small, axes_cat_small = plt.subplots(ncols=2, nrows=len(cat_vars_small), figsize=tamano_grafica)
+        axes_cat_small = axes_cat_small.flat
 
-    def plot_relacion4(self, vr, tamano_grafica=(20, 10), tamanio_fuente=18):
-        """
-        Genera gráficos que muestran la relación entre cada columna del DataFrame y una variable de referencia (vr).
-        Los gráficos se generan de forma secuencial para los valores vr=0 y vr=1 de cada columna.
+        for i, columna in enumerate(cat_vars_small):
+            
+            orden = self.dataframe[columna].value_counts().index
 
-        Parámetros:
-        -----------
-        vr : str
-            Nombre de la columna que actúa como la variable de referencia para las relaciones.
-        tamano_grafica : tuple, opcional
-            Tamaño de la figura en el formato (ancho, alto). Por defecto es (20, 10).
-        tamanio_fuente : int, opcional
-            Tamaño de la fuente para los títulos de los gráficos. Por defecto es 18.
+            sns.countplot(x=columna, data=df_vr_0, ax=axes_cat_small[i * 2], order=orden, color="blue")
+            axes_cat_small[i * 2].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
 
-        Retorno:
-        --------
-        None
-            Muestra una serie de gráficos para cada columna con vr=0 y vr=1 de manera consecutiva.
-
-        Notas:
-        ------
-        - La función asume que el DataFrame de interés está definido dentro de la clase como `self.dataframe`.
-        - Se utiliza `self.separar_dataframes()` para obtener las columnas numéricas y categóricas en listas separadas.
-        - La variable de referencia (`vr`) no será graficada contra sí misma.
-        - Los gráficos utilizan la paleta "magma" para la diferenciación de categorías o valores de la variable de referencia.
-        """
-
-        lista_num = self.separar_dataframes()[0].columns
-        lista_cat = self.separar_dataframes()[1].columns
-
-        # Filtrar datos por vr=0 y vr=1
-        df_vr_1 = self.dataframe[self.dataframe[vr] == 1]
-        df_vr_0 = self.dataframe[self.dataframe[vr] == 0]
-
-        # Crear gráficos secuenciales para cada columna
-        fig, axes = plt.subplots(ncols=2, nrows=math.ceil(len(self.dataframe.columns) * 2 / 2), figsize=tamano_grafica)
-        axes = axes.flat
-
-        for indice, columna in enumerate(self.dataframe.columns):
-            if columna == vr:
-                continue
-
-            if columna in lista_num:
-                # Gráfico para vr=0
-                sns.histplot(x=columna, 
-                            data=df_vr_0, 
-                            ax=axes[indice * 2], 
-                            color="blue", 
-                            legend=False)
-                axes[indice * 2].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
-
-                # Gráfico para vr=1
-                sns.histplot(x=columna, 
-                            data=df_vr_1, 
-                            ax=axes[indice * 2 + 1], 
-                            color="orange", 
-                            legend=False)
-                axes[indice * 2 + 1].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
-
-            elif columna in lista_cat:
-                num_categorias = self.dataframe[columna].nunique()
-                if num_categorias >= 6:
-                    # Crear nuevo subplot para categorías mayores o iguales a 6
-                    fig_cat, axes_cat = plt.subplots(nrows=1, ncols=2, figsize=(tamano_grafica[0], tamano_grafica[1] // 2))
-
-                    sns.countplot(x=columna, 
-                                data=df_vr_0, 
-                                ax=axes_cat[0], 
-                                color="blue")
-                    axes_cat[0].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
-                    axes_cat[0].tick_params(axis='x', rotation=90)
-
-                    sns.countplot(x=columna, 
-                                data=df_vr_1, 
-                                ax=axes_cat[1], 
-                                color="orange")
-                    axes_cat[1].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
-                    axes_cat[1].tick_params(axis='x', rotation=90)
-
-                    plt.tight_layout()
-                    plt.show()
-                else:
-                    # Gráfico para vr=0
-                    sns.countplot(x=columna, 
-                                data=df_vr_0, 
-                                ax=axes[indice * 2], 
-                                color="blue")
-                    axes[indice * 2].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
-
-                    # Gráfico para vr=1
-                    sns.countplot(x=columna, 
-                                data=df_vr_1, 
-                                ax=axes[indice * 2 + 1], 
-                                color="orange")
-                    axes[indice * 2 + 1].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
+            sns.countplot(x=columna, data=df_vr_1, ax=axes_cat_small[i * 2 + 1], order=orden, color="orange")
+            axes_cat_small[i * 2 + 1].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
 
         plt.tight_layout()
-        plt.suptitle("Relación de columnas con VR=0 y VR=1", fontsize=tamanio_fuente + 2)
+        plt.suptitle("Variables Categóricas (<6 Categorías)", fontsize=tamanio_fuente + 2)
         plt.show()
 
+        # variables categóricas con 6 o más categorías
+        cat_vars_large = [col for col in lista_cat if col != vr and self.dataframe[col].nunique() >= 6]
+        for columna in cat_vars_large:
+            fig_cat_large, axes_cat_large = plt.subplots(nrows=1, ncols=2, figsize=(tamano_grafica[0], tamano_grafica[1] // 2))
 
-    def plot_relacion5(self, vr, tamano_grafica=(20, 10), tamanio_fuente=18):
-        """
-        Genera gráficos que muestran la relación entre cada columna del DataFrame y una variable de referencia (vr).
-        Los gráficos se generan de forma secuencial para los valores vr=0 y vr=1 de cada columna.
+            orden = self.dataframe[columna].value_counts().index
 
-        Parámetros:
-        -----------
-        vr : str
-            Nombre de la columna que actúa como la variable de referencia para las relaciones.
-        tamano_grafica : tuple, opcional
-            Tamaño de la figura en el formato (ancho, alto). Por defecto es (20, 10).
-        tamanio_fuente : int, opcional
-            Tamaño de la fuente para los títulos de los gráficos. Por defecto es 18.
+            sns.countplot(x=columna, data=df_vr_0, ax=axes_cat_large[0], order=orden, color="blue")
+            axes_cat_large[0].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
+            axes_cat_large[0].tick_params(axis='x', rotation=90)
 
-        Retorno:
-        --------
-        None
-            Muestra una serie de gráficos para cada columna con vr=0 y vr=1 de manera consecutiva.
+            sns.countplot(x=columna, data=df_vr_1, ax=axes_cat_large[1], order=orden, color="orange")
+            axes_cat_large[1].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
+            axes_cat_large[1].tick_params(axis='x', rotation=90)
 
-        Notas:
-        ------
-        - La función asume que el DataFrame de interés está definido dentro de la clase como `self.dataframe`.
-        - Se utiliza `self.separar_dataframes()` para obtener las columnas numéricas y categóricas en listas separadas.
-        - La variable de referencia (`vr`) no será graficada contra sí misma.
-        - Los gráficos utilizan la paleta "magma" para la diferenciación de categorías o valores de la variable de referencia.
-        """
-
-        lista_num = self.separar_dataframes()[0].columns
-        lista_cat = self.separar_dataframes()[1].columns
-
-        # Filtrar datos por vr=0 y vr=1
-        df_vr_1 = self.dataframe[self.dataframe[vr] == 1]
-        df_vr_0 = self.dataframe[self.dataframe[vr] == 0]
-
-        # Crear gráficos secuenciales para cada columna
-        fig, axes = plt.subplots(ncols=2, nrows=math.ceil(len(self.dataframe.columns) * 2 / 2), figsize=tamano_grafica)
-        axes = axes.flat
-
-        indice_general = 0
-        for columna in self.dataframe.columns:
-            if columna == vr:
-                continue
-
-            if columna in lista_num:
-                # Gráfico para vr=0
-                sns.histplot(x=columna, 
-                            data=df_vr_0, 
-                            ax=axes[indice_general], 
-                            color="blue", 
-                            legend=False)
-                axes[indice_general].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
-                indice_general += 1
-
-                # Gráfico para vr=1
-                sns.histplot(x=columna, 
-                            data=df_vr_1, 
-                            ax=axes[indice_general], 
-                            color="orange", 
-                            legend=False)
-                axes[indice_general].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
-                indice_general += 1
-
-            elif columna in lista_cat:
-                num_categorias = self.dataframe[columna].nunique()
-                if num_categorias >= 6:
-                    # Crear nuevo subplot para categorías mayores o iguales a 6
-                    fig_cat, axes_cat = plt.subplots(nrows=1, ncols=2, figsize=(tamano_grafica[0], tamano_grafica[1] // 2))
-
-                    sns.countplot(x=columna, 
-                                data=df_vr_0, 
-                                ax=axes_cat[0], 
-                                color="blue")
-                    axes_cat[0].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
-                    axes_cat[0].tick_params(axis='x', rotation=90)
-
-                    sns.countplot(x=columna, 
-                                data=df_vr_1, 
-                                ax=axes_cat[1], 
-                                color="orange")
-                    axes_cat[1].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
-                    axes_cat[1].tick_params(axis='x', rotation=90)
-
-                    plt.tight_layout()
-                    plt.show()
-                else:
-                    # Gráfico para vr=0
-                    sns.countplot(x=columna, 
-                                data=df_vr_0, 
-                                ax=axes[indice_general], 
-                                color="blue")
-                    axes[indice_general].set_title(f"{columna} (VR=0)", size=tamanio_fuente)
-                    indice_general += 1
-
-                    # Gráfico para vr=1
-                    sns.countplot(x=columna, 
-                                data=df_vr_1, 
-                                ax=axes[indice_general], 
-                                color="orange")
-                    axes[indice_general].set_title(f"{columna} (VR=1)", size=tamanio_fuente)
-                    indice_general += 1
-
-        # Ajustar layout general
-        plt.tight_layout()
-        plt.suptitle("Relación de columnas con VR=0 y VR=1", fontsize=tamanio_fuente + 2)
-        plt.show()
+            plt.tight_layout()
+            plt.suptitle(f"{columna} (>=6 Categorías)", fontsize=tamanio_fuente + 2)
+            plt.show()
 
 
         
