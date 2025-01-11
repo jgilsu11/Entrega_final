@@ -1,0 +1,97 @@
+,Acceso minusválidos,Metros,Plantas,Cal. energética:,Individual,Agua caliente,Consumo,provincia,Exterior,Número de terrazas,Piscina,Pista de tenis,Calefacción,Garajes,Tipo de suelo,Conserje,Pista de fútbol,Gimnasio,Adosado,Año de construcción,Zonas verdes,Armarios,Tipo de fachada,Alarma,Pisos,Permite mascotas,Cal. energética,Ascensor,Campo de golf,Comunidad,Metros útiles,Puerta de seguridad,Aire acondicionado,Pista de pádel,Trastero,Orientación,Pista de squash,Pista de baloncesto,Antigüedad,Pareado,Circuito cerrado de seguridad,Inquilinos,Dormitorios,Baños,Amueblado,Emisiones,Precio,Cocina equipada,Estado
+0,,80,1,,,,,valencia,Si,1,,,,,Mosaico Hidráulico,,,,,1982,Si,,Mono Capa,,4,,,,,,70,,Si,,Si,Oeste,,,Entre 35 y 50 Años,,,,3,1,,,30000,,A reformar
+1,,82,5,,,,,valencia,,1,,,,,,,,,,1970,,,,,10,,,,,,75,,Si,,,Sureste,,,Más de 50 años,,,,3,1,Si,,83000,Si,
+2,,92,4,,,Individual,,valencia,Si,,,,,,Terrazo,,,,,1969,,1,Cemento,,,,,,,"20,00 €",86,,,,,Oeste,,,Más de 50 años,,,,4,1,,,120000,,A reformar
+3,,99,2,Si,,Gas natural,,valencia,Si,2,,,Individual,,Porcelánico,,,,Si,1910,,2,Cemento,,2,,,,,,,Si,,,Si,Sur,,,Más de 50 años,,,,4,3,,,125000,,Perfecto Estado
+4,Si,280,,,,Gas Butano,,valencia,Si,1,,,,,,,,,Si,1910,Si,,,,,Si,,,,,200,,Si,,,Sur,,,Más de 50 años,,,,2,2,Si,,130000,Si,Depende del precio
+5,,70,4,Si,,Individual,,valencia,Si,,,,,,Tarima normal,,,,,1961,,,Cemento,,16,,,,,,62,,,,,Este,,,Más de 50 años,,,,3,1,,,140000,Si,Perfecto Estado
+6,Si,117,6,,,,,valencia,Si,1,,,,,,,,,,1959,,1,,,20,Si,,Si,,,107,,,,,Este,,,Más de 50 años,,,,3,,,,140000,,Depende del precio
+7,Si,115,,Si,,Gas natural,,valencia,Si,2,,,Gas Natural,,Terrazo,,,,,1993,,3,Ladrillo,,,,,Si,,,106,,Si,,,Noroeste,,,Entre 20 y 25 Años,,,,4,2,,,169900,Si,Perfecto Estado
+8,Si,113,5,,,Individual,,valencia,Si,,,,,,,,,,,2000,,2,Ladrillo,,,Si,,Si,,,103,,Si,,Si,Este,,,Entre 20 y 25 Años,,,,4,2,,,190000,Si,Perfecto Estado
+9,,107,4,,,Individual,,valencia,Si,,,,Individual,,Gres,,,,,1973,,1,Ladrillo,,16,,,Si,,"100,00 €",100,,Si,,,Suroeste,,,Más de 50 años,,,,3,2,,,190000,,Perfecto Estado
+10,Si,106,,,,Individual,,valencia,Si,,,,,,,,,,,1972,,,Ladrillo,,,,,Si,,,100,,Si,,,Noreste,,,Más de 50 años,,,,4,2,,,210000,Si,Depende del precio
+11,Si,106,,,,Individual,,valencia,Si,,,,,,,,,,,1956,,,,Si,,,,Si,,,99,,Si,,,Este,,,Más de 50 años,,,,4,1,,,220000,,Depende del precio
+12,,200,2,,Si,,,valencia,Si,2,Si,,,3,Gres,,,,,1993,Si,3,Mono Capa,Si,1,,,,,,160,Si,Si,,,Noreste,,,Mas de 25 Años,,,,7,3,Si,1 Kg CO2/m² año,220000,Si,Depende del precio
+13,Si,117,,,,Gas natural,,valencia,Si,2,,,Eléctrica,,Gres,,,,,1981,,,Ladrillo,,,,,Si,,"27,00 €",114,Si,Si,,,Suroeste,,,Mas de 25 Años,,,,4,2,Si,,225000,Si,Perfecto Estado
+14,,96,8,Si,,Central,,valencia,Si,,,,,,Terrazo,,,,,1977,,,Ladrillo,,18,,,Si,,,86,,,,,Norte,,,Entre 35 y 50 Años,,,,3,2,,,225000,Si,Perfecto Estado
+15,Si,86,,Si,,Individual,,valencia,Si,,,,,,Gres,,,,,2004,,2,,,,,,Si,,,80,Si,Si,,,,,,Entre 15 y 20 Años,,,,2,2,,,229900,,Perfecto Estado
+16,Si,120,,,,,,valencia,Si,,,,,,,,,,,1975,,,,,,,,Si,,,111,,,,,Sur,,,Entre 35 y 50 Años,,,,3,2,,,230000,Si,
+17,Si,94,7,Si,,Gas natural,,valencia,Si,1,,,Central,1,Gres,,,,,1983,,1,Ladrillo,,,,,Si,,,89,,Si,,,Noroeste,,,Mas de 25 Años,,,,3,2,,,237000,Si,Perfecto Estado
+18,Si,87,9,Si,,,,valencia,Si,,,,,,Tarima normal,,,,,1966,,,Ladrillo,,35,,,Si,,,77,,Si,,,Suroeste,,,Más de 50 años,,,,2,2,,,240000,Si,Perfecto Estado
+19,,76,2,Si,,Individual,,valencia,Si,1,,,Individual,,Mosaico Hidráulico,,,,,1920,,,Cemento,,4,,,,,"30,00 €",70,,Si,,,Noroeste,,,Más de 50 años,,,,1,1,,,240000,Si,Perfecto Estado
+20,Si,90,1,,,,,valencia,Si,1,Si,,Individual,2,Gres,Si,,,,2004,Si,3,Mono Capa,,4,,,,,"100,00 €",75,Si,Si,,Si,Este,,,Entre 20 y 25 Años,,,,3,2,Si,,240000,Si,Perfecto Estado
+21,,62,5,,,Central,,valencia,Si,1,,,Eléctrica,,Parquet,,,,,1963,,,,,,,,,,,58,Si,Si,,,Este,,,Más de 50 años,,,,3,1,Si,,250000,Si,Perfecto Estado
+22,Si,90,1,,,,,valencia,Si,2,Si,Si,,1,Gres,,,,,2005,Si,3,Mono Capa,,1,,,Si,,"200,00 €",70,Si,Si,Si,Si,Este,,,Entre 15 y 20 Años,,Si,,3,2,Si,,270000,Si,Perfecto Estado
+23,,317,,,,Individual,,valencia,Si,,,,Individual,1,Parquet,,,,,,,3,,,,,,Si,,,300,Si,Si,,Si,Noroeste,,,Menos de 5 Años,,,,3,2,Si,,350000,Si,Perfecto Estado
+24,,217,,Si,,,3.000 KW h/m² año,valencia,Si,1,,,,1,Parquet,,,,,,,,Cemento,,,,,Si,,,206,Si,Si,,Si,Noreste,,,Menos de 5 Años,,,,4,2,Si,199 Kg CO2/m² año,350000,Si,Perfecto Estado
+25,Si,112,,Si,,,,valencia,Si,,,,Central,1,Parquet,,,,,2017,,4,Ladrillo,Si,,,,Si,,,108,,Si,,Si,,,,Entre 5 y 10 Años,,,,3,2,,,355000,Si,Perfecto Estado
+26,Si,180,6,Si,,Gas natural,,valencia,Si,1,,,Central,1,Gres,,,,,2002,,2,Ladrillo,,,,,Si,,"90,00 €",,Si,Si,,Si,Este,,,Entre 20 y 25 Años,,,,2,2,,,400000,Si,Perfecto Estado
+27,,64,,,,,,valencia,Si,,,,,,,,,,,1958,,,Mono Capa,,8,,,,,,61,,,,,,,,Más de 50 años,,,,3,1,,,45000,,
+28,,52,,Si,,,,valencia,,,,,,,,,,,,,,,Mono Capa,,,,,,,,,,,,,Sur,,,Más de 50 años,,,,,,,,50000,,
+29,Si,64,,Si,,,,valencia,Si,,,,,,Baldosa,,,,,,,,,,,,,,,"27,00 €",50,,,,,Noreste,,,Entre 15 y 20 Años,,,,1,1,,,79000,,A reformar
+30,,80,,Si,,,,valencia,,1,,,,,,,,,,1970,,,Ladrillo,,,,,,,,,,,,,Sur,,,Mas de 25 Años,,,,3,1,,,85000,,
+31,,58,,Si,,Individual,136 KW h/m² año,valencia,Si,1,,,,,Baldosa,,,,,1960,,,Cemento,,,,,,,,57,,Si,,,Este,,,Más de 50 años,,,,1,1,,28 Kg CO2/m² año,89000,,A reformar
+32,,85,,Si,,Individual,,valencia,,,,,,,Gres,,,,,,,,Cemento,,,,,,,"5,00 €",80,,Si,,Si,Sureste,,,Entre 35 y 50 Años,,,,2,1,Si,,90000,Si,Perfecto Estado
+33,,73,4,Si,,,,valencia,,,,,,,Gres,,,,,1969,,,Cemento,,8,,,,,,67,,,,,,,,Más de 50 años,,,,3,1,,,96000,,
+34,,73,4,,,,,valencia,Si,,,,,,Gres,,,,,1969,,3,Cemento,,,,,,,"20,00 €",67,,Si,,,Este,,,Más de 50 años,,,,3,1,,,98000,Si,Perfecto Estado
+35,,67,,Si,,,,valencia,Si,,,,,,,,,,,,,,,,,,,,,,65,,,,,,,,,,,,3,1,Si,,103000,Si,Perfecto Estado
+36,,58,5,,,,,valencia,Si,,,,,,,,,,,1963,,2,,,24,Si,,,,"20,00 €",54,,,,,Oeste,,,Más de 50 años,,,,3,1,Si,,105000,Si,Perfecto Estado
+37,,310,2,Si,Si,Individual,,valencia,Si,1,,,Individual,,Baldosa,,,,,1887,,,Cemento,,,,,,,,290,,Si,,Si,Noroeste,,,,,,,7,2,Si,,115000,Si,
+38,,58,,,,Individual,,valencia,Si,,,,Eléctrica,,Tarima Flotante,,,,,1966,,,Mono Capa,,,,,,,,50,,Si,,,Oeste,,,Más de 50 años,,,,1,1,,,115000,Si,Perfecto Estado
+39,Si,115,,Si,,Individual,,valencia,Si,1,,,Individual,,Porcelánico,,,,,,,,Ladrillo,,,,,Si,,"40,00 €",95,Si,Si,,,Sureste,,,Entre 10 y 15 Años,,,,3,2,Si,,119000,Si,Perfecto Estado
+40,,67,,Si,,,,valencia,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,Mas de 25 Años,,,,3,1,,,120000,,
+41,,80,,Si,,,,valencia,Si,1,,,,,,,,,,,,,,,,,,Si,,,78,,Si,,,,,,,,,,2,1,Si,,125000,Si,Perfecto Estado
+42,,60,,Si,,,,valencia,,,,,,,Gres,,,,,1958,,1,Cemento,,,,,Si,,,51,,,,,,,,Mas de 25 Años,,,,2,1,,,130000,Si,Perfecto Estado
+43,,92,5,,,Individual,,valencia,Si,,,,,,Porcelánico,,,,,1964,,,Ladrillo,,5,,,,,,87,,Si,,,Suroeste,,,Mas de 25 Años,,,,4,1,,,130000,Si,Perfecto Estado
+44,,82,4,,,Individual,,valencia,Si,1,,,,,Gres,,,,,1968,,1,Ladrillo,,,,,,,"10,00 €",78,,Si,,,Noroeste,,,Más de 50 años,,,,3,1,,,135000,Si,Perfecto Estado
+45,,59,4,,,Central,,valencia,Si,,,,,,Baldosa,,,,,1890,,,,,7,,,,,,57,,,,,Oeste,,,,,,,3,1,,,140000,,A reformar
+46,,148,1,,Si,,,valencia,Si,,Si,,,1,Baldosa,,,,,1972,Si,,Otros materiales,,,,,,,,104,,,,Si,Sureste,,,Más de 50 años,,,,4,1,Si,,140000,Si,Depende del precio
+47,,65,,Si,Si,Placas Solares,,valencia,Si,,,,,,Parquet,,,,,,,,,,,,,,,,55,,Si,,Si,,,,Menos de 5 Años,,,,2,1,Si,,140000,Si,Perfecto Estado
+48,Si,109,4,,,Gas natural,,valencia,Si,1,,,,1,Gres,,,,,1979,,,Ladrillo,,,,,Si,,,108,,,,,Suroeste,,,Mas de 25 Años,,,,3,1,,,150000,,Depende del precio
+49,Si,96,11,,,,,valencia,Si,,,,,,,,,,,1977,,,Ladrillo,,44,,,Si,,,94,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,150000,,Perfecto Estado
+50,,109,,Si,,Individual,,valencia,Si,1,,,Individual,,Porcelánico,,,,,,,,Cemento,,,,,Si,,"45,00 €",106,Si,Si,,,Sureste,,,Entre 35 y 50 Años,,,,3,2,,,152000,Si,Perfecto Estado
+51,,75,5,Si,,,,valencia,,,,,,,Tarima Flotante,,,,,,,,,,,,,Si,,,47,,Si,,Si,,,,,,,,1,1,Si,,155000,Si,Perfecto Estado
+52,,80,2,,Si,,,valencia,Si,1,,,,,Gres,,,,,1918,,1,Cemento,,2,,,,,,70,,,,,Oeste,,,Más de 50 años,,,,2,1,,,155000,,A reformar
+53,Si,135,,Si,,Individual,,valencia,Si,1,,,Individual,1,Gres,,,,,,,,Cemento,,,,,Si,,"50,00 €",130,Si,Si,,,Sureste,,,Entre 35 y 50 Años,,,,3,2,Si,,156000,Si,Perfecto Estado
+54,,130,,,Si,Individual,23 KW h/m² año,valencia,Si,,Si,,Eléctrica,2,Gres,,,,,,Si,,Mono Capa,Si,,,,,,,110,,,,Si,Este,,,Entre 35 y 50 Años,,Si,,4,1,Si,,159000,Si,Perfecto Estado
+55,Si,60,,Si,,Individual,,valencia,Si,1,,,Aerotermia,1,Parquet,,,,,1970,,4,Ladrillo,,,,,Si,,"40,00 €",59,Si,Si,,,Noreste,,,Más de 50 años,,Si,,1,1,,,162000,,Perfecto Estado
+56,,181,,Si,Si,,,valencia,Si,1,Si,,,,,,,,,,,,,,,,,,,,180,,,,Si,,,,,,,,4,1,Si,,165000,Si,A reformar
+57,,72,,,,,,valencia,,,,,,,,,,,,1950,,2,,,,,,,,"25,00 €",55,,Si,,,,,,Más de 50 años,,,,2,1,,,165000,,
+58,Si,93,7,Si,,Individual,,valencia,Si,1,,,,,Gres,,,,,1972,,1,Cemento,,,,,Si,,,,Si,Si,,,Noroeste,,,Más de 50 años,,,,3,1,,,169000,Si,
+59,,97,7,,,Central,,valencia,Si,1,,,Central,,Gres,,,,,1984,,1,Ladrillo,,14,,,Si,,,88,Si,Si,,,,,,Más de 50 años,,,,3,1,,,170000,Si,Perfecto Estado
+60,Si,40,5,,,,,valencia,,,,,,,,,,,,1967,,2,,,,,,,,,37,,Si,,,Norte,,,Más de 50 años,,,,1,1,Si,,170000,Si,Perfecto Estado
+61,,40,,Si,,,,valencia,Si,,,,,,Porcelánico,,,,,,,,Ladrillo,,,,,Si,,,35,,Si,,,,,,,,,,1,1,Si,,174000,Si,Perfecto Estado
+62,,90,,Si,,,,valencia,Si,1,,,,,,,,,,,,,,,,,,Si,,,85,,,,,,,,,,,,3,1,,,175000,Si,A reformar
+63,,93,,Si,,,,valencia,Si,1,,,,,,,,,,,,,,,,,,,,,90,,,,,Norte,,,Entre 10 y 15 Años,,,,3,2,Si,,185000,Si,Perfecto Estado
+64,Si,108,,Si,,,,valencia,Si,,,,,1,Gres,,,,,1976,Si,,Cemento,,,,,Si,,"50,00 €",107,,Si,,,Norte,,,Entre 35 y 50 Años,,,,3,2,Si,,189000,Si,Perfecto Estado
+65,,67,,,,,,valencia,Si,,,,Eléctrica,,,,,,,,,1,,,,,,,,,62,,Si,,,Este,,,Más de 50 años,,,,1,1,,,195000,Si,Perfecto Estado
+66,,60,5,Si,,Central,,valencia,Si,,,,Eléctrica,,Gres,,,,,1965,,,Cemento,,,,,,,,,Si,Si,,Si,Norte,,,Entre 35 y 50 Años,,,,2,1,,,210000,Si,Perfecto Estado
+67,Si,100,5,Si,,,,valencia,Si,1,,,,,Gres,,,,,1970,,,Cemento,,,,,Si,,,,,Si,,,Oeste,,,Entre 35 y 50 Años,,,,4,1,,,210000,,Perfecto Estado
+68,,60,,,,,,valencia,Si,,,,,,Tarima normal,,,,,1964,,,,,,,,,,,53,,Si,,,Sureste,,,Más de 50 años,,,,2,1,,,215000,,Perfecto Estado
+69,,52,3,,,Individual,,valencia,Si,,,,,,,,,,,1900,,,,,6,,,,,,48,,Si,,,Este,,,,,,,1,1,,,220000,,Perfecto Estado
+70,,70,,Si,,,,valencia,Si,1,,,,,,,,,,,,,,,,,,,,,68,,,,,Este,,,,,,,3,1,Si,,220000,Si,Perfecto Estado
+71,,77,1,Si,,Individual,,valencia,Si,1,,,Eléctrica,,Terrazo,,,,Si,1910,Si,,Cemento,,,,,,,,75,,Si,,,Sur,,,Más de 50 años,,,,1,1,,,229000,Si,Depende del precio
+72,,78,,Si,,Individual,,valencia,Si,,,,Eléctrica,,Gres,,,,,1952,,,,,,,,,,"60,00 €",71,,Si,,,Sur,,,Más de 50 años,,,,2,1,Si,,230000,Si,Perfecto Estado
+73,Si,100,,Si,,,,valencia,Si,1,,,,,Tarima Flotante,,,,,,,,,,,,,Si,,,98,,Si,,,,,,Entre 35 y 50 Años,,,,3,1,,,230000,Si,Perfecto Estado
+74,Si,65,,,,Central,,valencia,,,,,Gas Natural,1,Terrazo,,,,,1980,,4,,,,,,Si,,,58,,Si,,,Suroeste,,,Entre 35 y 50 Años,,,,2,1,,,235000,,
+75,,117,,,,,,valencia,Si,,,,,,Porcelánico,,,,,,,,Mono Capa,,,,,Si,,,106,Si,Si,,Si,Noreste,,,Menos de 5 Años,,,,4,2,Si,,235000,,Perfecto Estado
+76,,117,,,,,,valencia,Si,,,,,,Parquet,,,,,,,,,,,,,Si,,,105,Si,Si,,Si,Noreste,,,Menos de 5 Años,,,,4,2,Si,,235000,,Perfecto Estado
+77,Si,76,8,Si,,Individual,,valencia,Si,,,,,,Tarima normal,,,,,1963,,,Cemento,,,,,Si,,,,,,,,Sur,,,Entre 35 y 50 Años,,,,3,3,Si,,239000,Si,Perfecto Estado
+78,,117,,,,,,valencia,Si,,,,,,Porcelánico,,,,,,,,Mono Capa,,,,,Si,,,106,Si,Si,,Si,Noroeste,,,Menos de 5 Años,,,,3,2,Si,,240000,Si,Perfecto Estado
+79,,117,,,,,,valencia,Si,,,,,,Porcelánico,,,,,,,,,,,,,Si,,,106,Si,Si,,Si,,,,Menos de 5 Años,,,,4,2,Si,,245000,,Perfecto Estado
+80,,110,6,,,Central,,valencia,Si,,,,,,,,,,,1974,,,Mono Capa,,,,,Si,,,104,Si,,,,,,,,,,,3,1,Si,,250000,Si,Perfecto Estado
+81,,103,,,,Gas natural,,valencia,,2,,,Individual,,Gres,,,,,2001,,3,Ladrillo,,16,,,Si,,,90,,,,,,,,Entre 20 y 25 Años,,,,3,2,,,250000,,A reformar
+82,,90,,Si,,Gas natural,,valencia,Si,1,,,Gas Natural,,Terrazo,,,,,1979,,2,Ladrillo,,,,,Si,,,87,,Si,,Si,Norte,,,Mas de 25 Años,,,,3,1,,,250000,Si,Perfecto Estado
+83,,108,,,,,,valencia,,,,,,,Porcelánico,,,,,,,4,,,,,,Si,,,98,Si,Si,,,,,,Menos de 5 Años,,,,3,2,Si,,250000,Si,Perfecto Estado
+84,,108,,,,,,valencia,,,,,,,Porcelánico,,,,,,,4,,,,,,Si,,,108,Si,Si,,,Noreste,,,Menos de 5 Años,,,,3,2,,,255000,Si,Perfecto Estado
+85,,108,,,,,,valencia,Si,,,,,,Porcelánico,,,,,,,,,,,,,Si,,,98,Si,,,Si,Noreste,,,Menos de 5 Años,,,,3,2,Si,,260000,Si,Perfecto Estado
+86,,59,4,,,Individual,,valencia,Si,,,,,,Otros,,,,,1930,,1,,,,,,Si,,"50,00 €",51,,Si,,,Oeste,,,Más de 50 años,,,,1,1,,,270000,,Perfecto Estado
+87,,96,,Si,,,,valencia,Si,,,,,,Porcelánico,,,,,,,,,,,,,,,,,,,,,Oeste,,,Más de 50 años,,,,3,1,,,275000,,
+88,Si,89,8,Si,,Individual,,valencia,Si,1,,,,,Baldosa,,,,,1959,,1,Ladrillo,,15,,,Si,,,,Si,Si,,,Oeste,,,Más de 50 años,,,,3,1,,,275000,Si,Perfecto Estado
+89,,4900,,Si,Si,Individual,,valencia,Si,,Si,,,,Baldosa,,,,,2008,Si,,Otros materiales,,,,,,,,,,,,,,,,Entre 15 y 20 Años,,,,3,1,,,275000,Si,Perfecto Estado
+90,,150,,Si,,,,valencia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,280000,,Perfecto Estado
+91,,111,,Si,,,,valencia,Si,,,,,,,,,,,,,,,,,,,Si,,,110,,Si,,,Oeste,,,,,,,4,1,Si,,280000,Si,Perfecto Estado
+92,,93,,Si,,,,valencia,Si,1,,,,,,,,,,,,,,,,,,Si,,,92,,,,,Oeste,,,,,,,3,1,Si,,280000,Si,Perfecto Estado
+93,Si,294,,Si,Si,Individual,,valencia,Si,3,Si,,Individual,1,Gres,,,,,,Si,,Piedra,Si,,,,,,"33,00 €",235,Si,Si,,Si,Sureste,,,Entre 15 y 20 Años,,Si,,6,4,Si,,290000,Si,Perfecto Estado
+94,,89,,Si,,,,valencia,Si,,Si,Si,,1,,,,,,1989,Si,1,Mono Capa,,,,,,,,87,,,,,Norte,,,Entre 25 y 35 años,Si,Si,,5,2,,,315000,,Perfecto Estado
+95,Si,90,,Si,,,,valencia,Si,2,,,,,,Si,,,,2003,,,Ladrillo,,,,,Si,,,85,,,,,,,,,,,,3,2,Si,,319000,Si,Perfecto Estado

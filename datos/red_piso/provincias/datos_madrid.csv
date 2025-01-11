@@ -1,0 +1,349 @@
+,Acceso minusválidos,Metros,Plantas,Cal. energética:,Individual,Agua caliente,Consumo,provincia,Exterior,Número de terrazas,Piscina,Pista de tenis,Calefacción,Garajes,Tipo de suelo,Conserje,Pista de fútbol,Gimnasio,Adosado,Año de construcción,Zonas verdes,Armarios,Tipo de fachada,Alarma,Pisos,Permite mascotas,Cal. energética,Ascensor,Campo de golf,Comunidad,Metros útiles,Puerta de seguridad,Aire acondicionado,Pista de pádel,Trastero,Orientación,Pista de squash,Pista de baloncesto,Antigüedad,Pareado,Circuito cerrado de seguridad,Inquilinos,Dormitorios,Baños,Amueblado,Emisiones,Precio,Cocina equipada,Estado
+0,,64,,,,Individual,,madrid,Si,,,,,,Tarima normal,,,,,1962,,,,,,,,,,,60,,Si,,,,,,Más de 50 años,,,,2,1,,,106500,,Perfecto Estado
+1,,88,5,Si,,,,madrid,Si,1,,,Eléctrica,,Terrazo,,,,,1978,,1,,Si,,,,Si,,"70,00 €",70,Si,Si,,,,,,Entre 35 y 50 Años,,,,3,1,,,115000,,Perfecto Estado
+2,,37,2,Si,,Individual,111 KW h/m² año,madrid,Si,,,,Eléctrica,,Gres,,,,,1965,,1,Ladrillo,,6,,,,,,34,Si,,,,Sur,,,Más de 50 años,,,,1,1,,18 Kg CO2/m² año,120000,Si,Perfecto Estado
+3,,33,2,Si,,Individual,145 KW h/m² año,madrid,,,,,Eléctrica,,Gres,,,,,1965,,1,Ladrillo,,6,,,,,,30,Si,,,,Oeste,,,Más de 50 años,,,,1,1,,24 Kg CO2/m² año,120000,,Perfecto Estado
+4,Si,75,4,,,Individual,,madrid,Si,1,,,Individual,,Sintasol,,,,,1976,,3,,,16,,,Si,,"70,00 €",69,Si,Si,,,Sureste,,,Entre 35 y 50 Años,,,,2,1,,,125000,,A reformar
+5,,61,,,,Individual,,madrid,Si,,,,,,Tarima Flotante,,,,,,,,,,,,,,,,57,,,,,,,,Más de 50 años,,,,3,1,,,127500,,Perfecto Estado
+6,,101,,,,Gas natural,,madrid,Si,2,,,Gas Natural,,,,,,,1970,,,,,,,,,,,81,Si,Si,,Si,,,,Más de 50 años,,,,3,1,,,129000,,
+7,,34,2,Si,,Individual,104 KW h/m² año,madrid,Si,,,,Eléctrica,,Gres,,,,,1965,,1,Ladrillo,,6,,,,,,31,Si,,,,Sur,,,Más de 50 años,,,,1,1,,17 Kg CO2/m² año,130000,,Perfecto Estado
+8,Si,48,,Si,,Gas natural,,madrid,Si,1,,,Gas Natural,,Parquet,Si,,,,1969,,1,Ladrillo,,,,,Si,,,40,,,,Si,Sur,,,Más de 50 años,,,,1,1,,,135000,,A reformar
+9,,51,,Si,,,,madrid,Si,,,,Eléctrica,,Tarima normal,,,,,,,,Ladrillo,,,,,,,,,Si,Si,,,,,,Entre 35 y 50 Años,,,,2,1,,,137260,Si,Perfecto Estado
+10,,62,,,,Gas natural,,madrid,Si,,,,Gas Natural,,Gres,,,,,,,,,,,,,Si,,,60,,Si,,,,,,Más de 50 años,,,,3,1,,,137500,,Perfecto Estado
+11,,35,2,Si,,Individual,88 KW h/m² año,madrid,Si,,,,Eléctrica,,Gres,,,,,1965,,1,Ladrillo,,6,,,,,,28,Si,,,,Suroeste,,,Más de 50 años,,,,1,1,,14 Kg CO2/m² año,140000,,Perfecto Estado
+12,,66,4,,,Individual,,madrid,Si,,,,Individual,,Gres,,,,,1975,,1,,,8,,,,,"63,00 €",60,Si,,,,Norte,,,Entre 35 y 50 Años,,,,2,1,Si,,142000,Si,A reformar
+13,,67,,,,Gas Butano,,madrid,Si,1,,,,,Gres,,,,,1966,,,,,,,,,,"30,00 €",65,,Si,,,,,,Más de 50 años,,,,2,1,,,142500,,A reformar
+14,,39,,Si,,,600 KW h/m² año,madrid,,,,,Eléctrica,,Tarima normal,,,,,,,,,,,,,,,,33,,,,,,,,Mas de 25 Años,,,,1,1,,149 Kg CO2/m² año,144000,,Perfecto Estado
+15,,33,5,Si,,Individual,,madrid,,,,,Eléctrica,,Gres,,,,,1923,,,Cemento,,50,,,,,,25,Si,Si,,,,,,Más de 50 años,,,,1,1,,,149000,,Depende del precio
+16,,52,5,Si,,Gas natural,,madrid,,1,,,Gas Natural,,Gres,,,,,1956,,,Ladrillo,Si,18,,,,,"57,00 €",41,,,,,Norte,,,Más de 50 años,,,,2,1,,,149000,Si,
+17,,72,,Si,,Individual,,madrid,Si,,,,Eléctrica,,Gres,,,,,,,,,,,,,,,,58,Si,,,,Sur,,,,,,,3,1,,,149900,,Perfecto Estado
+18,Si,73,,,,Individual,,madrid,Si,,,,Individual,,Gres,,,,,1973,,1,,,,,,,,"100,00 €",70,Si,Si,,,Suroeste,,,Entre 35 y 50 Años,,,,3,1,,,151000,Si,
+19,,67,,Si,,Central,,madrid,,,,,Central,,Baldosa,,,,,1966,,,,,,,,,,"150,00 €",,,,,Si,,,,Entre 35 y 50 Años,,,,3,1,Si,,152260,Si,Perfecto Estado
+20,,68,,Si,,Gas natural,,madrid,Si,1,,,Gas Natural,,Baldosa,,,,,1950,,,,,,,,,,"60,00 €",63,,,,,,,,Más de 50 años,,,,3,1,,,159000,,Depende del precio
+21,,81,3,Si,,,,madrid,,1,,,Individual,,,,,,,1965,,,Ladrillo,,8,,,,,,69,Si,Si,,,,,,,,,,2,1,,,159000,Si,Depende del precio
+22,Si,63,,Si,,,,madrid,Si,,,,,,,,,,,,,,,,,,,,,,52,,,,,,,,Más de 50 años,,,,2,1,,,160000,,Perfecto Estado
+23,,70,4,Si,,Individual,389 KW h/m² año,madrid,Si,1,,,Gas Natural,,Tarima Flotante,,,,,1962,,,Ladrillo,,12,,,,,"50,00 €",57,,,,,Noroeste,,,Más de 50 años,,,,3,1,,82 Kg CO2/m² año,165000,Si,
+24,,43,,Si,,,,madrid,Si,,,,,,,,,,,,,,,,,,,,,,36,,,,,,,,Más de 50 años,,,,1,1,,,165000,,Perfecto Estado
+25,,45,,Si,,,,madrid,Si,,,,,,,,,,,,,,,,,,,,,,38,,,,,,,,Más de 50 años,,,,1,1,,,165000,,Perfecto Estado
+26,,72,,Si,,Gas natural,,madrid,,,,,Gas Natural,,Gres,,,,,,,3,,,,,,,,,58,,,,,Este,,,Entre 35 y 50 Años,,,,3,1,,,166900,,Perfecto Estado
+27,,58,2,,,Individual,,madrid,Si,,,,Gas Natural,,Gres,,,,,1960,,,,,,,,Si,,,52,,Si,,,,,,Entre 35 y 50 Años,,,,1,1,,,167500,,
+28,,79,,Si,,Individual,,madrid,Si,,,,Gas Natural,,Tarima normal,,,,,,,2,,,,,,,,,64,Si,Si,,,Noreste,,,,,,,3,1,,,169900,,Perfecto Estado
+29,,96,4,,,Individual,,madrid,Si,1,,,Gas Natural,,Gres,,,,,1969,,,Ladrillo,,10,,,,,"35,00 €",89,,,,,Sur,,,Entre 35 y 50 Años,,,,3,1,,,172500,,Depende del precio
+30,,64,,,,Individual,,madrid,Si,,,,Eléctrica,,Tarima normal,,,,,1967,,,Ladrillo,,,,,,,"90,00 €",62,Si,,,,,,,Más de 50 años,,,,2,1,,,172500,Si,Perfecto Estado
+31,,76,4,Si,,Individual,,madrid,Si,1,,,Gas Natural,,Parquet,,,,,1987,,1,Ladrillo,,,,,,,"80,91 €",67,Si,,,,Este,,,Entre 35 y 50 Años,,,,2,2,,,174000,Si,Perfecto Estado
+32,,67,,Si,,Individual,,madrid,Si,1,,,Gas Natural,,Gres,,,,,,,4,,,,,,Si,,"60,00 €",54,Si,,,,Sur,,,,,,,3,1,,,174900,,Perfecto Estado
+33,,75,,Si,Si,Individual,,madrid,Si,,,,Gas Natural,,Terrazo,,,,,,,,,,,,,,,,60,,,,,Noreste,,,,,,,3,1,,,176900,,Perfecto Estado
+34,,66,4,Si,,Individual,,madrid,Si,1,,,Gas Natural,,Parquet,,,,,,,1,Ladrillo,,4,,,,,,53,Si,Si,,,Sur,,,Mas de 25 Años,,,,3,1,,,176900,Si,Perfecto Estado
+35,Si,89,7,Si,,Central,,madrid,Si,1,,,Central,,Parquet,,,,,1982,Si,2,Ladrillo,Si,,,,Si,,"145,00 €",81,,Si,,,Noroeste,,,Entre 35 y 50 Años,,,,3,1,Si,,179500,Si,Perfecto Estado
+36,,76,,Si,,Individual,,madrid,Si,1,,,Gas Natural,,Parquet,,,,,,,2,,,,,,,,"60,00 €",61,Si,Si,,,Oeste,,,,,,,3,1,,,179900,,Perfecto Estado
+37,,68,4,Si,,,,madrid,Si,1,,,,,Porcelánico,,,,,1950,,2,,,,,,,,"60,00 €",63,,Si,,,Sureste,,,Más de 50 años,,,,2,1,,,180000,,Perfecto Estado
+38,,68,,Si,,,,madrid,Si,,,,,,,,,,,,,,,,,,,,,,53,,,,,,,,,,,,3,1,,,180000,,Perfecto Estado
+39,,70,,Si,,Individual,,madrid,Si,,,,Gas Natural,,Gres,,,,,,,,,,,,,,,"70,00 €",56,Si,Si,,,Este,,,,,,,3,1,,,184900,,Perfecto Estado
+40,,101,,Si,,Individual,,madrid,Si,1,,,Individual,,Tarima Flotante,,,,,1971,,1,Ladrillo,,,,,,,,69,Si,Si,,Si,,,,Entre 35 y 50 Años,,,,2,1,Si,,185000,Si,Perfecto Estado
+41,,64,,Si,,Gas natural,,madrid,Si,1,,,Gas Natural,,Parquet,,,,,1960,,,Ladrillo,,,,,,,"40,00 €",51,,Si,,,,,,Más de 50 años,,,,2,1,,,185000,Si,Perfecto Estado
+42,Si,75,5,Si,,Individual,,madrid,Si,1,,,Gas Natural,,Gres,,,,,,,,,,4,,,Si,,,60,Si,,,,,,,,,,,3,1,,,186900,,Perfecto Estado
+43,,63,,Si,,Individual,,madrid,Si,1,,,,,Parquet,,,,,,,1,,,,,,,,,61,Si,,,,,,,Entre 35 y 50 Años,,,,3,1,,,187300,Si,Perfecto Estado
+44,,81,,,,Gas natural,,madrid,Si,,,,Gas Natural,,Tarima Flotante,,,,,1967,,,,,,,,,,,74,,Si,,,,,,Más de 50 años,,,,2,2,,,187500,,Perfecto Estado
+45,,73,,Si,,,332 KW h/m² año,madrid,Si,1,,,Individual,,Tarima normal,,,,,,,,,,,,,,,"40,00 €",72,,,,,,,,Más de 50 años,,,,3,1,,70 Kg CO2/m² año,187500,,
+46,,75,,Si,,Individual,352 KW h/m² año,madrid,,1,,,Gas Natural,,Gres,,,,,1968,,,,,,,,,,"45,00 €",68,,Si,,,,,,Más de 50 años,,,,3,1,,74 Kg CO2/m² año,187500,,Perfecto Estado
+47,,85,,,,Gas natural,,madrid,Si,1,,,Gas Natural,,Parquet,,,,,1992,,3,Ladrillo,,,,,,,"40,00 €",75,Si,,,Si,Este,,,Entre 25 y 35 años,,,,3,1,,,188000,,Perfecto Estado
+48,Si,77,5,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Tarima normal,,,,,,,1,,,19,,,,,,62,Si,Si,,,Este,,,,,,,2,1,,,189900,,Perfecto Estado
+49,Si,93,10,Si,,Central,,madrid,Si,2,,,Central,,Parquet,,,,,,,,,,4,,,Si,,,75,Si,,,,Sur,,,Entre 35 y 50 Años,,,,3,2,,,189900,,Perfecto Estado
+50,,94,,Si,,Gas natural,231 KW h/m² año,madrid,,1,,,Individual,1,Gres,,,,,2004,,1,Ladrillo,,,,,,,"50,00 €",48,,Si,,Si,Norte,,,Entre 15 y 20 Años,,,,1,1,,48 Kg CO2/m² año,189900,,Depende del precio
+51,,67,,Si,,,,madrid,Si,,,,Gas Natural,,Tarima Flotante,,,,,1960,,,Ladrillo,,,,,,,"30,00 €",53,,Si,,,,,,Más de 50 años,,,,2,1,,,190000,,Perfecto Estado
+52,,71,9,Si,,Central,,madrid,Si,,,,Central,,Tarima normal,,,,,,,1,,,4,,,Si,,"120,00 €",56,,,,,Oeste,,,,,,,3,1,,,196900,,Perfecto Estado
+53,Si,70,,Si,,Individual,,madrid,,,,,,1,Tarima normal,,,,,,,2,,,,,,Si,,,56,,,,,Norte,,,Entre 35 y 50 Años,,,,3,1,,,198900,,Perfecto Estado
+54,,76,,,,Individual,,madrid,Si,2,,,Individual,,,,,,,1962,,,,,,,,,,,61,,,,,,,,Más de 50 años,,,,3,1,Si,,200000,Si,Perfecto Estado
+55,Si,90,7,,,Central,,madrid,Si,1,,,Central,,Porcelánico,,,,,1974,,1,,,28,,,Si,,"147,00 €",85,Si,,,Si,Noreste,,,Entre 35 y 50 Años,,,,3,1,,,204900,Si,Depende del precio
+56,Si,90,,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Gres,,,,,,,3,Ladrillo,,,,,Si,,,,Si,Si,,,,,,Entre 35 y 50 Años,,,,3,1,,,207260,Si,Perfecto Estado
+57,,74,,Si,,,,madrid,Si,,,,Gas Natural,,Tarima Flotante,,,,,,Si,,,,,,,,,"50,00 €",59,,Si,,,Sureste,,,,,,,3,1,,,209000,,
+58,Si,106,7,Si,,Gas natural,,madrid,Si,1,,,Gas Natural,,Tarima normal,,,,,1972,,2,,,28,,,Si,,"75,00 €",90,Si,Si,,Si,Sureste,,,Más de 50 años,,,,3,1,Si,,210000,Si,Perfecto Estado
+59,,65,5,Si,,Individual,,madrid,,1,,,Gas Natural,,Sintasol,,,,,,,,,,25,,,,,,59,,,,,,,,Más de 50 años,,,,3,1,,,210000,,
+60,,115,4,Si,,Individual,213 KW h/m² año,madrid,Si,1,,,,1,Gres,Si,,,,1999,Si,,Mono Capa,,6,,,Si,,"68,00 €",71,Si,Si,,Si,Oeste,,,Entre 20 y 25 Años,,,,2,2,,39 Kg CO2/m² año,210000,Si,Perfecto Estado
+61,Si,111,5,,,Gas natural,,madrid,Si,,,,Individual,1,Gres,Si,,,,2008,Si,2,,,20,,,Si,,"54,00 €",75,Si,Si,,,Sureste,,,Entre 15 y 20 Años,,Si,,2,2,,,214000,Si,
+62,Si,75,4,Si,,Individual,,madrid,Si,1,,,Gas Natural,,Gres,,,,,,,,,,4,,,Si,,,60,Si,Si,,,,,,,,,,3,1,,,216900,,Perfecto Estado
+63,,76,,Si,,Central,,madrid,Si,1,,,Central,,Gres,,,,,,,1,,,,,,Si,,,63,Si,,,,Oeste,,,,,,,3,1,,,216900,,Perfecto Estado
+64,,72,3,Si,,Gas natural,346 KW h/m² año,madrid,Si,2,,,Gas Natural,,Gres,,,,,1974,,1,,Si,6,,,,,"50,00 €",65,Si,Si,,,Noroeste,,,Más de 50 años,,,2,3,1,,66 Kg CO2/m² año,218000,Si,
+65,,89,,,Si,,,madrid,,,,,,,Tarima normal,,,,,,,,,,,,,,,,71,,Si,,,,,,,,,,3,2,,,218000,,Perfecto Estado
+66,Si,77,3,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Tarima Flotante,Si,,,,2009,Si,3,Ladrillo,,2,,,Si,,"91,00 €",64,,Si,,Si,Noroeste,,,Entre 15 y 20 Años,,,,2,2,,,219000,,Perfecto Estado
+67,Si,87,7,,,Individual,,madrid,Si,,,,Individual,,Porcelánico,,,,,1975,,3,,,56,,,Si,,"70,00 €",80,Si,,,Si,Noreste,,,Entre 35 y 50 Años,,,,3,1,,,220000,Si,Perfecto Estado
+68,,123,,Si,,Gas natural,72 KW h/m² año,madrid,Si,1,,,Gas Natural,1,Tarima normal,,,,,2003,,,,,,,,,,,,,Si,,,,,,Entre 20 y 25 Años,,,,2,2,,15 Kg CO2/m² año,220000,Si,Perfecto Estado
+69,,82,5,Si,,Gas Butano,,madrid,Si,,,,,,Gres,,,,,1975,Si,,Ladrillo,,4,,,Si,,"50,00 €",73,,,,,Sur,,,Entre 35 y 50 Años,,,,3,1,,,220000,,
+70,,79,,Si,,,,madrid,Si,,,,Eléctrica,,Parquet,,,,,1960,,,Ladrillo,,,,,Si,,,73,,Si,,Si,,,,Más de 50 años,,,,3,1,,,220000,,
+71,,100,10,Si,,Gas natural,,madrid,Si,2,,,Gas Natural,,Parquet,,,,,1983,,3,Mono Capa,,2,,,Si,,"60,00 €",83,,,,,,,,Entre 35 y 50 Años,,,,3,2,,,225000,,Perfecto Estado
+72,Si,95,10,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Gres,,,,,,,3,Ladrillo,,,,,Si,,,,Si,Si,,,,,,Entre 35 y 50 Años,,,,3,1,,,227260,Si,Perfecto Estado
+73,,70,4,Si,,Gas natural,190 KW h/m² año,madrid,Si,1,,,Gas Natural,,Tarima normal,,,,,,,,,,,,,,,"40,00 €",,,Si,,,Oeste,,,,,,,3,1,,50 Kg CO2/m² año,229000,,Depende del precio
+74,,35,,Si,,Individual,367 KW h/m² año,madrid,,,,,Individual,,Parquet,,,,,1917,,2,Ladrillo,,,,,,,"45,00 €",,,,,,,,,Más de 50 años,,,,2,1,,76 Kg CO2/m² año,230000,,A reformar
+75,Si,73,12,Si,,Individual,,madrid,Si,,,,Eléctrica,,Tarima Flotante,,,,,1965,,1,Ladrillo,,,,,Si,,"45,00 €",60,Si,Si,,Si,Sur,,,Más de 50 años,,,,1,1,Si,,230000,Si,Perfecto Estado
+76,,187,2,Si,,Individual,,madrid,,2,,,Individual,,Terrazo,,,,Si,1976,,1,Ladrillo,,,,,,,,170,,,,,,,,Entre 35 y 50 Años,,,,5,1,,,237990,,Depende del precio
+77,,65,,Si,,Individual,,madrid,Si,1,,,Eléctrica,,Tarima normal,,,,,1970,,,Ladrillo,,,,,,,,60,,,,,,,,Entre 35 y 50 Años,,,,2,1,,,238000,Si,Perfecto Estado
+78,,84,,,,Individual,,madrid,Si,1,,,Gas Natural,,Parquet,,,,,1966,,,,,,,,Si,,"65,00 €",78,,Si,,,,,,Más de 50 años,,,,3,1,,,238500,Si,Perfecto Estado
+79,Si,119,5,Si,,Individual,,madrid,Si,1,,,Gas Natural,1,Gres,,,,,,Si,4,,,20,,,Si,,,95,Si,,,,,,,,,,,3,2,,,239900,,Perfecto Estado
+80,,87,4,Si,,Individual,,madrid,,,,,Gas Natural,,Gres,,,,,1953,,,Cemento,,20,,,,,,75,,Si,,,,,,Más de 50 años,,,,3,1,,,240000,,Perfecto Estado
+81,,70,,Si,,,,madrid,,2,,,,,,,,,,,,,,,,,,Si,,,51,,,,,,,,Más de 50 años,,,,3,1,,,240000,,
+82,Si,118,3,Si,,Individual,,madrid,,1,Si,,Eléctrica,1,Parquet,,,,,2001,Si,4,Ladrillo,Si,6,,,,,"90,00 €",98,,Si,,Si,,,,Entre 20 y 25 Años,,,,3,2,,,244990,Si,Depende del precio
+83,,101,,Si,,,,madrid,,,,,Individual,1,Parquet,,,,,1983,,5,Ladrillo,,,,,,,"70,00 €",95,,Si,,Si,Este,,,Entre 35 y 50 Años,,,,3,2,,,245000,Si,Depende del precio
+84,,94,,Si,,Individual,174 KW h/m² año,madrid,,,,,Eléctrica,,Gres,Si,,,,1900,,,Mono Capa,,,,,,,"32,93 €",64,,,,,,,,Más de 50 años,,,,2,1,,35 Kg CO2/m² año,249000,,Perfecto Estado
+85,Si,91,10,Si,,Individual,,madrid,Si,,,,Gas Natural,,Tarima normal,,,,,,Si,1,,,40,,,Si,,,73,Si,Si,,,,,,,,,,3,1,,,249900,,Perfecto Estado
+86,Si,161,9,,,Gas natural,,madrid,Si,,,,Gas Natural,1,Tarima normal,Si,,,,2011,,2,,,36,,,Si,,"50,00 €",110,Si,Si,,Si,Este,,,Entre 10 y 15 Años,,,,2,2,,,250000,Si,Perfecto Estado
+87,,77,6,Si,,Individual,,madrid,Si,1,,,,,Tarima normal,,,,,1961,,,Ladrillo,,,,,Si,,,65,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,250000,,Perfecto Estado
+88,,73,,,Si,Individual,,madrid,Si,1,,,Eléctrica,1,Gres,,,,,2022,,,Cemento,,,,,,,,66,Si,,,,,,,Menos de 5 Años,,,,3,3,,,250000,,Perfecto Estado
+89,Si,122,10,,,Individual,,madrid,Si,1,,,Individual,,Tarima normal,,,,,1983,,1,,,40,,,Si,,"100,00 €",115,Si,,,,Sureste,,,Entre 35 y 50 Años,,,,4,2,,,255000,Si,Perfecto Estado
+90,Si,108,5,Si,,Individual,,madrid,Si,1,,,Individual,,Gres,,,,,1992,,3,Ladrillo,,10,,,Si,,"50,00 €",91,Si,,,Si,Sureste,,,Mas de 25 Años,,,,3,2,,,255000,,Perfecto Estado
+91,Si,121,6,,,Individual,,madrid,Si,2,,,Gas Natural,,Parquet,,,,,1976,,2,,,,,,Si,,,110,,Si,,,Suroeste,,,Entre 35 y 50 Años,,,,4,2,,,255000,Si,Perfecto Estado
+92,,85,,Si,,,,madrid,Si,,,,,,,,,,,,,,,,,,,,,,71,,,,,,,,Más de 50 años,,,,2,1,,,255000,,Perfecto Estado
+93,Si,78,9,Si,,Gas natural,236 KW h/m² año,madrid,Si,2,,,Gas Natural,,Tarima normal,,,,,,,1,,,4,,,Si,,,63,Si,Si,,,Este,,,,,,,3,2,,49 Kg CO2/m² año,259900,,Perfecto Estado
+94,,69,,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Parquet,,,,,1960,,,,,,,,Si,,,57,,,,,Sureste,,,Más de 50 años,,,,3,1,,,263000,Si,Perfecto Estado
+95,Si,68,,Si,,Individual,,madrid,Si,,Si,,Gas Natural,2,Tarima normal,,,,,,,1,,,,,,Si,,"70,00 €",56,Si,Si,,Si,Sur,,,,,,,2,1,,,264900,,Perfecto Estado
+96,,82,,Si,,Individual,,madrid,Si,1,,,Gas Natural,,Tarima normal,,,,,,,,,,,,,Si,,,66,,Si,,,Sur,,,Entre 35 y 50 Años,,,,3,1,,,264900,,Perfecto Estado
+97,,85,,Si,,Gas natural,109 KW h/m² año,madrid,Si,1,Si,,Gas Natural,2,Porcelánico,Si,,Si,,2012,Si,3,Ladrillo,,,,,Si,,,65,Si,,Si,Si,Sur,,,Entre 10 y 15 Años,,Si,,2,2,,21 Kg CO2/m² año,265000,Si,Perfecto Estado
+98,,86,3,Si,,,,madrid,Si,,,,Individual,1,Parquet,,,,,1987,,,Ladrillo,,12,,,Si,,"190,00 €",,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,269000,,
+99,Si,120,,Si,,Gas natural,108 KW h/m² año,madrid,Si,1,Si,,Gas Natural,1,Tarima Flotante,,,,,2007,Si,3,Ladrillo,,,Si,,Si,,,93,Si,,,Si,Norte,,,Entre 10 y 15 Años,,Si,,3,2,Si,22 Kg CO2/m² año,269000,Si,Perfecto Estado
+100,Si,95,,Si,,Gas natural,187 KW h/m² año,madrid,,1,Si,,Gas Natural,1,Parquet,Si,,,,2001,,4,Ladrillo,,,,,Si,,"120,00 €",74,,Si,Si,Si,,,,Entre 20 y 25 Años,,,,3,2,,39 Kg CO2/m² año,275000,,Perfecto Estado
+101,,109,,Si,,,210 KW h/m² año,madrid,Si,,,,Gas Natural,1,Gres,Si,,,,,Si,,,,,,,Si,,"108,00 €",,,,,,Noreste,,,,,,,3,2,,44 Kg CO2/m² año,276000,,Perfecto Estado
+102,,128,,Si,,Colectiva,,madrid,Si,1,,,Gas Natural,,Tarima normal,,,,,,,4,Ladrillo,,,,,Si,,,104,Si,,,Si,Este,,,Mas de 25 Años,,,,3,2,,,279000,Si,Perfecto Estado
+103,Si,91,,Si,,Individual,,madrid,Si,,Si,,Gas Natural,1,Parquet,,,,,,Si,3,,,,,,Si,,,73,Si,Si,,Si,,,,,,,,3,2,,,279900,,Perfecto Estado
+104,Si,97,4,Si,,Individual,,madrid,Si,1,,,Gas Natural,1,Tarima normal,,,,,,,2,,,4,,,Si,,,78,Si,,,Si,Norte,,,,,,,3,2,,,279900,,Perfecto Estado
+105,,97,,Si,,Central,,madrid,Si,1,,,Central,,Otros,,,,,,,4,,,,,,Si,,"194,00 €",77,Si,Si,,Si,Sur,,,,,,,4,2,,,279900,,Perfecto Estado
+106,Si,178,6,,,Individual,,madrid,Si,,,,Individual,2,Tarima normal,Si,,,,2011,,3,,,24,,,Si,,"100,00 €",94,Si,Si,,Si,Sureste,,,Entre 10 y 15 Años,,,,3,2,,,280000,Si,Perfecto Estado
+107,,120,,Si,,Gas natural,,madrid,Si,,,,Gas Natural,1,Gres,,,,,,,4,,,,,,Si,,,84,Si,,,,Oeste,,,Entre 20 y 25 Años,,,,4,2,,,280000,Si,Perfecto Estado
+108,,136,2,,,Individual,,madrid,,,,,Eléctrica,1,Tarima Flotante,,,,,1999,,7,,,,,,,,,116,,Si,,Si,Norte,,,Entre 20 y 25 Años,,,,4,3,,,285000,,Perfecto Estado
+109,,119,,,,Gas natural,,madrid,Si,,,,Gas Natural,,Gres,,,,,1995,,2,Ladrillo,,,,,Si,,"50,00 €",109,,Si,,,Noreste,,,Mas de 25 Años,,,,4,2,,,285000,,A reformar
+110,,127,,,,Gas natural,,madrid,Si,1,,,Gas Natural,,Tarima normal,,,,,1989,,5,,,,,,,,"67,00 €",101,,Si,,,Sur,,,Entre 35 y 50 Años,,,,4,2,,,285000,,A reformar
+111,,90,,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Parquet,Si,,,,1996,Si,,Ladrillo,,,,,Si,,,65,Si,,,Si,Sureste,,,Entre 20 y 25 Años,,Si,,2,2,,,285000,Si,Perfecto Estado
+112,Si,93,9,Si,,,,madrid,Si,1,,,Individual,,Parquet,,,,,1975,Si,3,Ladrillo,,36,,,Si,,"90,00 €",80,Si,Si,,,Suroeste,,,Entre 35 y 50 Años,,Si,,4,2,,,285000,Si,A reformar
+113,Si,72,5,,,Gas natural,,madrid,Si,,Si,,Individual,,Parquet,Si,,,,1999,,,,,4,,,Si,,"75,00 €",,,Si,,Si,,,,Entre 20 y 25 Años,,,,1,1,,,290000,Si,Perfecto Estado
+114,,171,,Si,,,,madrid,Si,,,,,,Gres,,,,Si,,,,,,,,,,,,,,,,,Sur,,,Más de 50 años,,,,3,1,,,290000,,A reformar
+115,,33,,,,Individual,287 KW h/m² año,madrid,,,,,Eléctrica,,Tarima Flotante,Si,,,,1945,,1,Cemento,,,,,Si,,"54,00 €",30,,,,Si,,,,Más de 50 años,,,,1,1,,60 Kg CO2/m² año,292000,Si,Perfecto Estado
+116,,119,4,Si,,Individual,,madrid,Si,1,Si,,Gas Natural,2,Gres,,,,,2005,Si,1,Ladrillo,,5,,,Si,,,95,Si,,,Si,,,,,,,,3,2,,,294900,,Perfecto Estado
+117,Si,122,4,Si,,Individual,,madrid,Si,1,,,Individual,1,Terrazo,Si,,,,1995,Si,,Ladrillo,,,,,Si,,"100,00 €",92,,,,,,,,Mas de 25 Años,,Si,,4,2,,,295000,,Depende del precio
+118,,94,,Si,,Gas natural,,madrid,Si,1,Si,,Gas Natural,1,Parquet,,,,,,Si,4,,,,,,Si,,,75,,Si,,Si,Este,,,Mas de 25 Años,,,,3,2,,,299900,,Perfecto Estado
+119,,176,,,,Gas natural,,madrid,Si,1,,,Gas Natural,1,Gres,,,,,2003,,3,Ladrillo,,,,,Si,,"70,00 €",99,,Si,,Si,Noroeste,,,Entre 20 y 25 Años,,,,4,2,,,299900,,Perfecto Estado
+120,,228,1,,,Individual,,madrid,Si,1,,,Gasóleo,2,Gres,,,,Si,1999,,4,,,,,,,,,,Si,,,Si,,,,Entre 20 y 25 Años,,,,5,2,,,306900,Si,Perfecto Estado
+121,Si,91,4,Si,,Individual,,madrid,Si,,,,Gas Natural,2,Gres,,,,,,Si,3,Ladrillo,,5,,,Si,,,73,Si,Si,,Si,Sur,,,,,,,3,2,,,307000,,Perfecto Estado
+122,Si,149,5,Si,,Central,,madrid,Si,,,,Central,,Gres,,,,,1979,,4,,,20,,,Si,,"220,00 €",113,Si,Si,,Si,Noreste,,,Entre 35 y 50 Años,,,,4,2,,,309000,Si,Perfecto Estado
+123,Si,90,5,Si,,Gas natural,157 KW h/m² año,madrid,Si,,,,Gas Natural,1,Tarima normal,,,,,1999,,3,Ladrillo,,22,,,Si,,"52,00 €",79,Si,Si,,,Este,,,Entre 20 y 25 Años,,,,3,2,,33 Kg CO2/m² año,309900,Si,Perfecto Estado
+124,Si,66,,Si,,Individual,255 KW h/m² año,madrid,Si,,,,Individual,,Otros,Si,,,,1956,,,Ladrillo,,,,,Si,,,57,,,,,Este,,,Más de 50 años,,,,2,1,,52 Kg CO2/m² año,314000,,A reformar
+125,,,,Si,,Individual,,madrid,,,,,Eléctrica,,Tarima Flotante,,,,,1940,,,Mono Capa,,,,,Si,,,,Si,Si,,,,,,Más de 50 años,,,,,,,,315000,,Perfecto Estado
+126,Si,106,,Si,,,,madrid,Si,1,,,Central,,Parquet,Si,,,,,,,,,,,,Si,,"137,00 €",98,,,,,,,,Más de 50 años,,,,4,2,,,320000,,
+127,,138,,Si,,Gas natural,203 KW h/m² año,madrid,,2,Si,,Gas Natural,1,Parquet,,,,,2002,,4,Ladrillo,,,,,Si,,"145,00 €",101,,Si,,Si,Sureste,,,Entre 20 y 25 Años,,Si,,3,2,,42 Kg CO2/m² año,323000,,Perfecto Estado
+128,,186,,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,2,Parquet,,,,Si,2000,Si,6,Ladrillo,,,,,,,"65,00 €",149,,Si,Si,,,,,Entre 20 y 25 Años,,,,4,3,,,325000,,Perfecto Estado
+129,,118,,,,Gas natural,,madrid,Si,,Si,Si,Gas Natural,,Tarima Flotante,Si,,,,1998,Si,,Ladrillo,,,,,Si,,,89,Si,Si,Si,Si,Noreste,,,Mas de 25 Años,,Si,,3,2,,,329000,,Perfecto Estado
+130,,69,,Si,,,,madrid,,,,,Gas Natural,,Tarima Flotante,,,,,1905,,2,Mono Capa,,,,,Si,,"45,00 €",53,,Si,,,,,,Más de 50 años,,,,2,1,,,330000,,Perfecto Estado
+131,,86,6,Si,,Central,,madrid,,1,Si,,Central,1,Tarima Flotante,Si,,,,2018,Si,3,Ladrillo,,3,,,Si,,"140,00 €",69,Si,Si,,Si,Oeste,,,Entre 5 y 10 Años,,,18,2,2,,,330000,Si,Obra nueva
+132,,96,,Si,,Individual,,madrid,Si,,,,Eléctrica,1,Terrazo,,,,,,,,,,,,,Si,,"118,00 €",77,,,,Si,,,,Entre 35 y 50 Años,,,,3,2,,,334900,,Perfecto Estado
+133,,64,4,Si,,Individual,174 KW h/m² año,madrid,,,,,Eléctrica,,Parquet,,,,,1900,Si,,Mono Capa,,,,,Si,,"80,00 €",50,,Si,,,,,,Más de 50 años,,,,2,1,,35 Kg CO2/m² año,339000,,Perfecto Estado
+134,Si,112,,Si,,Individual,,madrid,Si,1,,,Gas Natural,1,Tarima normal,,,,,,Si,3,,,,,,Si,,,89,Si,Si,,Si,Sur,,,,,,,3,2,,,339900,,Perfecto Estado
+135,,152,,Si,,,,madrid,,1,,,Central,,Tarima Flotante,Si,,,,,,,,,,,,Si,,"157,00 €",140,,,,,Sur,,,Más de 50 años,,,,4,2,,,340000,,
+136,,98,4,Si,,Individual,223 KW h/m² año,madrid,Si,,,,Gas Natural,,Parquet,,,,,1994,,4,Ladrillo,,,,,Si,,"59,00 €",78,Si,,,,Este,,,Entre 25 y 35 años,,,,3,2,,47 Kg CO2/m² año,349900,Si,Perfecto Estado
+137,,103,2,,,Gas natural,,madrid,Si,1,,,Gas Natural,,Gres,,,,,1989,,4,Cemento,,2,,,Si,,,96,,,,,,,,Entre 25 y 35 años,,,,4,2,,,350000,Si,Perfecto Estado
+138,Si,78,10,Si,,Central,,madrid,Si,1,,,Central,,Tarima Flotante,Si,,,,1964,Si,3,Mono Capa,,4,,,Si,,"185,00 €",71,,Si,,,Sur,,,Más de 50 años,,,,3,2,,,350000,,Perfecto Estado
+139,,276,4,,,Individual,,madrid,Si,3,Si,,Eléctrica,2,Marmol,,,,Si,1989,Si,5,Cemento,Si,,,,,,"105,00 €",234,Si,Si,,Si,,,,,,,,4,2,,,359000,,A reformar
+140,Si,62,7,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Gres,,,,,1955,,,,,28,,,Si,,"70,00 €",,,,,,,,,Más de 50 años,,,,3,1,,,359000,,
+141,,118,,Si,,Individual,,madrid,Si,,,,Gas Natural,,Tarima Flotante,,,,,1989,,,Ladrillo,,,,,Si,,"70,00 €",100,,Si,,,Oeste,,,Mas de 25 Años,,,,4,2,,,359900,,Perfecto Estado
+142,Si,95,,,,Gas natural,,madrid,Si,,Si,Si,Gas Natural,2,Parquet,Si,,,,2001,Si,,,,,,,Si,,,89,Si,Si,Si,Si,,,,Entre 20 y 25 Años,,Si,,3,2,,,360000,,Perfecto Estado
+143,,113,,Si,,Gas natural,,madrid,Si,1,Si,,Gas Natural,,Tarima Flotante,,,,,,,3,,,,,,Si,,"70,00 €",90,,Si,,Si,Sur,,,Entre 35 y 50 Años,,,,4,2,,,364900,,Perfecto Estado
+144,Si,71,7,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Terrazo,,,,,1930,,,Cemento,,43,,,Si,,,,,Si,,,Este,,,Más de 50 años,,,,3,1,,,365000,,Perfecto Estado
+145,Si,60,,,,Gas natural,,madrid,Si,1,,,Gas Natural,,Tarima Flotante,Si,,,,1975,,,,,,,,Si,,,,,Si,,,Noreste,,,Entre 35 y 50 Años,,,,2,1,,,365000,Si,A reformar
+146,,240,,Si,,Gas natural,,madrid,Si,3,,,Gas Natural,,Gres,,,,Si,1996,,,Ladrillo,,,,,,,,120,Si,,,,Norte,,,Entre 25 y 35 años,,,,5,2,,,369900,Si,Perfecto Estado
+147,,590,2,,Si,Individual,,madrid,Si,2,Si,,Individual,5,Gres,,,,,1970,,6,,Si,,,,,,,,,Si,,Si,,,,Entre 35 y 50 Años,,,,6,3,,,369900,,
+148,,131,,Si,,Individual,215 KW h/m² año,madrid,Si,3,,,Individual,2,Parquet,,,,,,Si,,,,,,,Si,,"70,00 €",104,Si,Si,,,,,,,,Si,,3,2,,43 Kg CO2/m² año,370000,Si,Perfecto Estado
+149,,113,,Si,,Individual,,madrid,Si,,,,Gas Natural,1,Parquet,,,,,,,4,,,,,,Si,,"110,00 €",91,Si,,,,Sur,,,,,,,3,2,,,370000,,Perfecto Estado
+150,,251,,Si,,Gas natural,,madrid,,1,,,Gas Natural,3,Tarima Flotante,,,,Si,2010,,4,Ladrillo,,,,,,,"105,00 €",182,,Si,,Si,Este,,,Entre 20 y 25 Años,,,,4,3,,,375000,,Perfecto Estado
+151,,100,3,Si,,Individual,,madrid,Si,1,,,Eléctrica,,Parquet,,,,,2003,,6,Ladrillo,,3,,,Si,,"125,00 €",90,Si,Si,,Si,Norte,,,Entre 20 y 25 Años,,,,3,2,,,375000,Si,Perfecto Estado
+152,Si,81,,Si,,,236 KW h/m² año,madrid,,,,,Gas Natural,,Parquet,Si,,,,1959,,,Ladrillo,,40,,,Si,,"82,00 €",,,,,,,,,Más de 50 años,,,,3,1,,49 Kg CO2/m² año,384900,,
+153,,37,,Si,,Individual,,madrid,Si,1,,,Eléctrica,,Tarima normal,,,,,1900,,,Mono Capa,,,,,Si,,"40,00 €",29,,Si,,,Noreste,,,Más de 50 años,,,,1,1,,,389000,Si,Perfecto Estado
+154,,122,,Si,,Gas natural,167 KW h/m² año,madrid,,1,Si,,Gas Natural,1,Parquet,Si,,,,2005,,,,,,,,Si,,"95,00 €",98,Si,Si,Si,Si,Suroeste,,,Entre 15 y 20 Años,,,,4,2,,35 Kg CO2/m² año,390000,,Perfecto Estado
+155,,140,3,,,Gas natural,,madrid,Si,,,,Gas Natural,2,Tarima normal,,,,Si,1986,,,Ladrillo,,,,,,,,116,,Si,,,Sur,,,Entre 35 y 50 Años,,,,4,1,,,399000,,Perfecto Estado
+156,Si,190,,,,Individual,,madrid,Si,3,,,Gas Natural,1,Gres,,,,,2004,,3,Ladrillo,,,,,Si,,"130,00 €",140,,Si,,Si,Suroeste,,,Entre 15 y 20 Años,,,,3,2,,,399900,Si,Perfecto Estado
+157,,176,,,,Individual,,madrid,Si,3,,,Gasóleo,,Tarima normal,,,,,1959,,,,,,,,,,,134,,Si,,Si,Oeste,,,Entre 5 y 10 Años,Si,,,4,3,,,399900,,Perfecto Estado
+158,,214,,,,Individual,,madrid,Si,3,,,Gasóleo,3,Tarima Flotante,,,,Si,1987,,6,Ladrillo,,,,,,,,150,,Si,,Si,Sur,,,Mas de 25 Años,,,,4,3,,,399900,Si,
+159,,276,,Si,Si,Individual,243 KW h/m² año,madrid,Si,,,,Suelo Radiante,2,Porcelánico,,,,,1989,Si,3,Otros materiales,Si,,,,,,,275,Si,Si,,Si,Suroeste,,,Entre 25 y 35 años,,,,6,3,Si,49 Kg CO2/m² año,399900,Si,Perfecto Estado
+160,,120,,Si,,Gas natural,,madrid,Si,1,,,Gas Natural,1,Parquet,Si,,,,1980,,5,Ladrillo,,,,,Si,,"200,00 €",96,Si,,,Si,Norte,,,Mas de 25 Años,,Si,,4,2,,,415000,,Perfecto Estado
+161,,272,,Si,,Gas natural,248 KW h/m² año,madrid,Si,1,Si,,Gas Natural,2,Gres,,,,Si,1991,,4,Ladrillo,,,,,,,,218,,Si,,Si,,,,Entre 25 y 35 años,,,,4,3,,50 Kg CO2/m² año,425000,,Perfecto Estado
+162,,273,,,,Gas natural,,madrid,,1,Si,,Gas Natural,1,Tarima normal,Si,Si,,Si,2006,Si,,Ladrillo,,,,,,,,235,,Si,,,Sur,,Si,Entre 10 y 15 Años,,,,4,4,,,428000,,Perfecto Estado
+163,Si,108,,Si,,Central,,madrid,Si,1,,,Central,1,Parquet,Si,,,,1970,Si,3,Ladrillo,,,,,Si,,"200,00 €",98,Si,Si,,Si,Noroeste,,,Más de 50 años,,,,3,2,,,429900,Si,Perfecto Estado
+164,Si,92,11,,,Gas natural,,madrid,Si,,,,Central,,Porcelánico,,,,,1979,,4,,,22,,,Si,,,,,Si,,Si,,,,Entre 35 y 50 Años,,,,2,2,,,435000,,Perfecto Estado
+165,,127,,,,Gas natural,,madrid,Si,1,Si,Si,Gas Natural,1,Parquet,Si,,Si,,,Si,,,,,,,Si,,,110,Si,,,Si,,,,Entre 20 y 25 Años,,Si,,4,2,,,438000,,
+166,Si,94,6,Si,,Gas natural,190 KW h/m² año,madrid,,,,,Gas Natural,,Tarima normal,,,,,1993,,,Ladrillo,,3,,,Si,,,71,,,,,,,,Mas de 25 Años,,,,2,2,,39 Kg CO2/m² año,439000,,Perfecto Estado
+167,,203,2,,Si,Gas natural,,madrid,Si,1,,,Gas Natural,,Gres,,,,,1990,,,Ladrillo,,,,,,,,198,,Si,,,Sureste,,,Entre 25 y 35 años,,,,5,2,,,440000,,Depende del precio
+168,Si,111,,Si,,Individual,,madrid,Si,1,,,Central,,Tarima normal,,,,,1960,,,Ladrillo,,,,,Si,,,92,,,,,Oeste,,,Más de 50 años,,,,4,2,,,443000,,
+169,Si,118,,Si,,Gas natural,,madrid,Si,1,Si,,Gas Natural,1,Tarima normal,Si,,,,1994,Si,,,,,,,,,,94,Si,Si,,,,,,Mas de 25 Años,,Si,,3,2,,,449000,,Perfecto Estado
+170,Si,105,,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Parquet,Si,,,,2006,Si,,,,,,,Si,,"180,00 €",,Si,,,Si,Oeste,,,Entre 15 y 20 Años,,,,3,2,,,450000,Si,Perfecto Estado
+171,Si,142,,Si,,Gas natural,,madrid,Si,1,Si,Si,Individual,1,Tarima normal,Si,Si,,,2002,Si,5,Ladrillo,,,,,Si,,"190,00 €",111,,Si,Si,Si,Sureste,,Si,Entre 20 y 25 Años,,,,4,2,,,450000,,Depende del precio
+172,Si,117,,,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Porcelánico,Si,,,,2009,Si,4,Ladrillo,,85,,,Si,,"179,00 €",107,Si,Si,,Si,Noreste,,,Entre 15 y 20 Años,,Si,,3,2,,,450000,Si,Perfecto Estado
+173,,111,,Si,,,223 KW h/m² año,madrid,Si,,Si,,Gas Natural,1,Parquet,Si,,,,,Si,,,,,,,Si,,"85,00 €",94,,Si,,,Sureste,,,,,,4,3,2,,45 Kg CO2/m² año,459000,,Perfecto Estado
+174,Si,136,6,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Parquet,Si,,,,1989,Si,4,Ladrillo,,10,,,Si,,"172,07 €",110,Si,,,Si,Noroeste,,,Mas de 25 Años,,Si,,4,2,,,460000,,Perfecto Estado
+175,,93,,Si,,Individual,,madrid,,1,Si,,Aerotermia,2,Porcelánico,Si,,Si,,2023,Si,,Ladrillo,,,,,Si,,,92,,Si,,Si,Norte,,,Menos de 5 Años,,,,3,2,,,460000,,Perfecto Estado
+176,Si,105,5,Si,,Individual,225 KW h/m² año,madrid,Si,1,,,Gas Natural,,Parquet,,,,,1995,,3,Ladrillo,,,,,Si,,"54,00 €",84,Si,Si,,,Suroeste,,,Entre 25 y 35 años,,,,3,2,,47 Kg CO2/m² año,464900,Si,Perfecto Estado
+177,,96,,Si,,,,madrid,,1,Si,,,1,Parquet,Si,,,,1996,Si,3,Ladrillo,,,,,Si,,"165,00 €",86,,Si,,,Noreste,,,Mas de 25 Años,,,,3,2,,,465000,,
+178,,152,,Si,,,,madrid,,1,,,Central,1,Parquet,Si,,,,1972,,,,,,,,Si,,,142,,,,,,,,Más de 50 años,,,,4,2,,,469000,,
+179,Si,143,,Si,,Central,,madrid,Si,3,,,Central,1,Parquet,Si,,,,1970,,5,Ladrillo,,,,,Si,,,126,Si,,,Si,Este,,,Más de 50 años,,,,4,2,Si,,470000,Si,Perfecto Estado
+180,,270,,Si,,Gas natural,,madrid,Si,2,,,Individual,1,Tarima normal,,,,Si,2005,,,,,,,,,,,,,Si,,,,,,Entre 10 y 15 Años,,,,3,3,,,475000,Si,Perfecto Estado
+181,,114,,Si,,Central,,madrid,Si,1,,,Central,,Tarima Flotante,,,,,1960,,1,,,,,,Si,,"126,00 €",92,Si,,,,,,,Más de 50 años,,,,4,1,,,475000,Si,
+182,,265,,,,Gas natural,,madrid,Si,1,Si,Si,Gas Natural,1,Gres,,,,Si,1991,Si,,,,,,,,,,212,Si,,,Si,,,,,,,,4,3,,,480000,Si,Perfecto Estado
+183,,160,7,,,Gas natural,,madrid,Si,,,,Gas Natural,1,Parquet,Si,,,,1996,,,Ladrillo,,15,,,Si,,"100,00 €",104,,,,,,,,Mas de 25 Años,,Si,,3,2,,,480000,Si,Perfecto Estado
+184,Si,153,,Si,,,,madrid,Si,2,,,,,Tarima Flotante,Si,,,,,,,,,,,,Si,,"152,00 €",139,,,,,,,,Más de 50 años,,,,4,3,,,485000,,
+185,Si,70,7,Si,,Central,26 KW h/m² año,madrid,Si,,Si,,Suelo Radiante,1,Tarima normal,Si,,Si,,,Si,2,Ladrillo,,,,,Si,,,,Si,Si,,Si,,,,Menos de 5 Años,,Si,,2,2,,5 Kg CO2/m² año,485000,Si,Perfecto Estado
+186,,400,,Si,,Gas natural,,madrid,Si,3,Si,,Gas Natural,2,Gres,,,,,2004,,4,Ladrillo,,,,,,,,320,,Si,,,,,,Entre 15 y 20 Años,Si,,,5,4,,,489000,,Perfecto Estado
+187,,163,,,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Tarima Flotante,,,,Si,1999,Si,,,,,,,,,,130,Si,Si,,Si,,,,,,,,5,2,,,490000,,Perfecto Estado
+188,,240,2,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,,,,,,Si,2000,Si,5,,,,,,,,,200,Si,Si,,Si,,,,Entre 20 y 25 Años,,Si,,4,3,,,520000,,Perfecto Estado
+189,,187,,Si,,,,madrid,Si,1,Si,,Gas Natural,1,Tarima normal,Si,,Si,,,Si,5,,,,,,Si,,,73,,Si,Si,Si,Sur,,,Menos de 5 Años,,Si,,3,2,,,520000,Si,Perfecto Estado
+190,,110,,,,Individual,,madrid,Si,,,,Individual,,Parquet,,,,,1880,,,,Si,,,,Si,,"169,79 €",94,,Si,,,Este,,,Más de 50 años,,,,3,2,,,525000,,
+191,,259,,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Tarima normal,,,,,,,5,,,,,,,,,207,,Si,,Si,Oeste,,,Entre 20 y 25 Años,Si,,,5,5,,,525000,,Perfecto Estado
+192,,240,,Si,,Individual,,madrid,Si,2,,,Gas Natural,1,Tarima normal,,,,,,,4,,,,,,,,,192,Si,Si,,,Norte,,,,Si,,,3,4,,,528000,,Perfecto Estado
+193,Si,213,,Si,,Gas natural,,madrid,Si,2,Si,,Gas Natural,2,Parquet,Si,,,,1993,,4,Ladrillo,Si,,,,Si,,"200,00 €",156,Si,,,,,,,Mas de 25 Años,,,,4,2,,,529000,,Perfecto Estado
+194,,65,,Si,,Individual,81 KW h/m² año,madrid,Si,,,,Eléctrica,,Tarima Flotante,,,,,1905,,,Ladrillo,,,,,,,"65,00 €",,,Si,,,,,,Más de 50 años,,,,2,2,,17 Kg CO2/m² año,530000,Si,Perfecto Estado
+195,Si,153,4,,,Gas natural,,madrid,Si,2,Si,,Individual,1,Parquet,Si,,,,2001,Si,6,Ladrillo,Si,37,,,Si,,,122,Si,Si,,Si,Sur,,,Entre 20 y 25 Años,,Si,,4,2,Si,,530000,Si,Perfecto Estado
+196,,201,,Si,,Gas natural,,madrid,Si,1,,,Gas Natural,1,Gres,,,,,,,,,,,,,,,,200,,Si,,Si,,,,Entre 15 y 20 Años,Si,,,4,3,,,545000,,
+197,Si,117,5,Si,,Gas natural,,madrid,Si,2,Si,,Gas Natural,3,Parquet,,,,,2004,Si,5,Ladrillo,,22,,,Si,,"165,00 €",92,Si,Si,,Si,Sur,,,Entre 20 y 25 Años,,Si,,4,2,,,550000,Si,
+198,,190,,Si,,Gas natural,,madrid,Si,2,Si,,Gas Natural,2,Parquet,,,,Si,,Si,3,Ladrillo,,,,,,,,155,,Si,,,Este,,,Mas de 25 Años,,,,3,3,,,554900,,Perfecto Estado
+199,,302,,Si,,Gas natural,231 KW h/m² año,madrid,Si,,Si,,Gas Natural,1,Tarima normal,,,,Si,,,,,,,,,,,"40,00 €",204,,Si,,Si,Este,,,Entre 10 y 15 Años,,,,5,3,,,569900,,Perfecto Estado
+200,Si,100,,Si,,Central,133 KW h/m² año,madrid,Si,2,,,Central,1,Parquet,Si,,,,1968,,,Ladrillo,,,,,Si,,"140,00 €",90,,Si,,,Norte,,,,,,,4,2,,28 Kg CO2/m² año,570000,Si,
+201,,330,,Si,,Individual,,madrid,Si,1,Si,,Individual,1,Parquet,Si,,,,1993,,,Ladrillo,,,,,Si,,"156,75 €",111,Si,Si,,Si,Noreste,,,Entre 20 y 25 Años,,,,3,3,,,575000,,Perfecto Estado
+202,,213,,Si,,Individual,,madrid,Si,1,Si,,Individual,2,Tarima Flotante,,,,,2017,Si,5,Ladrillo,Si,,,,,,,170,Si,Si,,Si,Sur,,,Menos de 5 Años,Si,Si,,3,3,Si,,575000,Si,Perfecto Estado
+203,,124,,Si,Si,Gas natural,180 KW h/m² año,madrid,Si,,,,Gas Natural,,Parquet,,,,,1970,,,,Si,,,,,,,,,Si,,,Este,,,,,,,2,2,,50 Kg CO2/m² año,584000,,Perfecto Estado
+204,,136,,Si,,Individual,,madrid,Si,,,,Gas Natural,1,Tarima normal,Si,,,,2001,,,Ladrillo,,,,,Si,,"150,00 €",120,,Si,,Si,,,,Entre 20 y 25 Años,,Si,,3,2,,,590000,,Perfecto Estado
+205,Si,357,,,,Gas natural,,madrid,Si,,,,Gas Natural,4,Marmol,,,,Si,2000,,5,Ladrillo,,,,,,,,286,Si,,,Si,Sur,,,Entre 20 y 25 Años,,,,6,3,,,595000,Si,Perfecto Estado
+206,Si,240,,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,2,Otros,Si,,,Si,2000,Si,4,Ladrillo,,,,,,,,220,Si,Si,,Si,Sur,,,Entre 20 y 25 Años,,Si,,4,3,,,598000,,
+207,Si,230,6,Si,,Gas natural,218 KW h/m² año,madrid,Si,2,Si,,Gas Natural,1,Tarima Flotante,Si,,,,2006,Si,4,Mono Capa,,12,,,Si,,"150,00 €",115,Si,Si,Si,Si,,,,Entre 15 y 20 Años,,Si,,4,2,,45 Kg CO2/m² año,599000,Si,
+208,,338,3,Si,,Gas natural,,madrid,Si,,,,Gas Natural,2,Parquet,,,,,1991,Si,6,Ladrillo,,,,,,,,282,,,,Si,Noroeste,,,Entre 25 y 35 años,Si,,,6,3,,,599000,Si,Depende del precio
+209,Si,123,,Si,,Central,180 KW h/m² año,madrid,Si,1,,,Central,1,Parquet,Si,,,,1982,Si,5,Ladrillo,,,,,Si,,,,Si,,,Si,Noreste,,,Mas de 25 Años,,,,4,2,,38 Kg CO2/m² año,600000,Si,Perfecto Estado
+210,,276,3,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Gres,,,,,2005,Si,7,Ladrillo,,,,,,,,240,,Si,,,Noroeste,,,Entre 20 y 25 Años,Si,,,6,3,,,609000,Si,Perfecto Estado
+211,,228,4,Si,,Individual,,madrid,,2,Si,,Gas Natural,3,Marmol,,,,Si,,Si,5,Ladrillo,,,,,,,,200,Si,Si,,,Sur,,,,,,,3,3,Si,,609900,Si,Perfecto Estado
+212,,207,3,Si,,Gas natural,,madrid,Si,,,,Gas Natural,3,Tarima Flotante,,,,,2005,Si,4,Ladrillo,,,,,,,,175,,Si,,,Noroeste,,,Entre 15 y 20 Años,Si,,,4,3,,,609995,Si,Depende del precio
+213,,288,,Si,Si,Individual,,madrid,Si,1,Si,,Eléctrica,2,Marmol,,,,,,Si,4,Ladrillo,Si,,,,,,,,Si,Si,,Si,Sureste,,,Entre 25 y 35 años,,,,5,3,,,610000,Si,Perfecto Estado
+214,,338,3,Si,,Gas natural,,madrid,Si,,,,Gas Natural,1,Gres,,,,Si,,,,,,,,,,,,251,,Si,,Si,Sur,,,Entre 15 y 20 Años,,,,4,4,,,614900,,Perfecto Estado
+215,,253,3,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Tarima Flotante,,,,,1997,Si,4,Ladrillo,,,,,,,,220,,Si,,,Suroeste,,,Entre 25 y 35 años,Si,,,5,3,,,619000,Si,Depende del precio
+216,Si,218,,Si,,Individual,,madrid,Si,1,,,Aerotermia,4,Porcelánico,,,,Si,2024,Si,5,Ladrillo,,,,,Si,,,190,Si,Si,,Si,Sur,,,Menos de 5 Años,,,,4,3,,,620000,Si,Perfecto Estado
+217,,171,,,,Gas natural,,madrid,Si,,,,Gas Natural,,Tarima Flotante,,,,Si,2008,,3,,,,,,,,,162,Si,Si,,Si,Sur,,,Entre 15 y 20 Años,,,,3,2,,,649900,Si,Perfecto Estado
+218,,283,3,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,1,Tarima Flotante,,,,,2004,Si,6,Cemento,,,,,,,,240,Si,Si,,Si,Oeste,,,Entre 15 y 20 Años,Si,Si,,5,3,,,679000,Si,Perfecto Estado
+219,,109,,Si,,Individual,81 KW h/m² año,madrid,Si,3,,,Gas Natural,,Parquet,,,,,1920,,1,Mono Capa,,,,,Si,,"120,00 €",90,,Si,,,Sur,,,Más de 50 años,,,,2,2,,17 Kg CO2/m² año,699000,Si,Perfecto Estado
+220,,293,,Si,,Gas natural,,madrid,Si,1,,,Gas Natural,4,Parquet,,,,Si,1990,,4,,,,,,,,,234,,Si,,,Noroeste,,,Mas de 25 Años,,,,6,4,,,699000,,Perfecto Estado
+221,,170,,Si,,,,madrid,Si,1,Si,,Suelo Radiante,2,Porcelánico,Si,,,,2018,Si,5,Ladrillo,,,,,Si,,"206,00 €",,Si,Si,,Si,Oeste,,,Entre 5 y 10 Años,,Si,,4,3,,,699000,Si,Perfecto Estado
+222,,392,,Si,Si,Gas natural,,madrid,Si,1,Si,,Gas Natural,2,Tarima Flotante,,,,,2006,Si,6,Ladrillo,,,,,Si,,,285,,Si,,,,,,Entre 15 y 20 Años,,,,7,4,Si,,699000,Si,Perfecto Estado
+223,Si,330,4,Si,,Individual,,madrid,Si,3,Si,,Suelo Radiante,2,Porcelánico,,,,,2019,Si,5,Otros materiales,,,,,,,"100,00 €",258,Si,Si,Si,Si,,,,Entre 5 y 10 Años,Si,Si,,4,4,,,704999,Si,Perfecto Estado
+224,,110,,,,Gas natural,,madrid,Si,,,,Gas Natural,,Sintasol,,,,,1906,,,,,,,,,,"84,46 €",92,,,,Si,,,,Más de 50 años,,,,3,1,,,990000,,A reformar
+225,Si,179,,Si,,Individual,,madrid,Si,,,,Central,1,Parquet,Si,,,,1967,,,Ladrillo,,,,,Si,,"308,00 €",,,Si,,Si,Sur,,,Más de 50 años,,,,4,3,,,1200000,,Perfecto Estado
+226,Si,162,,Si,,Individual,188 KW h/m² año,madrid,Si,4,,,Central,,Tarima Flotante,Si,,,,1930,Si,3,Mono Capa,Si,,,,Si,,"172,00 €",144,Si,Si,,,Oeste,,,Más de 50 años,,Si,,3,2,,39 Kg CO2/m² año,1390000,Si,Perfecto Estado
+227,Si,150,6,Si,,Individual,,madrid,Si,1,,,Individual,2,Otros,Si,,,,1977,Si,3,Ladrillo,,86,,,Si,,"230,00 €",,,Si,,,,,,Entre 35 y 50 Años,,Si,,3,3,Si,,1849000,,Perfecto Estado
+228,,462,,Si,,,,madrid,Si,,,,Gas Natural,3,Marmol,,,,,,,,,,,,,Si,,,459,,Si,,,,,,Más de 50 años,,,,15,3,,,1850000,,A reformar
+229,,378,,,,Central,,madrid,Si,1,,,Central,2,Otros,Si,,,,,,5,,Si,24,,,Si,,,288,Si,Si,,Si,Suroeste,,,Más de 50 años,,,,4,3,Si,,3850000,Si,Perfecto Estado
+230,Si,672,8,,,Central,,madrid,Si,2,,,Central,1,Parquet,Si,,,,1954,,8,Cemento,Si,8,,,Si,,"1.000,00 €",478,Si,Si,,Si,Este,,,Más de 50 años,,,,4,5,Si,,6600000,Si,Perfecto Estado
+231,,150,,Si,,Individual,215 KW h/m² año,madrid,Si,1,,,Eléctrica,,Baldosa,,,,Si,1986,,5,Ladrillo,,2,,,,,,120,,Si,,,,,,Entre 35 y 50 Años,,,,6,3,,36 Kg CO2/m² año,A consultar,,Perfecto Estado
+232,Si,108,,Si,,Gas natural,59 KW h/m² año,madrid,Si,,Si,,Gas Natural,1,Porcelánico,Si,,,,2019,Si,4,Ladrillo,,,,,Si,,"128,63 €",84,,Si,,Si,Sureste,,,Menos de 5 Años,,,,3,2,,12 Kg CO2/m² año,A consultar,,Perfecto Estado
+233,,115,4,,,Individual,,madrid,Si,1,,,Individual,,Parquet,,,,,1900,,,,,,,,,,"55,00 €",92,Si,Si,,,Oeste,,,Más de 50 años,,,,2,2,,,A consultar,Si,Perfecto Estado
+234,,30,,,,,,madrid,,,,,,,Tarima Flotante,,,,,,,1,,,,,,,,"35,00 €",29,,Si,,,,,,Más de 50 años,,,,1,1,,,A consultar,Si,Depende del precio
+235,,91,6,,,Gas natural,,madrid,Si,1,Si,,Gas Natural,,Parquet,Si,,,,1997,Si,4,,,,,,Si,,"95,41 €",74,Si,,,,Sureste,,,Mas de 25 Años,,Si,,2,2,Si,,A consultar,Si,Perfecto Estado
+236,,106,,Si,,,,madrid,Si,,,,Gas Natural,,,,,,,1994,,,,,,,,Si,,"99,00 €",,,,,,,,,,,,,2,1,,,A consultar,,
+237,,77,4,,,Individual,,madrid,Si,,,,Individual,,,,,,,,,,,,12,,,,,,,,,,,,,,,,,,3,1,Si,,A consultar,Si,Perfecto Estado
+238,,74,,Si,,,,madrid,Si,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,,,A consultar,,
+239,,107,7,Si,,Individual,,madrid,Si,,Si,,Gas Natural,,Tarima Flotante,,,,,2018,Si,4,Ladrillo,,,,,Si,,,83,Si,,Si,Si,,,,Entre 5 y 10 Años,,,,3,2,Si,,A consultar,Si,Depende del precio
+240,,360,,,,Gas natural,,madrid,Si,1,Si,Si,Gas Natural,1,Gres,,,,Si,1991,Si,,,,,,,,,,300,Si,Si,,Si,,,,,,,,3,2,,,A consultar,,Perfecto Estado
+241,,197,,,,Gas natural,,madrid,Si,,Si,Si,Gas Natural,1,Gres,,,,Si,1985,Si,,,,,,,,,,147,Si,Si,,Si,,,,,,,,4,3,,,A consultar,,Perfecto Estado
+242,,250,,,,Gas natural,,madrid,Si,1,Si,Si,Gas Natural,1,Terrazo,,Si,,Si,1985,Si,,,,,,,,,,198,Si,,Si,Si,,,,,,,,4,3,,,A consultar,Si,A reformar
+243,,147,,Si,,Gas natural,129 KW h/m² año,madrid,Si,1,Si,Si,Gas Natural,1,Parquet,Si,Si,,,1975,Si,3,Cemento,Si,,,,Si,,"130,00 €",95,Si,,,Si,Sur,Si,Si,Entre 35 y 50 Años,,Si,,3,2,,28 Kg CO2/m² año,A consultar,,Perfecto Estado
+244,Si,87,,Si,,,,madrid,,,,,Central,,Tarima normal,Si,,,,1978,Si,,Ladrillo,,,,,Si,,,75,,,,,,,,Más de 50 años,,Si,,3,2,,,A consultar,,
+245,Si,115,7,Si,,Central,288 KW h/m² año,madrid,,,,,Central,,Parquet,Si,,,,1958,,,Mono Capa,,21,,,Si,,"160,00 €",91,,,,,,,,Más de 50 años,,,,4,2,,60 Kg CO2/m² año,A consultar,,A reformar
+246,Si,85,5,Si,,Gas natural,157 KW h/m² año,madrid,Si,1,,,Suelo Radiante,1,Porcelánico,Si,,,,2005,Si,3,Ladrillo,,98,,,Si,,"85,00 €",68,Si,Si,,Si,Este,,,Entre 15 y 20 Años,,Si,,2,2,Si,,A consultar,Si,Perfecto Estado
+247,,95,,Si,,Gas natural,,madrid,Si,,Si,,Gas Natural,2,,Si,,,,2007,Si,3,Ladrillo,,,,,Si,,,74,,Si,,Si,Oeste,,,,,Si,,3,2,,,A consultar,,Perfecto Estado
+248,Si,86,,Si,,Individual,,madrid,Si,,,,Individual,2,Tarima normal,Si,,,,2012,Si,2,Ladrillo,,,,,Si,,"68,00 €",64,Si,Si,,Si,Oeste,,,Entre 5 y 10 Años,,,,3,2,Si,,A consultar,Si,Perfecto Estado
+249,Si,77,,Si,,Gas natural,,madrid,Si,,,,Gas Natural,1,Tarima normal,Si,,,,2012,Si,,Ladrillo,,,,,Si,,,56,,Si,,Si,Sur,,,Entre 10 y 15 Años,,,,2,1,,,A consultar,Si,Perfecto Estado
+250,,78,4,Si,,Individual,344 KW h/m² año,madrid,Si,1,Si,Si,Eléctrica,,Tarima normal,,,,,1975,Si,2,Mono Capa,,,Si,,,,"110,00 €",70,Si,,,,,,,Entre 35 y 50 Años,,Si,,2,1,,58 Kg CO2/m² año,A consultar,Si,A reformar
+251,,291,2,Si,Si,Individual,,madrid,Si,1,,,Gasóleo,1,Terrazo,,,,,1975,,,Ladrillo,,,,,,,,264,,,,,,,,Entre 35 y 50 Años,,,,4,2,,,A consultar,,Depende del precio
+252,,54,5,Si,,Individual,,madrid,,,,,Gas Natural,,Tarima normal,,,,,1960,,,Ladrillo,,39,,,Si,,"50,00 €",43,,,,,Este,,,Entre 35 y 50 Años,,,,2,1,,,A consultar,,Depende del precio
+253,Si,114,,Si,,,,madrid,Si,2,Si,,Suelo Radiante,1,Porcelánico,Si,,Si,,2023,Si,,Mono Capa,,,,,Si,,"130,00 €",76,Si,Si,Si,Si,,,,Menos de 5 Años,,Si,,3,2,,,A consultar,Si,Perfecto Estado
+254,,55,4,Si,,,,madrid,Si,,,,Eléctrica,,Gres,,,,,1960,,,Ladrillo,,,,,,,,,Si,Si,,,,,,Entre 35 y 50 Años,,,,3,1,,,A consultar,Si,A reformar
+255,Si,88,11,Si,,Gas natural,,madrid,Si,1,,,,,Gres,,,,,1960,,3,Ladrillo,,,,,Si,,,,Si,,,,,,,Entre 35 y 50 Años,,Si,,3,1,,,A consultar,Si,A reformar
+256,,112,9,Si,,Gas natural,220 KW h/m² año,madrid,Si,,Si,,Gas Natural,1,Tarima Flotante,Si,,Si,,2006,Si,5,Ladrillo,,42,,,Si,,"190,00 €",79,,,Si,Si,Noreste,,,Entre 15 y 20 Años,,,,3,2,,46 Kg CO2/m² año,A consultar,,Perfecto Estado
+257,Si,78,8,Si,,Individual,,madrid,Si,,,,Individual,1,Tarima Flotante,Si,,,,,,8,Ladrillo,Si,,,,Si,,,,Si,Si,,,,,,Entre 5 y 10 Años,,,,1,1,,,A consultar,Si,Perfecto Estado
+258,Si,180,4,Si,,Central,240 KW h/m² año,madrid,Si,3,,,Central,1,Parquet,,,,,1975,,1,Piedra,,4,,,Si,,"200,00 €",,Si,Si,,,Sur,,,Entre 35 y 50 Años,,,,4,3,,50 Kg CO2/m² año,A consultar,Si,
+259,Si,78,4,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Tarima Flotante,,,,,1953,,1,Ladrillo,,4,,,Si,,"70,00 €",62,Si,Si,,,Norte,,,Más de 50 años,,,,3,1,,,A consultar,Si,Perfecto Estado
+260,,95,3,Si,,Gas natural,192 KW h/m² año,madrid,Si,1,,,Central,,Baldosa,,,,,1984,,3,Ladrillo,,,,,,,"100,00 €",79,,Si,,,,,,Entre 35 y 50 Años,,,,3,2,,40 Kg CO2/m² año,A consultar,,Perfecto Estado
+261,Si,100,7,Si,,Individual,25 KW h/m² año,madrid,Si,,Si,,Individual,1,Baldosa,Si,,,,2000,Si,3,Ladrillo,Si,,,,Si,,,77,Si,Si,,Si,Oeste,,,Entre 20 y 25 Años,,Si,,3,2,,55 Kg CO2/m² año,A consultar,Si,Perfecto Estado
+262,Si,78,5,Si,,Gas natural,,madrid,Si,2,,,,,Sintasol,,,,,1970,Si,,Ladrillo,,2,,,Si,,"55,00 €",71,,,,,Este,,,Más de 50 años,,,,3,1,,,A consultar,,A reformar
+263,,50,,Si,,Individual,,madrid,Si,,,,,,Tarima Flotante,,,,,1960,,,,,,,,,,"40,00 €",,,,,,Noreste,,,Más de 50 años,,,,2,1,Si,,A consultar,Si,Perfecto Estado
+264,,74,,Si,,,,madrid,Si,,,,,,,,,,Si,1900,,,Ladrillo,,,,,,,,64,,,,,Este,,,Más de 50 años,,,,3,1,,,35500,,
+265,,70,,Si,,,,madrid,Si,2,,,,,,,,,Si,1970,,,Ladrillo,,,,,,,,61,,,,,Suroeste,,,Más de 50 años,,,,1,1,,,65000,,Perfecto Estado
+266,,35,,Si,,Individual,,madrid,Si,,,,,,Tarima Flotante,,,,,1968,,,Mono Capa,,,,,,,,,,Si,,,,,,Más de 50 años,,,,1,1,,,75000,,
+267,,114,,Si,,,,madrid,Si,3,,,Individual,,,,,,,1990,,3,Ladrillo,,,,,,,,99,,,,,Noroeste,,,Entre 25 y 35 años,,,,3,2,,,80000,,Perfecto Estado
+268,,150,2,Si,Si,,,madrid,Si,,,,Gasóleo,,,,,,,,,,,,,,,,,,130,,,,,,,,,,,,3,1,,,85000,,A reformar
+269,,23,,Si,,,,madrid,,,,,Eléctrica,,Tarima Flotante,,,,,1950,,,,,,,,,,,21,,,,,,,,,,,,1,1,,,89000,Si,
+270,Si,36,,Si,,Individual,65 KW h/m² año,madrid,Si,,,,,,Otros,,,,,,,,,,,,,,,,,,Si,,,Noreste,,,,,,,1,1,,220 Kg CO2/m² año,89000,,
+271,,19,4,Si,,Individual,356 KW h/m² año,madrid,,,,,Eléctrica,,Tarima Flotante,,,,,1920,,,Otros materiales,,,,,,,,,,Si,,,,,,Más de 50 años,,,,,1,,71 Kg CO2/m² año,93000,,Perfecto Estado
+272,,31,,,,,,madrid,,,,,,,Gres,,,,,,,,,,,,,,,"50,00 €",25,,,,,,,,Entre 20 y 25 Años,,,,1,1,,,94000,,Perfecto Estado
+273,,53,4,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Tarima normal,,,,,1965,,,Ladrillo,,4,,,Si,,"45,00 €",48,Si,Si,,,Este,,,Más de 50 años,,,,2,1,Si,,99000,Si,Perfecto Estado
+274,,232,,Si,Si,,,madrid,Si,,,,,,,,,,,1900,,,,,,,,,,,202,,,,,,,,Más de 50 años,,,,3,1,,,99000,,A reformar
+275,,217,,Si,Si,,,madrid,Si,2,,,,,Otros,,,,,1980,,,Ladrillo,,,,,,,,189,,,,,,,,Entre 35 y 50 Años,,,,7,2,,,99000,,
+276,,47,,,,Gas natural,,madrid,,,,,Gas Natural,,Tarima normal,,,,,,,,,,,,,,,"1.973,00 €",47,,Si,,,,,,Mas de 25 Años,,,,1,1,,,99990,Si,
+277,Si,44,,Si,,Individual,,madrid,Si,,,,,,Tarima normal,,,,,,,,,Si,,,,,,,43,Si,Si,,,,,,,,,,1,1,,,100000,,Perfecto Estado
+278,,103,,Si,,Individual,,madrid,Si,1,Si,,Gas Natural,1,Baldosa,,,,,1974,Si,,Ladrillo,,,,,,,"50,00 €",,,Si,,,Sur,,,Entre 35 y 50 Años,,,,1,1,Si,,105000,,Perfecto Estado
+279,,72,2,,,,,madrid,,,,,,,Gres,,,,,1975,,,,,,,,,,"50,00 €",67,,Si,,,,,,Mas de 25 Años,,,,3,1,,,105000,,
+280,,25,,Si,,Individual,,madrid,Si,,,,Individual,,Gres,,,,,1920,,,Cemento,,,,,,,"60,00 €",20,Si,Si,,,Noroeste,,,Más de 50 años,,,,,1,Si,,108000,Si,
+281,,65,,,,,,madrid,,1,,,,,Tarima normal,,,,,,,,,,,,,,,,54,,,,,,,,Entre 35 y 50 Años,,,,2,1,,,109000,,Perfecto Estado
+282,,66,,,,,,madrid,Si,1,,,,,Gres,,,,,1970,,,,,,,,,,"60,00 €",63,,,,,,,,Mas de 25 Años,,,,3,1,,,109000,Si,
+283,,52,5,Si,,,142 KW h/m² año,madrid,Si,,,,Eléctrica,,Tarima Flotante,,,,,1968,,1,Ladrillo,,20,,,,,"10,00 €",50,Si,,,,,,,Más de 50 años,,,,1,1,,59 Kg CO2/m² año,110000,Si,Perfecto Estado
+284,,59,,,,Individual,,madrid,Si,,,,Gas Natural,,Gres,,,,,,,,,,,,,,,,50,,,,,,,,Más de 50 años,,,,3,1,,,112500,,A reformar
+285,,184,,Si,,,,madrid,Si,2,,,,,,,,,,1972,,,,,,,,,,,160,,,,,Suroeste,,,Más de 50 años,,,,4,1,,,114000,,
+286,,47,,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Gres,,,,,1950,,,Cemento,,,,,,,"30,00 €",36,Si,,,,Noroeste,,,Mas de 25 Años,,,,2,1,,,115000,,Perfecto Estado
+287,,44,3,,,Individual,,madrid,Si,,,,Eléctrica,,Baldosa,,,,,1955,,,Mono Capa,,10,,,,,,35,,Si,,,,,,Más de 50 años,,,,1,1,,,115000,Si,Perfecto Estado
+288,,295,,,Si,,,madrid,,,,,,1,Gres,,,,,1989,,,,,,,,,,"30,00 €",235,,,,Si,,,,Mas de 25 Años,,,,5,2,,,115000,,
+289,,55,,Si,,Individual,201 KW h/m² año,madrid,Si,,,,,,,,,,,2008,,,,,,,,Si,,,50,,,,Si,,,,Entre 15 y 20 Años,,,,1,1,,42 Kg CO2/m² año,118000,Si,Perfecto Estado
+290,,50,3,,,Colectiva,,madrid,Si,,,,Eléctrica,,Parquet,,,,,2006,,2,Ladrillo,,6,,,Si,,,42,Si,,,Si,,,,Entre 10 y 15 Años,,,,1,1,,,119900,Si,Perfecto Estado
+291,,30,,Si,,,,madrid,,,,,Eléctrica,,Gres,,,,,1930,,,,,,,,,,,,,,,,,,,,,,,2,1,,,120000,Si,
+292,,32,,Si,,,,madrid,,,,,,,,,,,,1900,,,,,,,,,,"60,00 €",30,,Si,,,,,,Más de 50 años,,,,1,1,,,120000,Si,Perfecto Estado
+293,,27,,Si,,,311 KW h/m² año,madrid,,,,,,,Tarima normal,,,,,1950,,,Cemento,,,,,,,,24,,,,,,,,,,,,1,1,,65 Kg CO2/m² año,120000,Si,Perfecto Estado
+294,,71,,,,Individual,,madrid,Si,1,,,Individual,,,,,,,1972,,,Ladrillo,,,,,,,,,,,,,,,,Mas de 25 Años,,,,3,1,,,120000,,
+295,,36,,Si,,Individual,,madrid,Si,,,,Eléctrica,,Tarima normal,,,,,1979,,1,Ladrillo,,,,,,,"35,00 €",34,Si,Si,,,Noroeste,,,Entre 35 y 50 Años,,,,1,1,,,121000,,Perfecto Estado
+296,,60,,,,,,madrid,,,,,Eléctrica,,Tarima Flotante,,,,,,,,,,,,,,,,50,,,,,,,,Mas de 25 Años,,,,1,1,,,122500,Si,Perfecto Estado
+297,,293,,,Si,,,madrid,Si,,,,,,,,,,,1910,,,,,,,,,,,255,,,,,,,,Más de 50 años,,,,5,1,,,122900,,
+298,Si,80,6,Si,,,149 KW h/m² año,madrid,Si,2,,,Gas Natural,,Gres,,,,,1971,,,Ladrillo,,48,,,Si,,,76,Si,,,,,,,Más de 50 años,,,,3,1,,67 Kg CO2/m² año,123000,Si,Perfecto Estado
+299,,72,,Si,,,274 KW h/m² año,madrid,Si,1,,,Gas Natural,,Gres,,,,,1971,,,Ladrillo,,,,,,,"35,00 €",68,Si,Si,,,,,,Más de 50 años,,,,2,1,,67 Kg CO2/m² año,125000,Si,Perfecto Estado
+300,,100,2,Si,,,,madrid,Si,,,,,,,,,,,,,,,,,,,,,,87,,Si,,,,,,,Si,,,4,2,,,125000,,
+301,,70,5,,,Individual,,madrid,Si,2,,,,,Parquet,,,,,1970,,,Ladrillo,,18,,,,,"50,00 €",61,,,,,Sureste,,,Más de 50 años,,,,3,1,,,127500,,Perfecto Estado
+302,,61,,Si,,Individual,,madrid,Si,,,,,,Terrazo,,,,,,,,,,,,,,,,57,,,,,,,,Más de 50 años,,,,3,1,,,127500,,
+303,,62,,Si,,Individual,,madrid,Si,1,,,Eléctrica,,Parquet,,,,,,,,,,,,,,,"35,00 €",59,,,,,,,,Más de 50 años,,,,2,1,,,127500,,Depende del precio
+304,,90,,,,,,madrid,Si,,,,,,,,,,Si,,,,,,,,,,,,,,,,,,,,,,,,3,1,,,128500,,
+305,,61,,,,Gas natural,,madrid,Si,1,,,Gas Natural,,Tarima normal,,,,,1974,Si,,Ladrillo,,,,,,,,,Si,Si,,,,,,Mas de 25 Años,,Si,,3,1,,,128800,,Perfecto Estado
+306,,71,5,,,Central,,madrid,Si,,Si,,Central,,Tarima normal,,,,,1972,,,,,,,,,,"150,00 €",,,Si,,Si,,,,Más de 50 años,,,,3,1,,,128900,Si,Perfecto Estado
+307,,58,4,Si,,,152 KW h/m² año,madrid,Si,,,,Gas Natural,,Porcelánico,,,,,1972,,,Ladrillo,,16,,,,,"36,00 €",53,Si,Si,,,,,,Más de 50 años,,,,2,1,,69 Kg CO2/m² año,128900,Si,Perfecto Estado
+308,,76,,Si,,,157 KW h/m² año,madrid,Si,1,,,Gas Natural,,Parquet,,,,,1973,,,Ladrillo,,,,,,,"60,00 €",72,Si,,,,,,,Más de 50 años,,,,3,1,,89 Kg CO2/m² año,129000,Si,Perfecto Estado
+309,Si,75,,,,Individual,,madrid,Si,1,,,,,Gres,,,,,,,,Ladrillo,,,,,Si,,,,Si,,,,Noroeste,,,Mas de 25 Años,,,,3,1,,,129000,,Depende del precio
+310,,226,3,Si,Si,,,madrid,Si,,,,,,,,,,,1955,Si,,Ladrillo,,,,,,,,197,,,,,,,,Más de 50 años,,,,4,2,,,129000,,
+311,,310,,Si,Si,,287 KW h/m² año,madrid,Si,,Si,,,,,,,,,1987,Si,,,,,,,,,,270,,,,,,,,,,,,4,2,,60 Kg CO2/m² año,129000,,A reformar
+312,,80,,Si,,,,madrid,Si,1,,,Gasóleo,1,Baldosa,,,,Si,2011,,,Ladrillo,,,,,,,,70,,Si,,Si,,,,Entre 10 y 15 Años,,,,2,3,,,129000,,Perfecto Estado
+313,,72,6,Si,,Gas natural,5 KW h/m² año,madrid,Si,1,,,Gas Natural,,Sintasol,,,,,1971,,1,Ladrillo,,24,,,,,,68,Si,Si,,,,,,Mas de 25 Años,,,,3,1,,25 Kg CO2/m² año,129900,,
+314,,60,,,,Gas natural,,madrid,,,,,Eléctrica,,Tarima normal,,,,,,,,,,,,,,,,57,,Si,,,,,,Mas de 25 Años,,,,3,1,,,129900,Si,Perfecto Estado
+315,,359,2,Si,,Individual,,madrid,Si,,,,Biomasa,,,,,,Si,1900,,3,Cemento,,,,,,,,326,,,,,,,,Más de 50 años,,,,6,2,Si,,129990,Si,A reformar
+316,,90,,Si,,,,madrid,Si,,,,,,Terrazo,,,,,1986,,,,,,,,,,,72,,Si,,,,,,Entre 35 y 50 Años,,,,3,2,,,131500,,
+317,,72,4,Si,,Individual,177 KW h/m² año,madrid,Si,,,,Gas Natural,,Gres,,,,,1968,,2,Ladrillo,,16,,,,,"45,00 €",67,Si,Si,,,,,,Entre 35 y 50 Años,,,,2,1,,35 Kg CO2/m² año,132000,Si,Perfecto Estado
+318,,50,5,Si,,,,madrid,Si,,,,Individual,,Parquet,,,,,1985,,,Ladrillo,,,,,,,"60,00 €",,Si,,,,Sureste,,,Entre 25 y 35 años,,,,2,1,,,132000,,Perfecto Estado
+319,,109,,Si,,Individual,187 KW h/m² año,madrid,Si,,,,Gas Natural,,Gres,,,,,1973,,,Ladrillo,,,,,,,"40,00 €",94,Si,Si,,Si,,,,Entre 35 y 50 Años,,,,3,1,,69 Kg CO2/m² año,133000,Si,Perfecto Estado
+320,Si,48,,Si,,Individual,,madrid,Si,,,,,,Tarima normal,,,,,1965,,,Piedra,,,,,,,,39,,,,,Norte,,,Entre 35 y 50 Años,,,,1,1,,,133000,,Perfecto Estado
+321,,76,,,,Gas natural,,madrid,Si,,,,Gas Natural,,Sintasol,,,,,1977,,,,,,,,Si,,"50,00 €",65,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,134100,,Perfecto Estado
+322,,73,,,,,,madrid,Si,,,,,,Tarima normal,,,,,1968,,,Ladrillo,,,,,,,,,,Si,,,,,,,,,,3,1,,,134900,,
+323,,56,,Si,,Gas natural,,madrid,Si,,,,Gas Natural,,Tarima Flotante,,,,,1965,,1,Mono Capa,,,,,,,,45,,,,,,,,Más de 50 años,,,,2,1,,,134900,Si,Perfecto Estado
+324,Si,32,,Si,,Individual,,madrid,,,,,Eléctrica,,Tarima Flotante,Si,,,,1961,,,Ladrillo,,,,,Si,,,28,,,,,Oeste,,,Más de 50 años,,,,,1,,,135000,Si,Perfecto Estado
+325,,56,,,,,,madrid,Si,1,,,,,Terrazo,,,,,1965,,,,,,,,,,,,,,,,,,,,,,,3,1,,,135000,,
+326,,48,,Si,,Individual,,madrid,Si,,,,Eléctrica,,Gres,,,,,,,,,,,,,,,,46,Si,,,,,,,,,,,2,1,,,135000,Si,Perfecto Estado
+327,,109,2,Si,,,,madrid,Si,,,,Individual,1,Gres,,,,,2008,,2,Mono Capa,,,,,,,"30,00 €",90,,Si,,,,,,Entre 20 y 25 Años,,,,2,2,,,135000,,Perfecto Estado
+328,,116,,Si,,,,madrid,Si,,Si,,,,,,,,,2009,Si,,Ladrillo,,,,,,,,101,,,,,,,,Entre 15 y 20 Años,Si,,,4,2,Si,,135000,Si,Perfecto Estado
+329,Si,72,,,,Individual,,madrid,Si,,,,,,Parquet,,,,,1950,,,,,,,,Si,,,,Si,,,,,,,,,,,3,1,,,135000,,
+330,,83,,,,Gas natural,,madrid,,,,,Gas Natural,,Otros,,,,,,,,,,,,,,,"50,00 €",77,,,,,,,,Mas de 25 Años,,,,3,1,,,135000,,
+331,,45,9,Si,,,59 KW h/m² año,madrid,Si,,,,Eléctrica,,Tarima Flotante,,,,,1975,,,Ladrillo,,4,,,Si,,,40,Si,Si,,,,,,Entre 35 y 50 Años,,,36,1,1,,142 Kg CO2/m² año,136000,Si,Obra nueva
+332,,72,,Si,,,347 KW h/m² año,madrid,,2,,,Individual,,Tarima normal,,,,,1971,,,,,,,,,,,62,Si,,,,,,,Más de 50 años,,,,3,1,,73 Kg CO2/m² año,137500,,Perfecto Estado
+333,,35,,Si,,Individual,518 KW h/m² año,madrid,,,,,,,Tarima Flotante,,,,,1930,,,,,,,,,,,30,,,,,,,,Más de 50 años,,,,1,1,,130 Kg CO2/m² año,138000,Si,Depende del precio
+334,,56,,,,,,madrid,Si,1,,,,,Gres,,,,,,,,,,,,,,,,48,,,,,,,,Más de 50 años,,,,2,1,,,138500,,A reformar
+335,,65,4,,,Gas natural,,madrid,Si,3,,,,,Gres,,,,,1950,,,Ladrillo,,3,,,,,"50,00 €",50,Si,Si,,,Oeste,,,Mas de 25 Años,,,,3,1,,,139000,,Depende del precio
+336,,50,,,,Individual,,madrid,Si,2,,,Gas Natural,,Gres,,,,,2002,,1,Ladrillo,,,,,,,,,,,,Si,,,,Entre 20 y 25 Años,,,,1,1,,,139000,,
+337,,55,2,,,,,madrid,,1,,,Eléctrica,,Sintasol,,,,,1940,,,,,2,,,,,"50,00 €",50,,Si,,,,,,,,,,2,1,Si,,139000,Si,A reformar
+338,,55,,Si,,,,madrid,,1,,,Eléctrica,,Sintasol,,,,,1940,,,,,,,,,,"50,00 €",50,,Si,,,,,,,,,,2,1,,,139000,,A reformar
+339,,,,,,Individual,,madrid,,,,,Individual,1,Tarima Flotante,,,,,,,3,Ladrillo,,,,,,,,61,,Si,,Si,,,,Menos de 5 Años,,,,2,2,,,139500,Si,Obra nueva
+340,,47,,,Si,,,madrid,,,,,,,,,,,,1970,,,,,,,,,,,,,,,,,,,Más de 50 años,,,,2,1,,,139900,,A reformar
+341,,79,,,,Individual,,madrid,Si,,,,Eléctrica,,Baldosa,,,,,,,1,,,,,,,,"70,00 €",,,Si,,,,,,Entre 35 y 50 Años,,,,3,1,,,139900,Si,Perfecto Estado
+342,,55,,Si,,Gas natural,,madrid,,,,,Gas Natural,,Tarima normal,,,,,,,,,,,,,,,,,Si,,,,Sur,,,,,,,2,1,,,139900,,Perfecto Estado
+343,,60,,Si,,,514 KW h/m² año,madrid,Si,1,,,,,Terrazo,,,,,1962,,,,,,,,,,,50,,,,,,,,Más de 50 años,,,,2,1,,108 Kg CO2/m² año,140000,Si,Perfecto Estado
+344,,88,,Si,,Individual,,madrid,Si,1,,,Eléctrica,,Tarima Flotante,,,,,1978,,,,,,,,Si,,,82,Si,Si,,,,,,Mas de 25 Años,,,,3,1,,,140000,Si,
+345,Si,63,5,,,Individual,,madrid,Si,1,,,Gas Natural,,Parquet,,,,,1965,,1,Ladrillo,,19,,,Si,,,,Si,Si,,,Oeste,,,Más de 50 años,,,,2,1,Si,,140000,Si,Perfecto Estado
+346,,67,,Si,,Gas Butano,,madrid,Si,1,,,Individual,,Gres,,,,,1966,,,Ladrillo,,,,,,,"50,00 €",63,Si,,,,Este,,,Más de 50 años,,,,3,1,,,140000,Si,
+347,,64,3,,,Gas natural,,madrid,Si,,,,Gas Natural,,Terrazo,,,,,1950,,,Ladrillo,,3,,,,,"60,00 €",,Si,Si,,,,,,Más de 50 años,,,,3,1,,,140000,Si,

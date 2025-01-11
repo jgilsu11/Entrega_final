@@ -1,0 +1,102 @@
+,,Acceso minusválidos,Metros,Plantas,Cal. energética:,Individual,Agua caliente,Consumo,provincia,Exterior,Número de terrazas,Piscina,Pista de tenis,Calefacción,Salida de humos,Garajes,Tipo de suelo,Conserje,Pista de fútbol,Gimnasio,Adosado,Año de construcción,Zonas verdes,Armarios,Tipo de fachada,Alarma,Pisos,Permite mascotas,Cal. energética,Ascensor,Campo de golf,Comunidad,Metros útiles,Puerta de seguridad,Aire acondicionado,Pista de pádel,Trastero,Orientación,Pista de squash,Pista de baloncesto,Antigüedad,Pareado,Circuito cerrado de seguridad,Inquilinos,Dormitorios,Baños,Amueblado,Emisiones,Precio,Cocina equipada,Estado
+0,,,120,,,,,,zaragoza,Si,1,,,Central,,1,Terrazo,Si,,,,1976,,,,,,,,Si,,,87,,,,,,,,Entre 25 y 35 años,,,,3,2,,,219900,,Perfecto Estado
+1,,,42,,,,Individual,,zaragoza,Si,,,,Individual,,,Gres,,,,,,,,,,,,,Si,,"10,00 €",,Si,,,,Sur,,,,,,,1,1,,,39990,Si,Perfecto Estado
+2,,,63,,,,,,zaragoza,,1,,,Individual,,,Baldosa,,,,,,,,,,,,,,,"50,00 €",55,,Si,,,,,,Más de 50 años,,,,2,1,Si,,47500,Si,A reformar
+3,,,55,4,,,Individual,,zaragoza,,,,,Gas Natural,,,Parquet,,,,,,,,,,,,,,,"33,00 €",48,,Si,,,Sur,,,,,,,1,1,,,77000,,Perfecto Estado
+4,,,60,,,,,,zaragoza,Si,,,,Eléctrica,,,Baldosa,,,,,1965,,,Ladrillo,,,Si,,,,"45,00 €",50,,,,,,,,Más de 50 años,,,,2,1,Si,,84900,,Perfecto Estado
+5,,,81,4,,,Central,,zaragoza,Si,1,,,Gas Natural,,,Parquet,,,,,1964,,,Cemento,Si,2,,,Si,,"50,00 €",66,Si,Si,,,Suroeste,,,Entre 35 y 50 Años,,Si,,3,1,Si,,89900,Si,A reformar
+6,,,61,,,,Individual,,zaragoza,Si,,,,Individual,,,Tarima Flotante,,,,,,,,,,,,,,,"20,00 €",53,Si,Si,,,,,,Más de 50 años,,,,2,1,,,104000,Si,Perfecto Estado
+7,,,67,4,,,Gas natural,,zaragoza,Si,1,,,Gas Natural,,,Parquet,,,,,1988,,,,,8,,,Si,,,50,,,,Si,Este,,,Mas de 25 Años,,,,3,1,,,105000,Si,Perfecto Estado
+8,,,57,,,,Gas natural,,zaragoza,Si,1,,,Gas Natural,,,Parquet,,,,,2004,,,,Si,,,,Si,,"53,00 €",53,Si,,,Si,Noroeste,,,Entre 20 y 25 Años,,,,2,1,Si,,113000,Si,Perfecto Estado
+9,,,72,,,,Individual,,zaragoza,Si,,,,Biomasa,,,Parquet,,,,Si,,,,,,,,,,,,63,,Si,,,Sur,,,Más de 50 años,,,,2,2,Si,,114900,Si,Perfecto Estado
+10,,,75,,,,,,zaragoza,,,,,,,,Baldosa,,,,,1936,,,,,,,,,,,70,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,115000,,Depende del precio
+11,,,55,3,,,,,zaragoza,Si,2,,,Gas Natural,,,Tarima normal,,,,,2001,,1,,,10,,,Si,,"69,00 €",40,,,,Si,,,,Entre 20 y 25 Años,,,,1,1,,,119900,Si,
+12,,Si,99,7,Si,,Individual,,zaragoza,Si,1,,,Central,,,Terrazo,,,,,1976,,,Ladrillo,,,,,Si,,"117,00 €",75,,,,Si,Sureste,,,Más de 50 años,,,,3,1,,,124000,,
+13,,,65,,,,Individual,,zaragoza,Si,,,,Eléctrica,,,Porcelánico,,,,,1965,,,Ladrillo,,3,,,,,"18,00 €",58,,Si,,,Este,,,Más de 50 años,,,,2,1,,,128000,Si,Perfecto Estado
+14,,,84,7,,,,,zaragoza,Si,1,,,,,,Terrazo,,,,,1969,,,,,21,,,Si,,"50,00 €",68,,,,,Sureste,,,Más de 50 años,,,,4,1,,,129000,,A reformar
+15,,Si,71,5,,,Individual,,zaragoza,Si,1,,,Individual,,1,Marmol,,,,,1999,,,Ladrillo,,28,,,Si,,"55,00 €",50,Si,Si,,Si,Norte,,,Entre 20 y 25 Años,,,,2,1,Si,,129900,Si,Perfecto Estado
+16,,,65,6,,,Central,,zaragoza,,,,,Central,,,,,,,,1980,,,,Si,49,,,Si,,"110,00 €",60,Si,,,,Noreste,,,Entre 35 y 50 Años,,,,2,1,,,137900,Si,
+17,,,104,,,,Individual,,zaragoza,Si,1,,,,,,Baldosa,,,,,1950,,,,,,,,,,"50,00 €",98,,,,,,,,Más de 50 años,,,,5,1,,,139000,Si,Perfecto Estado
+18,,,98,5,,,Central,,zaragoza,Si,,,,Central,,,Tarima normal,,,,,1976,,,,,,,,Si,,"140,00 €",80,,Si,,,Sureste,,,Entre 35 y 50 Años,,,,3,1,,,149000,,Perfecto Estado
+19,,,74,5,,,Central,,zaragoza,Si,1,,,Individual,,1,Porcelánico,,,,,1977,,,,,19,,,Si,,"51,00 €",72,Si,,,,,,,Entre 35 y 50 Años,,,,3,2,,,154900,Si,Perfecto Estado
+20,,,93,,,,Central,,zaragoza,,1,,,Central,,,Parquet,,,,,1974,,2,,,,,,Si,,"110,00 €",65,,Si,,,,,,Más de 50 años,,,,2,1,,,155000,,
+21,,,93,,,,Central,,zaragoza,,2,,,Central,,1,Parquet,,,,,1974,,2,Ladrillo,,,,,Si,,"110,00 €",65,Si,Si,,,,,,,,,,2,1,,,170000,Si,Depende del precio
+22,,Si,104,5,Si,,Individual,,zaragoza,Si,1,,,Central,,1,Terrazo,,,,,1980,,,Ladrillo,,20,,,Si,,"150,00 €",85,Si,Si,,Si,,,,Entre 35 y 50 Años,,,,3,2,Si,,179900,Si,Perfecto Estado
+23,,Si,99,10,Si,,Central,,zaragoza,Si,3,,,Central,,1,Terrazo,Si,,,,1971,,3,Ladrillo,,48,,,Si,,"111,00 €",83,,,,,Noreste,,,Más de 50 años,,,,3,1,Si,,189900,Si,A reformar
+24,,Si,131,7,,,Placas Solares,,zaragoza,Si,2,,,Individual,,1,Tarima Flotante,,,Si,,2023,,3,Ladrillo,,,,,Si,,"75,00 €",95,Si,Si,,Si,Sureste,,,Menos de 5 Años,,,,3,2,,,330000,Si,Perfecto Estado
+25,,Si,62,4,Si,,Individual,322 KW h/m² año,zaragoza,,,,,Individual,,,,,,,,1960,,,Ladrillo,,12,,,Si,,"3,00 €",58,,Si,,,Sur,,,Más de 50 años,,,,2,1,Si,66 Kg CO2/m² año,A consultar,,A reformar
+26,,,63,,,,Individual,,zaragoza,Si,,,,Eléctrica,,,Gres,,,,,1965,,,Ladrillo,,4,,,,,"25,00 €",52,Si,,,Si,Oeste,,,,,,,3,1,,,A consultar,Si,Perfecto Estado
+27,,Si,88,,,,Individual,,zaragoza,Si,,,,Central,,,Gres,,,,,1972,,,Ladrillo,,,,,Si,,"55,00 €",73,,Si,,,Suroeste,,,Más de 50 años,,,,3,1,,,A consultar,,A reformar
+28,,,70,,Si,,,,zaragoza,Si,,,,,,,Gres,,,,,1970,,,Ladrillo,,,,,Si,,"43,00 €",64,,,,,Sur,,,Más de 50 años,,Si,,3,1,,,77000,,Depende del precio
+29,,,62,,,,Individual,,zaragoza,Si,2,,,Individual,,,Terrazo,,,,,1973,,,,,,,,,,"20,00 €",58,Si,,,,,,,Más de 50 años,,,,3,1,Si,,79500,Si,
+30,,,63,,,,Central,,zaragoza,,1,,,Central,,,Terrazo,,,,,1975,,,,,,,,Si,,"115,00 €",55,Si,Si,,,Este,,,Más de 50 años,,,,3,1,,,90000,,Perfecto Estado
+31,,,81,10,,,Central,,zaragoza,,,,,Central,,,Tarima Flotante,Si,,,,1966,,,,,,,,Si,,,75,Si,Si,,,Suroeste,,,Más de 50 años,,,,3,1,Si,,145000,,Perfecto Estado
+32,,,97,,,,,,zaragoza,,,Si,,Central,,,Parquet,,,,,1979,Si,,,,,,,Si,,"122,00 €",80,,,,,Noreste,,,Entre 35 y 50 Años,,Si,,3,2,,,159000,,Perfecto Estado
+33,,Si,88,8,,,Individual,,zaragoza,Si,2,,,Central,,,Tarima normal,,,,,1974,,,Ladrillo,,32,Si,,Si,,"143,00 €",81,Si,Si,,Si,Sur,,,Entre 35 y 50 Años,,,,3,1,,,169000,Si,Perfecto Estado
+34,,Si,126,8,,,Individual,,zaragoza,Si,2,,,Individual,,1,Tarima Flotante,,,,,1981,,,,,72,,,Si,,"90,00 €",97,Si,,,,Este,,,Entre 35 y 50 Años,,,,3,1,Si,,189900,Si,Perfecto Estado
+35,,,118,8,,,Central,,zaragoza,Si,1,,,Central,,1,Terrazo,,,,,1981,,,,,24,,,Si,,"125,00 €",90,,Si,,Si,Suroeste,,,Entre 35 y 50 Años,,,,3,1,,,A consultar,,A reformar
+36,,,47,4,,,Individual,,zaragoza,,1,,,Individual,,,Tarima Flotante,,,,,1971,,,Ladrillo,,,,,,,"35,00 €",39,,Si,,,Este,,,Entre 35 y 50 Años,,,,1,1,,,45000,,Depende del precio
+37,,,41,4,,,,,zaragoza,,,,,Eléctrica,,,Baldosa,,,,,1954,,,Ladrillo,Si,2,,,,,"26,00 €",30,Si,,,,,,,Más de 50 años,,,,2,1,,,46000,,Perfecto Estado
+38,,,58,4,,,Central,,zaragoza,,,,,,,,Baldosa,,,,,1951,,,,,,,,,,"30,00 €",50,,,,,Sureste,,,Más de 50 años,,,,2,1,,,49900,,A reformar
+39,,,38,3,,,,,zaragoza,,,,,Eléctrica,,,Baldosa,,,,,1900,,,,,9,,,,,"30,00 €",36,,,,,,,,Entre 35 y 50 Años,,,,1,1,Si,,49900,,Perfecto Estado
+40,,Si,73,,Si,,Individual,1 KW h/m² año,zaragoza,Si,1,,,,,,Terrazo,,,,,1930,,,,,,,,Si,,"38,00 €",67,,,,,Este,,,Más de 50 años,,,,3,1,,1 Kg CO2/m² año,62000,Si,A reformar
+41,,,48,4,,,Individual,,zaragoza,Si,,,,Eléctrica,,,Gres,,,,,1960,,,,,4,,,,,,42,,Si,,,Sur,,,Entre 35 y 50 Años,,,,2,1,,,64900,,Perfecto Estado
+42,,,74,4,,,Individual,,zaragoza,Si,,,,Individual,,,Otros,,,,,1936,,,,,12,,,Si,,"70,00 €",67,,,,,,,,Más de 50 años,,,,4,1,,,65000,,A reformar
+43,,,60,,,,Individual,,zaragoza,Si,1,,,Individual,,,Terrazo,,,,,2000,,,,,,,,,,,49,,,,,,,,Entre 20 y 25 Años,,,,1,1,,,65000,Si,Perfecto Estado
+44,,,50,,Si,,Individual,,zaragoza,,,,,,,,Otros,,,,,1962,,,,,,,,,,"30,00 €",45,,,,,Sureste,,,Más de 50 años,,,,2,1,,,65000,,A reformar
+45,,,70,5,,,Individual,,zaragoza,Si,1,,,Gas Natural,,,Sintasol,,,,,1964,,2,Ladrillo,,10,,,,,"30,00 €",62,Si,Si,,,,,,Más de 50 años,,,,2,1,,,65500,Si,Perfecto Estado
+46,,,53,,,,,,zaragoza,Si,,,,Individual,,,Baldosa,,,,,1960,,,,,,,,,,,48,,,,,,,,,,,,2,1,,,65900,,Depende del precio
+47,,,54,,,,Individual,,zaragoza,,,,,Eléctrica,,,Gres,,,,,1962,,,,,,,,,,"30,00 €",40,,,,,Noreste,,,Más de 50 años,,,,2,1,,,66000,,
+48,,,56,,,,Individual,,zaragoza,Si,1,,,Individual,,,Terrazo,,,,,1970,,,Ladrillo,,,,,Si,,"50,00 €",45,,,,,Este,,,Mas de 25 Años,,,,2,1,,,66000,,A reformar
+49,,,65,4,,,,,zaragoza,,,,,,,,Terrazo,,,,,1973,,,,,8,,,,,"40,00 €",60,,,,,,,,Entre 35 y 50 Años,,,,2,1,,,69900,,Depende del precio
+50,,,77,4,,,,,zaragoza,Si,1,,,Individual,,,Gres,,,,,1965,,,,,,,,,,"39,00 €",71,,,,,,,,Entre 35 y 50 Años,,,12,3,1,,,71900,Si,Depende del precio
+51,,,53,2,,,Individual,,zaragoza,,1,,,Individual,,,Baldosa,,,,,1966,,,,,,,,Si,,"40,00 €",50,Si,,,,,,,Más de 50 años,,,,2,1,,,72000,,
+52,,,59,,,,Gas natural,,zaragoza,Si,1,,,Gas Natural,,,Gres,,,,,1970,,,Ladrillo,Si,,,,Si,,,52,,,,,Este,,,,,,,2,1,,,75000,,A reformar
+53,,,53,,,,Individual,,zaragoza,Si,,,,Eléctrica,,,Sintasol,,,,,1966,,,,,,,,Si,,"42,00 €",43,Si,,,,,,,,,,,2,1,,,79000,Si,A reformar
+54,,,66,11,,,,,zaragoza,,1,,,Central,,,Baldosa,,,,,1969,,,,,4,,,Si,,"100,00 €",57,,,,,Sur,,,Más de 50 años,,,,3,1,,,82000,,A reformar
+55,,Si,84,7,,,Gas natural,,zaragoza,Si,,,,Individual,,,Terrazo,,,,,1979,,,,,28,,,Si,,"60,00 €",76,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,84900,,Depende del precio
+56,,Si,65,,,,,,zaragoza,,,,,,,,,,,,,1971,,,,,,,,Si,,,63,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,85000,Si,Perfecto Estado
+57,,,78,4,,,,,zaragoza,Si,2,,,Individual,,,Terrazo,,,,,1972,,,,,12,,,,,"70,00 €",74,,,,,Noreste,,,Entre 35 y 50 Años,,,,3,1,Si,,89900,,Depende del precio
+58,,,138,,,,Central,,zaragoza,Si,,,,Central,,1,Tarima normal,,,,,2005,,,,,,,,Si,,"68,00 €",100,Si,,,Si,,,,,,,,2,1,Si,,89900,Si,Perfecto Estado
+59,,,75,,,,Central,,zaragoza,Si,,,,Central,,,Gres,,,,,1967,,,,,,,,Si,,"97,00 €",73,,,,,,,,Más de 50 años,,,,3,1,,,95000,,Depende del precio
+60,,,75,,,,Individual,,zaragoza,Si,,,,,,,,,,,,1963,,,,,,,,Si,,,71,,,,,,,,,,,,3,1,,,95000,,A reformar
+61,,,60,,,,Individual,,zaragoza,Si,1,,,Eléctrica,,,Gres,,,,,1970,,,Ladrillo,,,,,Si,,,51,Si,,,,,,,,,Si,,2,1,Si,,99900,Si,Perfecto Estado
+62,,Si,58,,,,Individual,,zaragoza,Si,1,,,Central,,,,Si,,,,1945,,,,,,,,Si,,"73,00 €",47,,Si,,,Oeste,,,Más de 50 años,,Si,,1,1,,,99900,,
+63,,,79,,,,Individual,,zaragoza,,,,,Individual,,,Terrazo,,,,,1976,,,,,,,,Si,,"50,00 €",72,,Si,,,Sur,,,Entre 35 y 50 Años,,,,3,1,,,101000,Si,Perfecto Estado
+64,,Si,62,7,,,Individual,,zaragoza,Si,1,,,Eléctrica,,,Parquet,,,,,1961,,,,,25,,,Si,,"54,00 €",54,,Si,,,Este,,,Más de 50 años,,,,2,1,,,106000,Si,Perfecto Estado
+65,,,63,,,,Central,,zaragoza,,1,,,Central,,1,,,,,,1975,,,,,,,,Si,,"115,00 €",55,,Si,,,Este,,,Más de 50 años,,,,3,1,,,107000,,Perfecto Estado
+66,,,78,,,,Individual,,zaragoza,,1,,,Individual,,,Terrazo,,,,,1969,,1,Ladrillo,,,,,Si,,"53,00 €",,,,,,Sur,,,Entre 35 y 50 Años,,,,3,1,,,117000,,A reformar
+67,,,62,,,,Individual,,zaragoza,Si,,,,Individual,,,Parquet,,,,,1962,,,Ladrillo,,,,,Si,,"51,00 €",57,,,,,Sureste,,,Más de 50 años,,,,2,1,,,119900,,Perfecto Estado
+68,,,80,,Si,,Individual,269 KW h/m² año,zaragoza,Si,1,,,Individual,,,Gres,,,,,,,,Ladrillo,,,,,Si,,"49,00 €",70,Si,Si,,,Noreste,,,Entre 35 y 50 Años,,,,3,1,,49 Kg CO2/m² año,119900,Si,Perfecto Estado
+69,,,70,7,,,Individual,,zaragoza,Si,,,,Individual,,,Baldosa,,,,,1970,,,Ladrillo,,,,,Si,,"42,91 €",67,Si,,,,,,,Más de 50 años,,,,3,1,,,119900,Si,A reformar
+70,,Si,73,10,,,,,zaragoza,Si,,,,Central,,,,,,,,1971,,,Ladrillo,,,,,Si,,"110,00 €",66,,,,Si,,,,Más de 50 años,,,,3,1,,,119900,,A reformar
+71,,Si,57,,Si,,Individual,,zaragoza,Si,1,,,Individual,,,Parquet,,,,,2007,,2,Ladrillo,Si,,,,Si,,"39,00 €",50,Si,Si,,,Este,,,Entre 15 y 20 Años,,Si,,1,1,,,120000,Si,Perfecto Estado
+72,,Si,81,,,,Individual,,zaragoza,Si,1,,,Central,,,Baldosa,,Si,,,1975,,1,Ladrillo,,,,,Si,,"117,00 €",75,,Si,,,,,,Entre 35 y 50 Años,,,,3,1,,,129000,,A reformar
+73,,,65,,,,Central,,zaragoza,Si,,,,Individual,,,Gres,,,,,1968,,,,,,,,Si,,"40,00 €",58,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,133000,,Perfecto Estado
+74,,,78,4,,,Individual,,zaragoza,Si,,,,Individual,,,Parquet,,,,,1936,,,,,12,,,Si,,"70,00 €",67,,,,,Noreste,,,Más de 50 años,,,,3,1,,,137500,,Perfecto Estado
+75,,,94,4,,,Gas natural,,zaragoza,Si,,,,Central,,1,Terrazo,,,,,2001,,,,,8,,,Si,,"60,00 €",77,,Si,,Si,Norte,,,,,,,3,2,,,138000,Si,Perfecto Estado
+76,,,64,,,,,,zaragoza,,,,,,,,Parquet,,,,,1970,,,,,,,,Si,,,60,Si,,,,,,,Más de 50 años,,,,3,1,Si,,139000,Si,Perfecto Estado
+77,,Si,103,7,,,,,zaragoza,Si,1,,,Central,,1,,,,,,1978,,,,,,Si,,Si,,"115,00 €",68,,,,Si,Este,,,Entre 35 y 50 Años,,,,3,1,,,139900,Si,Perfecto Estado
+78,,,94,4,,,Gas natural,,zaragoza,Si,,,,Central,,1,Terrazo,,,,,2001,,,,,8,,,Si,,"60,00 €",77,,Si,,Si,Norte,,,,,,,3,2,,,140000,,Perfecto Estado
+79,,,78,,,,Individual,,zaragoza,Si,2,,,Individual,,,Porcelánico,,,,,1964,,,,Si,,,,Si,,,70,Si,Si,,,Oeste,,,Más de 50 años,,,,3,1,,,149000,Si,Perfecto Estado
+80,,Si,93,,,,Individual,,zaragoza,Si,,,,,,,Gres,,,,,1960,Si,,,,,,,Si,,"40,00 €",86,,,,,Este,,,Más de 50 años,,,,4,1,,,160000,Si,
+81,,,134,,,,Central,,zaragoza,Si,,,,Central,,1,Baldosa,,,,,1980,,,,Si,,,,Si,,"70,00 €",95,,Si,,Si,,,,Entre 35 y 50 Años,,,,3,1,Si,,170000,,Perfecto Estado
+82,,,104,,,,Individual,,zaragoza,Si,2,,,Individual,,,Gres,,,,,1950,,,,,4,,,,,,87,,,,,Este,,,Más de 50 años,,,,4,1,,,180000,Si,A reformar
+83,,Si,88,,Si,,Individual,,zaragoza,Si,2,,,Central,,,Tarima Flotante,Si,,,,1970,,2,Ladrillo,Si,,,,Si,,"150,00 €",80,Si,Si,,,Sureste,,,Más de 50 años,,Si,,3,1,,,185000,Si,Perfecto Estado
+84,,,126,,,,,,zaragoza,Si,1,,,Central,,1,,,,,,1978,,,,,,,,Si,,"170,00 €",77,Si,,,,,,,,,,,3,1,,,190000,Si,Depende del precio
+85,,,135,,Si,,Individual,,zaragoza,Si,2,,,Individual,,1,Tarima normal,,,,,1993,,,,,,,,Si,,"70,00 €",125,Si,Si,,Si,,,,Mas de 25 Años,,Si,,4,2,,,200000,Si,Depende del precio
+86,,,138,4,Si,,Individual,118 KW h/m² año,zaragoza,Si,1,,,Individual,,1,Parquet,,,,,2009,Si,1,,,,,,Si,,"89,00 €",120,,,,Si,,,,Entre 10 y 15 Años,,,,3,2,Si,22 Kg CO2/m² año,208000,Si,Perfecto Estado
+87,,,213,,,,Central,,zaragoza,Si,2,,,Central,,,,,,,,,,,,,,,,,,"475,00 €",187,,,,,Sureste,,,Entre 35 y 50 Años,,,,10,3,,,210000,Si,A reformar
+88,,Si,217,,,,Individual,,zaragoza,Si,3,Si,,Individual,,1,Parquet,Si,,,Si,,Si,,Ladrillo,Si,,,,,,,100,Si,Si,,Si,Noreste,,,Entre 15 y 20 Años,,,,3,2,Si,,221000,Si,Perfecto Estado
+89,,Si,126,9,,,Central,,zaragoza,Si,2,,,Central,,1,Parquet,Si,,,,1982,,4,Ladrillo,,,,,Si,,"160,00 €",93,,Si,,Si,,,,Entre 35 y 50 Años,,,,4,2,Si,,329000,,Perfecto Estado
+90,,Si,214,,,,Individual,,zaragoza,Si,2,,,Individual,,,Tarima normal,Si,,,,1950,,,Piedra,Si,,,,Si,,"253,00 €",196,Si,Si,,,Este,,,Entre 35 y 50 Años,,,,5,5,Si,,349000,Si,Perfecto Estado
+91,,Si,211,,,,Central,,zaragoza,Si,2,,,Central,,1,Tarima normal,Si,,,,1974,,2,Ladrillo,,,,,Si,,"90,00 €",111,Si,,,Si,Noreste,,,Entre 35 y 50 Años,,Si,,4,2,,,420000,Si,A reformar
+92,,,205,,,,,,zaragoza,Si,1,,,,,,,,,,,1962,,,,,,,,,,,204,,,,,,,,Más de 50 años,Si,,,7,2,,,A consultar,,A reformar
+93,,Si,67,4,,,Individual,,zaragoza,Si,1,,,Individual,,2,Tarima normal,,,,,2008,,,,,3,,,Si,,"53,00 €",57,Si,,,Si,Oeste,,,Entre 10 y 15 Años,,,,2,1,,,A consultar,,Perfecto Estado
+94,,Si,89,9,,,Central,,zaragoza,Si,,Si,,Central,,,Terrazo,Si,,,,1976,,,,,36,,,Si,,"120,00 €",81,Si,,,Si,,,Si,Entre 35 y 50 Años,,,,3,2,,,A consultar,,A reformar
+95,,,71,,,,Gas natural,,zaragoza,Si,,,,Individual,,,Baldosa,,,,,,,,,,,,,Si,,"41,00 €",59,,,,,Sur,,,Más de 50 años,,,,3,1,,,A consultar,,A reformar
+96,,,71,4,,,Individual,,zaragoza,Si,3,,,Individual,,,Baldosa,,,,,1964,,,,,3,,,,,"20,00 €",65,,,,,Noreste,,,Más de 50 años,,,,3,1,,,A consultar,,A reformar
+97,,,67,,,,Individual,,zaragoza,,,,,Individual,,,Baldosa,,,,,,,,,,,,,Si,,"55,00 €",57,,,,,,,,Entre 35 y 50 Años,,,,2,1,,,A consultar,,Perfecto Estado
+98,,Si,70,,,,Individual,,zaragoza,,1,,,Central,,,Baldosa,,,,,,,2,,,,,,Si,,"100,00 €",65,Si,Si,,,Sureste,,,Más de 50 años,,,,2,1,,,A consultar,Si,Perfecto Estado
+99,,,86,4,,,Individual,,zaragoza,,,,,Individual,,,Tarima Flotante,,,,,1954,,,Ladrillo,,8,,,,,"35,00 €",80,,,,,Sur,,,Entre 35 y 50 Años,,,,3,1,,,A consultar,,Perfecto Estado
+100,,Si,95,4,,,,,zaragoza,Si,1,,,Aerotermia,,,Tarima Flotante,,,,,1956,,,Ladrillo,,,,,Si,,"68,00 €",89,Si,Si,,,Este,,,Menos de 5 Años,,,,3,2,,,239000,Si,Perfecto Estado

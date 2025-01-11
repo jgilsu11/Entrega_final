@@ -1,0 +1,58 @@
+,,Acceso minusválidos,Metros,Plantas,Cal. energética:,Individual,Agua caliente,Consumo,provincia,Exterior,Número de terrazas,Piscina,Pista de tenis,Calefacción,Salida de humos,Garajes,Tipo de suelo,Conserje,Pista de fútbol,Gimnasio,Adosado,Año de construcción,Zonas verdes,Armarios,Tipo de fachada,Alarma,Pisos,Permite mascotas,Cal. energética,Ascensor,Campo de golf,Comunidad,Metros útiles,Puerta de seguridad,Aire acondicionado,Pista de pádel,Trastero,Orientación,Pista de squash,Pista de baloncesto,Antigüedad,Pareado,Circuito cerrado de seguridad,Inquilinos,Dormitorios,Baños,Amueblado,Emisiones,Precio,Cocina equipada,Estado
+0,,,91,,,Si,,,tenerife,Si,1,,,,,1,Otros,,,,,,Si,,Ladrillo,,,,,,,,90,,,,,,,,,,,,3,1,,,59000,,A reformar
+1,,,70,3,,,,,tenerife,Si,1,,,,,,Baldosa,,,,,1963,,,Cemento,,1,,,,,,65,,,,,,,,Más de 50 años,,,,3,1,,,59900,,A reformar
+2,,,93,,,,,,tenerife,Si,,,,,,,,,,,,1967,,,,,3,,,,,,89,,,,,,,,Más de 50 años,,,,4,1,Si,,75000,Si,
+3,,,88,,,,Central,,tenerife,Si,1,,,Individual,,,,,,,,1971,,,Cemento,,,,,Si,,,82,,,,,,,,Mas de 25 Años,,,,3,1,,,90000,,A reformar
+4,,,93,3,,,,,tenerife,Si,,,,,,,,,,,,1967,,,Otros materiales,,1,,,,,,89,,,,,,,,Entre 35 y 50 Años,,,2,3,1,Si,,105000,Si,A reformar
+5,,,77,,,,,,tenerife,Si,,,,,,,,,,,Si,1982,,,,,,,,,,,64,,,,Si,,,,Entre 35 y 50 Años,,,,3,1,,,109900,,A reformar
+6,,Si,86,8,,,Individual,,tenerife,Si,,,,,,,Baldosa,,,,,1980,Si,,Ladrillo,,4,,,Si,,,82,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,115000,,A reformar
+7,,,91,1,,,Individual,,tenerife,,,,,,,,Baldosa,,,,,1965,,,Cemento,,1,,,,,,86,,,,,,,,Más de 50 años,,,2,3,1,,,115000,,
+8,,,87,,,,,,tenerife,Si,1,,,,,,Baldosa,,,,,1956,Si,,Ladrillo,,,,,,,,69,,,,,Sur,,,Más de 50 años,,,,3,1,,,119000,,A reformar
+9,,,110,,,,,,tenerife,Si,,,,,,,,,,,,1968,,,,,,Si,,,,,100,,,,Si,,,,Entre 35 y 50 Años,,,,1,1,,,128000,,Perfecto Estado
+10,,,110,,,,,,tenerife,Si,,,,,,,,,,,,1968,,,,,,Si,,,,,108,,,,Si,,,,Entre 35 y 50 Años,,,,3,1,,,138000,,Perfecto Estado
+11,,,110,,,,Individual,,tenerife,Si,,,,,,1,Baldosa,,,,,1997,,,Cemento,,,,,,,"37,00 €",83,,,,,,,,Mas de 25 Años,,,,3,1,,,146000,Si,
+12,,,115,,,,,,tenerife,Si,,,,,,,,,,,,1968,,1,,,,Si,,,,,113,,,,Si,,,,Entre 35 y 50 Años,,,,2,2,,,148000,,Perfecto Estado
+13,,,95,,Si,,,87 KW h/m² año,tenerife,Si,,,,,,,Baldosa,,,,,,,,,,,Si,,Si,,,74,,,,,Sur,,,Entre 25 y 35 años,,,,3,1,,20 Kg CO2/m² año,149500,Si,A reformar
+14,,,116,,Si,,,,tenerife,Si,1,,,,,,,,,,,,,,Cemento,,,,,Si,,,108,,,,,,,,Más de 50 años,,,,4,2,,,150000,,Perfecto Estado
+15,,,68,,,,Central,,tenerife,Si,1,Si,,,,1,Baldosa,,,,,2001,,1,Cemento,,,,,Si,,,56,,Si,,,,,,Entre 20 y 25 Años,,,,1,1,,,155000,Si,Perfecto Estado
+16,,,116,1,,,,,tenerife,,,,,,,,Otros,,,,,,,,,,,,,Si,,,88,,,,,,,,Mas de 25 Años,,,,3,2,,,157000,,Depende del precio
+17,,,100,1,,,Individual,,tenerife,Si,,,,,,1,Baldosa,,,,,2002,,,Cemento,,1,,,Si,,,91,,,,,,,,Entre 20 y 25 Años,,,,3,2,,,159000,Si,Perfecto Estado
+18,,,105,1,Si,,Central,,tenerife,Si,,,,,,1,Marmol,,,,,1992,,1,Cemento,,,,,Si,,,99,,,,Si,,,,Mas de 25 Años,,,,3,2,,,165000,Si,Depende del precio
+19,,,110,,,,,,tenerife,Si,,,,,,,Otros,,,,,,,,,,,,,Si,,,95,,,,,,,,Entre 20 y 25 Años,,,,3,2,Si,,165000,,Perfecto Estado
+20,,,112,,,,Individual,,tenerife,Si,,,,,,1,,,,,,1996,,1,Piedra,,,,,,,,90,,,,,Suroeste,,,Entre 20 y 25 Años,,,,3,2,,,179000,Si,Perfecto Estado
+21,,,200,,,Si,,,tenerife,,,,,,,,Otros,,,,,2004,,,Cemento,,,,,,,,166,,,,,,,,Entre 20 y 25 Años,,,,1,1,,,190000,,A reformar
+22,,,120,,,,,,tenerife,Si,1,,,,,,,,,,,,,,,,,,,Si,,,95,,,,,,,,Entre 20 y 25 Años,,,,4,2,Si,,209900,,Perfecto Estado
+23,,Si,130,6,,,Central,,tenerife,,1,,,,,,Baldosa,,,,,1993,Si,2,Cemento,,2,,,Si,,,120,,,,,,,,Entre 20 y 25 Años,,,,2,1,,,250000,,Perfecto Estado
+24,,,180,2,,Si,,,tenerife,Si,2,,,,,,,,,,,1965,,,,,,Si,,,,,170,,,,Si,,,,Más de 50 años,,,,6,3,,,280000,,
+25,,Si,445,,,Si,Central,,tenerife,Si,3,Si,,Gas Natural,,2,,,,,,2004,Si,,Piedra,,,Si,,,,,228,Si,,,Si,Noreste,,,Entre 15 y 20 Años,,,,5,2,Si,,290000,Si,Perfecto Estado
+26,,Si,66,6,,,Central,,tenerife,,,,,,,1,Marmol,Si,,,,1987,,1,Mono Capa,,6,,,Si,,,63,,,,,,,,Mas de 25 Años,,,,2,1,Si,,320000,Si,Perfecto Estado
+27,,Si,93,,Si,,,111 KW h/m² año,tenerife,Si,1,,,,,1,Baldosa,,,,,1980,,,,Si,,Si,,Si,,,90,,,,,,,,Entre 35 y 50 Años,,Si,,4,1,,29 Kg CO2/m² año,A consultar,Si,Perfecto Estado
+28,,,84,,Si,,Individual,141 KW h/m² año,tenerife,Si,,,,,,,Otros,,,,,1962,,,Cemento,,,,,,,,82,,,,,Este,,,Más de 50 años,,,,3,1,,37 Kg CO2/m² año,A consultar,,A reformar
+29,,Si,105,7,Si,,Central,82 KW h/m² año,tenerife,Si,,,,,,1,Baldosa,,,,,1979,Si,3,Cemento,Si,4,,,Si,,"65,00 €",89,,,,Si,,,,Entre 35 y 50 Años,,,,3,1,Si,22 Kg CO2/m² año,A consultar,Si,Perfecto Estado
+30,,,78,1,Si,,Central,64 KW h/m² año,tenerife,Si,,,,,,1,Baldosa,,,,,1988,,,Cemento,,6,,,Si,,"57,00 €",71,,,,Si,,,,Entre 25 y 35 años,,,,3,1,,14 Kg CO2/m² año,150000,,
+31,,,43,3,Si,,Central,61 KW h/m² año,tenerife,,,,,,,,Baldosa,,,,,1955,,,Cemento,,13,,,,,,38,,,,,,,,Más de 50 años,,,,3,1,,13 Kg CO2/m² año,55000,,
+32,,,90,2,,,,,tenerife,Si,,,,,,,Baldosa,,,,,,,,,,,,,,,,88,,,,Si,,,,Entre 35 y 50 Años,Si,,,4,2,,,59000,,A reformar
+33,,,101,,,,,,tenerife,Si,,,,,,,Otros,,,,,,,,,,,,,,,,70,,,,Si,,,,Más de 50 años,Si,,,3,1,,,60000,,A reformar
+34,,,950,,,Si,,,tenerife,Si,,,,,,,Otros,,,,,1937,Si,,Ladrillo,,,,,,,,800,,,,,,,,Más de 50 años,,,,1,1,,,60000,,
+35,,,65,1,,,,,tenerife,Si,,,,,,,,,,,,1960,,,Cemento,,,,,,,,60,,,,Si,,,,Más de 50 años,,,,2,1,,,65000,,A reformar
+36,,,80,,Si,,,,tenerife,Si,2,,,,,,Baldosa,,,,,1974,,,Cemento,,,,,,,,74,,,,,Este,,,Entre 35 y 50 Años,,,,3,1,Si,,67000,,
+37,,,70,,,,,,tenerife,Si,,,,,,,Otros,,,,,1965,,,,,,,,,,,58,,,,,,,,Más de 50 años,,,,3,1,,,69000,Si,A reformar
+38,,,82,4,,,,,tenerife,,,,,,,,,,,,,1988,,,,,,Si,,,,,75,,,,,,,,Mas de 25 Años,,,,3,1,,,87000,Si,Depende del precio
+39,,,84,,Si,,,132 KW h/m² año,tenerife,Si,,,,,,,,,,,,,,1,,,,,,,,,76,,,,,,,,Más de 50 años,,,,3,1,Si,29 Kg CO2/m² año,89900,Si,A reformar
+40,,,97,,Si,,,102 KW h/m² año,tenerife,Si,,,,,,1,,,,,,1993,,2,Cemento,,,,,Si,,,80,,,,,,,,Mas de 25 Años,,,,3,1,,27 Kg CO2/m² año,109000,Si,A reformar
+41,,,55,,Si,,,30 KW h/m² año,tenerife,Si,,,,,,,Otros,,,,,2004,,,,,,,,,,,53,Si,,,Si,,,,Entre 15 y 20 Años,,,,2,1,,136 Kg CO2/m² año,109000,Si,Perfecto Estado
+42,,,65,1,,,Individual,,tenerife,Si,,,,,,,Marmol,,,,,1965,,2,Cemento,,1,,,,,,58,,,,,,,,Más de 50 años,,,,2,1,Si,,114000,Si,Perfecto Estado
+43,,,195,2,Si,,,50 KW h/m² año,tenerife,Si,,,,,,,,,,,,1950,,,Cemento,,2,,,,,,190,,,,Si,,,,Más de 50 años,,,,6,2,,12 Kg CO2/m² año,115000,,A reformar
+44,,,55,3,Si,,,30 KW h/m² año,tenerife,Si,,,,,,,Otros,,,,,2004,,,,,,,,,,,53,,,,Si,,,,Entre 15 y 20 Años,,,,2,1,,136 Kg CO2/m² año,115000,Si,Perfecto Estado
+45,,,87,,Si,,Individual,71 KW h/m² año,tenerife,Si,,,,Individual,,,Baldosa,,,,,1980,Si,2,Ladrillo,,,,,Si,,,76,,,,,,,,Entre 35 y 50 Años,,,,3,1,,17 Kg CO2/m² año,126000,,Perfecto Estado
+46,,,78,3,,,Central,,tenerife,Si,,,,,,,Baldosa,,,,,1984,,,Cemento,,1,,,Si,,,70,,,,,,,,Mas de 25 Años,,,,3,1,Si,,128000,Si,Depende del precio
+47,,,72,1,Si,,,,tenerife,Si,,,,,,1,Otros,,,,,2005,,,Cemento,,1,,,,,,65,,,,,,,,Entre 15 y 20 Años,,,,2,2,,,129200,,
+48,,Si,94,8,,,Individual,,tenerife,Si,,,,,,,Baldosa,,,,,1976,Si,2,Cemento,,2,Si,,Si,,"45,00 €",87,,,,,,,,Entre 35 y 50 Años,,,,3,2,,,145000,Si,Perfecto Estado
+49,,,83,,Si,,,251 KW h/m² año,tenerife,Si,,,,,,1,,,,,,1983,,2,,,,Si,,Si,,,73,,,,Si,,,,Entre 25 y 35 años,,,,3,2,Si,67 Kg CO2/m² año,149000,Si,Depende del precio
+50,,,189,2,Si,,,70 KW h/m² año,tenerife,Si,1,,,,,,,,,,,1940,,,,Si,2,Si,,,,,173,,,,Si,,,,Más de 50 años,,,,6,2,,17 Kg CO2/m² año,150000,,A reformar
+51,,,124,3,,,,,tenerife,Si,2,,,,,1,,,,,,,Si,,,,,,,,,,104,Si,,,,,,,Entre 15 y 20 Años,Si,,,3,3,,,191000,Si,Perfecto Estado
+52,,,260,2,Si,,Placas Solares,93 KW h/m² año,tenerife,Si,2,,,Individual,,8,Marmol,,,,Si,2005,Si,6,Cemento,,,,,,,,258,,Si,,Si,,,,Entre 15 y 20 Años,,,,6,4,Si,22 Kg CO2/m² año,250000,Si,Perfecto Estado
+53,,,66,2,Si,,,100 KW h/m² año,tenerife,Si,,,,,,,Marmol,,,,,,,,Cemento,,,,,,,,60,,,,,,,,Más de 50 años,,,,2,1,,23 Kg CO2/m² año,A consultar,,
+54,,,59,,,,,,tenerife,Si,,,,,,,Otros,,,,,1964,,,Cemento,,,,,,,,49,,,,Si,,,,Más de 50 años,,,,2,1,,,A consultar,,Perfecto Estado
+55,,,83,3,Si,,,123 KW h/m² año,tenerife,,,,,,,1,Baldosa,,,,,2006,,2,,,2,,,,,,,,,,Si,,,,Entre 10 y 15 Años,,,,2,1,,33 Kg CO2/m² año,A consultar,Si,Perfecto Estado
+56,,,79,1,,,,,tenerife,,,,,,,,,,,,,1960,,,Cemento,,,,,,,,66,,,,,,,,Más de 50 años,,,,,1,,,A consultar,,Perfecto Estado

@@ -1,0 +1,52 @@
+,Acceso minusválidos,Metros,Plantas,Cal. energética:,Individual,Agua caliente,Consumo,provincia,Exterior,Número de terrazas,Piscina,Pista de tenis,Calefacción,Garajes,Tipo de suelo,Conserje,Pista de fútbol,Adosado,Año de construcción,Zonas verdes,Armarios,Tipo de fachada,Alarma,Pisos,Permite mascotas,Ascensor,Campo de golf,Comunidad,Metros útiles,Puerta de seguridad,Aire acondicionado,Pista de pádel,Trastero,Orientación,Pista de baloncesto,Antigüedad,Pareado,Circuito cerrado de seguridad,Inquilinos,Dormitorios,Baños,Amueblado,Emisiones,Precio,Cocina equipada,Estado
+0,,30,,Si,,,,barcelona,Si,,,,,,Gres,,,,1870,,,Cemento,,,,,,,24,,,,,Noreste,,Más de 50 años,,,,2,1,,,89000,,A reformar
+1,,38,4,Si,,,149 KW h/m² año,barcelona,Si,1,,,,,Gres,,,,1957,,,Ladrillo,Si,8,,,,,32,,Si,,,,,Entre 35 y 50 Años,,,,2,1,,30 Kg CO2/m² año,100000,,Perfecto Estado
+2,,43,,Si,,Gas natural,120 KW h/m² año,barcelona,,,,,,,Gres,,,,1932,,,Otros materiales,,,,,,,,Si,,,,,,Más de 50 años,,,,2,1,,90 Kg CO2/m² año,130000,Si,Perfecto Estado
+3,Si,60,6,Si,,Individual,,barcelona,,1,,,Gas Natural,,Terrazo,,,,,,1,,,6,,Si,,,43,Si,Si,,,Suroeste,,Más de 50 años,,,,2,1,,,145000,,Perfecto Estado
+4,,59,,Si,,,,barcelona,,,,,Eléctrica,,Parquet,,,,1936,,,Cemento,Si,,,,,,49,,Si,,,Norte,,Más de 50 años,,,,1,1,Si,,156000,Si,Perfecto Estado
+5,,52,,Si,,Gas natural,185 KW h/m² año,barcelona,Si,,,,,,Parquet,,,,1960,,,Piedra,,1,,,,,43,Si,,,,Sur,,Más de 50 años,,,,2,1,,48 Kg CO2/m² año,170000,Si,Perfecto Estado
+6,,54,8,,,Individual,,barcelona,,,,,,,Gres,,,,1964,,,Ladrillo,,32,,Si,,,45,,Si,,,Sur,,Entre 35 y 50 Años,,Si,,1,1,Si,,179500,Si,Perfecto Estado
+7,,141,,Si,,Gas natural,120 KW h/m² año,barcelona,Si,,,,Individual,,Parquet,,,,1972,,,Otros materiales,,,,,,,130,Si,Si,,,,,Más de 50 años,,,,4,2,,90 Kg CO2/m² año,199000,Si,Perfecto Estado
+8,,64,5,Si,,Individual,103 KW h/m² año,barcelona,Si,1,,,Gas Natural,,Gres,,,,1960,,,Ladrillo,,10,,,,,54,,,,,Noroeste,,Entre 35 y 50 Años,,,,3,1,,21 Kg CO2/m² año,220000,Si,Perfecto Estado
+9,,60,5,Si,,Individual,156 KW h/m² año,barcelona,,1,,,,,Gres,,,,1970,,,Ladrillo,,20,,Si,,,53,,,,,Noreste,,Entre 35 y 50 Años,,,,3,1,,33 Kg CO2/m² año,239000,Si,Perfecto Estado
+10,,42,,Si,,Gas natural,,barcelona,,,,,Gas Natural,,Parquet,,,,,,,,,,,Si,,,38,,Si,,,Norte,,Mas de 25 Años,,,,1,1,,,240000,Si,Perfecto Estado
+11,,85,5,Si,,,,barcelona,Si,,,,,,Parquet,,,,1850,,,,,2,,,,,80,,Si,,,Este,,Más de 50 años,,,,2,1,Si,,247000,Si,Perfecto Estado
+12,Si,66,7,Si,,Gas natural,141 KW h/m² año,barcelona,Si,1,,,Gas Natural,,Parquet,,,,1970,,1,Cemento,,2,,Si,,"600,00 €",58,Si,Si,,,Noreste,,Más de 50 años,,,,3,1,,36 Kg CO2/m² año,280000,,Perfecto Estado
+13,,68,5,,,Individual,,barcelona,Si,,,,Eléctrica,,Parquet,,,,1912,,,Piedra,,10,,,,,56,Si,,,Si,Sureste,,Entre 35 y 50 Años,,,,2,1,,,299000,Si,Perfecto Estado
+14,Si,66,4,Si,,Gas natural,,barcelona,Si,1,,,,,Gres,,,,1972,,,Ladrillo,,3,,Si,,,46,Si,Si,,,Sureste,,Más de 50 años,,,,3,1,,,330000,Si,Perfecto Estado
+15,Si,77,8,,,Gas natural,,barcelona,,,,,Eléctrica,,Parquet,,,,1951,,,Ladrillo,,4,,Si,,,,,Si,,,Este,,Más de 50 años,,,,4,1,,,350000,,Perfecto Estado
+16,Si,106,2,Si,,Gas natural,130 KW h/m² año,barcelona,Si,2,,,Gas Natural,,Parquet,,,,1993,,,Otros materiales,,,,Si,,,76,Si,Si,,Si,Este,,Entre 25 y 35 años,,Si,,3,2,,33 Kg CO2/m² año,359900,Si,Perfecto Estado
+17,,88,5,Si,,Central,,barcelona,Si,,,,Eléctrica,,Tarima Flotante,,,,2001,,,Cemento,,,,Si,,,80,,Si,,,Sur,,Entre 20 y 25 Años,,,,4,2,,,365000,Si,Perfecto Estado
+18,,69,8,Si,,Individual,,barcelona,,1,,,Gas Natural,,Tarima normal,Si,,,1967,,,Ladrillo,Si,32,,Si,,,65,Si,Si,,,Noroeste,,Entre 35 y 50 Años,,,,3,1,,,370000,Si,Perfecto Estado
+19,,84,,,,Individual,,barcelona,,,,,,,Gres,,,,1945,,,Ladrillo,,,,Si,,,74,,,,,Sureste,,Entre 35 y 50 Años,,,,3,1,,,370000,,A reformar
+20,,76,5,Si,,,,barcelona,,,,,Gas Natural,,Parquet,,,,1983,,,Cemento,,,,Si,,,66,,,,,Noreste,,Entre 35 y 50 Años,,,,2,1,,,380000,,
+21,,87,12,Si,,Individual,117 KW h/m² año,barcelona,Si,,,,Eléctrica,,Parquet,Si,,,1972,,2,Ladrillo,,50,,Si,,,70,Si,Si,,,Noreste,,Entre 35 y 50 Años,,,,2,1,,19 Kg CO2/m² año,380000,Si,Perfecto Estado
+22,Si,97,9,Si,,Gas natural,138 KW h/m² año,barcelona,Si,1,,,Gas Natural,,Parquet,,,,1967,,,Ladrillo,,4,,Si,,,78,Si,,,,Noreste,,Más de 50 años,,Si,,4,2,,28 Kg CO2/m² año,384000,Si,A reformar
+23,,82,9,Si,,Individual,,barcelona,,,,,,,Gres,,,,1975,,2,Cemento,,36,,Si,,,74,Si,,,,Suroeste,,Entre 35 y 50 Años,,,,4,2,,,395000,Si,Perfecto Estado
+24,Si,71,7,Si,,Gas natural,129 KW h/m² año,barcelona,Si,,,,Individual,,Gres,,,,1957,,,Ladrillo,,3,,Si,,"600,00 €",64,Si,,,,Oeste,,Más de 50 años,,Si,,3,1,,90 Kg CO2/m² año,399000,Si,Perfecto Estado
+25,Si,95,,Si,,Gas natural,,barcelona,Si,,,,,,Parquet,,,,1961,,,Piedra,,,,Si,,,83,Si,Si,,,Este,,Más de 50 años,,Si,,4,1,,,420000,Si,Perfecto Estado
+26,Si,109,8,Si,,Gas natural,120 KW h/m² año,barcelona,Si,1,,,Individual,,Gres,,,,1980,,,Ladrillo,Si,2,,Si,,,82,Si,Si,,,Sureste,,Entre 35 y 50 Años,,,,4,2,,90 Kg CO2/m² año,460000,Si,Perfecto Estado
+27,,136,,Si,,Individual,,barcelona,Si,,,,Eléctrica,,Gres,,,,1920,,,Ladrillo,,,,,,,109,,Si,,,Noreste,,Más de 50 años,,,,2,2,,,598000,,Perfecto Estado
+28,,312,2,Si,,Gas natural,,barcelona,Si,2,,,Gas Natural,2,Gres,,,Si,1927,,,,,1,,,,,,,Si,,Si,Este,,,,,,4,3,Si,,690000,,Perfecto Estado
+29,,18,5,Si,,,,barcelona,,1,,,,,Gres,,,,1936,,,Piedra,,10,,,,,15,,,,,Este,,Entre 35 y 50 Años,,,,,1,,,68000,,A reformar
+30,,54,5,Si,,,,barcelona,Si,,,,,,Tarima normal,,,,1860,,,,,4,,,,,42,,,,,Sur,,Más de 50 años,,,,2,1,Si,,134000,Si,Perfecto Estado
+31,,68,4,Si,,Gas natural,,barcelona,,,,,Gas Natural,,Parquet,,,,1967,,,Ladrillo,,2,,Si,,,56,Si,Si,,,Suroeste,,Más de 50 años,,,,2,1,,,199000,Si,Perfecto Estado
+32,,68,6,,,Individual,,barcelona,Si,,,,,,Gres,,,,1926,,,,,3,,Si,,,62,,,,,Este,,Entre 35 y 50 Años,,,,2,1,,,230000,Si,Perfecto Estado
+33,,79,4,Si,,Gas natural,,barcelona,Si,,,,Gas Natural,,Gres,,,,1850,,,,,2,,,,,68,,,,,Sureste,,Más de 50 años,,,,4,1,Si,,265000,Si,Perfecto Estado
+34,Si,98,2,Si,,Gas natural,120 KW h/m² año,barcelona,Si,1,,,Gas Natural,,Gres,,,,1993,Si,,Otros materiales,,3,,Si,,,86,Si,,,Si,Sureste,,Entre 35 y 50 Años,,Si,,3,1,,90 Kg CO2/m² año,330000,Si,Perfecto Estado
+35,,78,,Si,,,,barcelona,Si,,,,Eléctrica,,Gres,,,,1900,,,Cemento,,,,,,,68,,Si,,,Sur,,Más de 50 años,,,,2,1,,,340000,,Perfecto Estado
+36,,91,,Si,,Individual,,barcelona,Si,2,,,Gas Natural,,Gres,,,,1967,,,Ladrillo,,,,Si,,,85,,Si,,,Suroeste,,Más de 50 años,,,,3,2,Si,,450000,Si,Perfecto Estado
+37,,74,10,Si,,Individual,,barcelona,Si,1,Si,Si,,,Gres,,Si,,1976,Si,1,Cemento,,2,,Si,,"65,40 €",64,,,,,Suroeste,Si,Entre 35 y 50 Años,,,,2,1,,,160000,Si,Perfecto Estado
+38,,49,5,Si,,Gas natural,107 KW h/m² año,barcelona,Si,3,,,,,Gres,,,,1967,,,,,4,,,,,47,Si,,,,,,Más de 50 años,,,,3,1,,22 Kg CO2/m² año,170000,Si,Perfecto Estado
+39,Si,70,,Si,,Gas natural,,barcelona,Si,1,,,,,Parquet,,,,1970,,2,Otros materiales,,,,Si,,,56,Si,,,,Este,,Más de 50 años,,,,3,1,,,175000,Si,Perfecto Estado
+40,,242,3,Si,,Individual,,barcelona,Si,3,,,Gasóleo,,Gres,,,Si,1960,,,Cemento,Si,1,,,,,110,Si,,,,Este,,Más de 50 años,,,,4,2,,,180000,,A reformar
+41,Si,65,4,Si,,Gas natural,,barcelona,Si,,,,Gas Natural,,Parquet,,,,1959,,,Ladrillo,,2,,Si,,,60,Si,Si,,,Sureste,,Más de 50 años,,,,2,1,,,215000,Si,Perfecto Estado
+42,,65,,Si,,Gas natural,,barcelona,,,,,,,Tarima Flotante,Si,,,1975,,,Ladrillo,,,,Si,,,60,,,,,Noroeste,,Entre 35 y 50 Años,,,,3,1,,,255000,Si,Perfecto Estado
+43,Si,59,9,,,Gas natural,,barcelona,Si,1,,,,,Parquet,,,,1956,,,Ladrillo,,,,Si,,"50,00 €",54,Si,,,Si,Sur,,Más de 50 años,,,,2,1,,,258000,Si,A reformar
+44,,100,,Si,,,,barcelona,Si,,,,,,,,,,1964,,,Cemento,,,,Si,,,90,,,,,Sur,,Más de 50 años,,,,3,1,Si,,260000,Si,A reformar
+45,Si,77,,Si,,,,barcelona,Si,,,,,,Gres,,,,1955,,,Cemento,,,,Si,,,69,Si,Si,,,Sureste,,Más de 50 años,,,,3,2,,,275000,,
+46,Si,83,8,,,Gas natural,,barcelona,Si,1,,,,,Gres,,,,1968,,,Otros materiales,,3,,Si,,,64,Si,,,,Sureste,,Más de 50 años,,,,3,1,,,275000,Si,Perfecto Estado
+47,Si,70,9,Si,,Gas natural,1 KW h/m² año,barcelona,Si,1,,,Gas Natural,,Terrazo,,,,1966,,1,Cemento,,4,,Si,,,,Si,,,,Sureste,,Más de 50 años,,Si,,3,1,,20 Kg CO2/m² año,330000,Si,Perfecto Estado
+48,,97,,Si,,,,barcelona,Si,,,,Gas Natural,,Parquet,,,,1967,,,Cemento,,,,Si,,,78,,Si,,,Norte,,Entre 35 y 50 Años,,,,2,1,Si,,343000,Si,Perfecto Estado
+49,,74,,,,,,barcelona,Si,2,,,,,Gres,,,,1966,Si,,Cemento,,,,,,"100,00 €",62,,,,,Sur,,Más de 50 años,,,,3,1,,,160000,,Perfecto Estado
+50,Si,236,,Si,,Gas natural,,barcelona,Si,1,Si,,Gas Natural,2,,,,Si,2003,Si,,Ladrillo,,,,,,,,Si,,,Si,Sureste,,Entre 15 y 20 Años,,,,4,3,,,420000,Si,Perfecto Estado

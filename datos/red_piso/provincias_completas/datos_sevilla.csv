@@ -1,0 +1,72 @@
+,,Acceso minusválidos,Metros,Plantas,Cal. energética:,Individual,Agua caliente,Consumo,provincia,Exterior,Número de terrazas,Piscina,Pista de tenis,Calefacción,Salida de humos,Garajes,Tipo de suelo,Conserje,Pista de fútbol,Gimnasio,Adosado,Año de construcción,Zonas verdes,Armarios,Tipo de fachada,Alarma,Pisos,Permite mascotas,Cal. energética,Ascensor,Campo de golf,Comunidad,Metros útiles,Puerta de seguridad,Aire acondicionado,Pista de pádel,Trastero,Orientación,Pista de squash,Pista de baloncesto,Antigüedad,Pareado,Circuito cerrado de seguridad,Inquilinos,Dormitorios,Baños,Amueblado,Emisiones,Precio,Cocina equipada,Estado
+0,,,113,,Si,,Gas Butano,,sevilla,,1,,,Eléctrica,,,Terrazo,,,,Si,,,,,,,,,,,,99,,,,,Sur,,,Más de 50 años,,,,3,1,,,109900,,A reformar
+1,,,124,,Si,,Gas Butano,,sevilla,Si,,,,,,,Terrazo,,,,Si,1920,,2,Cemento,,,,,,,,,,,,Si,Noroeste,,,,,,,3,1,,,129900,Si,A reformar
+2,,,57,4,Si,,Gas Butano,,sevilla,Si,,,,,,,Gres,,,,,1955,,,Cemento,,2,,,,,"20,00 €",45,,Si,,,Este,,,Mas de 25 Años,,,,3,1,Si,,149000,Si,
+3,,,78,3,Si,,Individual,199 KW h/m² año,sevilla,,,,,,,,Gres,,,,,1981,,2,Cemento,,3,,,,,"60,00 €",65,Si,Si,,,Sureste,,,Entre 35 y 50 Años,,,,2,1,,34 Kg CO2/m² año,189000,Si,A reformar
+4,,,68,,Si,,,279 KW h/m² año,sevilla,Si,1,,,,,,Porcelánico,,,,,1965,,,Ladrillo,,,,,,,,56,,,,,Sur,,,Más de 50 años,,,,3,1,,49 Kg CO2/m² año,210000,,Perfecto Estado
+5,,,64,,Si,,,825 KW h/m² año,sevilla,Si,,,,,,,Tarima normal,,,,,1974,,,Ladrillo,,,,,,,,53,,Si,,,Noroeste,,,Más de 50 años,,,,3,1,,140 Kg CO2/m² año,220000,Si,Perfecto Estado
+6,,,123,,Si,,Gas Butano,,sevilla,Si,1,,,Eléctrica,,1,Terrazo,,,,Si,2004,,2,Otros materiales,,,,,,,,119,Si,Si,,,Oeste,,,Entre 20 y 25 Años,,,,3,3,,,226400,Si,Perfecto Estado
+7,,,156,,Si,,Gas Butano,,sevilla,Si,1,,,Eléctrica,,4,Marmol,,,,Si,,,2,,,,,,,,,,Si,Si,,Si,,,,Entre 20 y 25 Años,,,,3,1,,,226500,,Perfecto Estado
+8,,Si,91,8,Si,,,205 KW h/m² año,sevilla,Si,1,,,,,,Terrazo,,,,,1975,,,Ladrillo,,4,,,Si,,"100,00 €",75,,Si,,,Noreste,,,Entre 35 y 50 Años,,,,3,1,,38 Kg CO2/m² año,240000,,A reformar
+9,,,79,,Si,,,,sevilla,Si,,,,Individual,,,Gres,,,,,1973,,1,Ladrillo,,,,,,,,65,Si,Si,,,Oeste,,,Más de 50 años,,,,2,1,Si,,250000,Si,Perfecto Estado
+10,,,123,,Si,,Placas Solares,,sevilla,Si,2,,,,,,,,,,Si,2020,,,,,,,,,,,,Si,Si,,,,,,Menos de 5 Años,,,,3,2,,,294900,Si,Perfecto Estado
+11,,,208,3,Si,Si,,160 KW h/m² año,sevilla,Si,1,Si,,Individual,,1,Marmol,,,,,2003,Si,3,,Si,,,,,,,,Si,Si,,,,,,Entre 15 y 20 Años,,Si,,4,3,,43 Kg CO2/m² año,350000,Si,Perfecto Estado
+12,,,190,2,Si,,,74 KW h/m² año,sevilla,Si,2,,,,,,Marmol,,,,Si,1990,,3,Cemento,,,,,,,,157,,Si,,Si,Suroeste,,,Entre 25 y 35 años,,,,5,3,,13 Kg CO2/m² año,549000,Si,Perfecto Estado
+13,,,242,,Si,,,17 KW h/m² año,sevilla,Si,2,,,,,1,Porcelánico,,,,Si,2024,,,,,,,,Si,,,200,,Si,,,Suroeste,,,Menos de 5 Años,,,,3,2,,3 Kg CO2/m² año,599000,Si,Perfecto Estado
+14,,Si,180,,Si,,,242 KW h/m² año,sevilla,Si,2,,,,,1,Terrazo,,,,Si,1940,,,Cemento,,,,,Si,,,150,,Si,,Si,Noreste,,,Más de 50 años,,,,3,2,,43 Kg CO2/m² año,675000,,Perfecto Estado
+15,,Si,91,12,Si,,Gas Butano,,sevilla,Si,1,,,,,,Terrazo,,,,,2021,Si,,Ladrillo,,4,,,Si,,,,,Si,,,,,,Más de 50 años,,,,3,1,,,149999,,
+16,,,142,2,Si,,Gas Butano,,sevilla,Si,1,,,Eléctrica,,2,Terrazo,,,,,1988,,3,Cemento,Si,,,,,,,113,,Si,,Si,Este,,,Mas de 25 Años,Si,,,5,2,,,154500,Si,A reformar
+17,,,62,,Si,,,,sevilla,Si,1,,,,,,Gres,,,,,1973,,,Ladrillo,,,,,Si,,,52,,Si,,,Oeste,,,Más de 50 años,,,,2,1,,,220000,,A reformar
+18,,,103,2,Si,,,136 KW h/m² año,sevilla,Si,,,,,,,,,,,Si,1939,,,Ladrillo,,,,,,,,85,,,,,Suroeste,,,Más de 50 años,,,,2,2,,27 Kg CO2/m² año,299000,,A reformar
+19,,Si,95,,Si,,,,sevilla,Si,,,,,,,Porcelánico,,,,,1973,,,,,,,,Si,,,76,,,,,Noreste,,,Más de 50 años,,,,3,1,,,320000,,A reformar
+20,,Si,129,,,,,,sevilla,Si,,,,,,,Porcelánico,,,,,1966,,,,,,,,Si,,"100,00 €",107,Si,Si,,,Oeste,,,Más de 50 años,,,,4,2,,,A consultar,Si,Perfecto Estado
+21,,,73,,Si,,Individual,,sevilla,,,,,Eléctrica,,1,Marmol,,,,,2009,,1,Mono Capa,Si,,,,,,"70,00 €",56,Si,Si,,Si,Suroeste,,,Entre 10 y 15 Años,,Si,,2,1,Si,,59000,Si,Perfecto Estado
+22,,,61,3,Si,,Individual,231 KW h/m² año,sevilla,,,,,Individual,,,Gres,,,,,1963,,1,Cemento,,2,,,,,"50,00 €",50,,Si,,,Noroeste,,,Más de 50 años,,,,1,1,,43 Kg CO2/m² año,110000,,Perfecto Estado
+23,,,66,4,Si,,Individual,237 KW h/m² año,sevilla,Si,1,,,Individual,,,,,,,,1960,,,Cemento,,4,,,,,,54,,Si,,,Noreste,,,Más de 50 años,,,,3,1,,42 Kg CO2/m² año,150000,,
+24,,,60,3,Si,,Individual,183 KW h/m² año,sevilla,Si,1,,,Individual,,,Marmol,,,,,1988,,1,Cemento,,,,,,,,50,,Si,,,Sureste,,,Entre 25 y 35 años,,,,1,1,,33 Kg CO2/m² año,163000,Si,Perfecto Estado
+25,,,82,4,Si,,Individual,221 KW h/m² año,sevilla,,,,,Individual,,,Terrazo,,,,,1970,,,Cemento,,5,,,,,,67,,Si,,,Noroeste,,,Más de 50 años,,,,3,1,,41 Kg CO2/m² año,175000,Si,A reformar
+26,,,68,4,Si,,Individual,150 KW h/m² año,sevilla,Si,,,,Individual,,,Gres,,,,,1965,,,,Si,4,,,,,"50,00 €",56,,Si,,,Noroeste,,,Más de 50 años,,,,3,1,,26 Kg CO2/m² año,176000,Si,Perfecto Estado
+27,,Si,86,4,Si,,Individual,158 KW h/m² año,sevilla,Si,1,,,,,,Gres,,Si,,,1966,Si,1,Ladrillo,,4,,,Si,,"50,00 €",75,,Si,,,Este,,,Más de 50 años,,,,3,1,,40 Kg CO2/m² año,219000,,
+28,,Si,92,4,Si,,Individual,15 KW h/m² año,sevilla,Si,2,Si,,,,1,Parquet,,,,,2021,Si,3,Piedra,,4,,,Si,,"110,00 €",77,Si,Si,Si,Si,Sureste,,,Menos de 5 Años,,Si,,3,2,,256 Kg CO2/m² año,245000,Si,Perfecto Estado
+29,,Si,130,4,Si,,Individual,,sevilla,Si,2,,,,,,Porcelánico,,,,,1965,,3,Ladrillo,,,,,Si,,,110,,Si,,,Oeste,,,Más de 50 años,,,,4,1,,,249000,Si,A reformar
+30,,Si,88,12,Si,,Individual,174 KW h/m² año,sevilla,Si,1,Si,,Individual,,1,Tarima normal,Si,,,,1973,Si,,Cemento,,4,,,Si,,"168,00 €",73,,Si,,,Este,,,Entre 35 y 50 Años,,Si,,3,2,,35 Kg CO2/m² año,305000,,Perfecto Estado
+31,,Si,165,5,Si,,,120 KW h/m² año,sevilla,Si,2,,,,,,Tarima Flotante,,,,,1964,,,,,,,,Si,,"150,00 €",154,,Si,,Si,Este,,,Más de 50 años,,,,4,2,,24 Kg CO2/m² año,369000,,
+32,,Si,141,5,Si,,,188 KW h/m² año,sevilla,Si,1,,,Central,,,Gres,,,,,1982,,3,,,,,,Si,,"137,00 €",111,,Si,,Si,Este,,,Entre 35 y 50 Años,,,,3,2,,32 Kg CO2/m² año,375000,,
+33,,Si,513,,Si,Si,Placas Solares,,sevilla,Si,1,Si,,Eléctrica,,4,Otros,,,,,2007,Si,5,Ladrillo,Si,,,,,,,434,Si,Si,,Si,Sureste,,,Entre 15 y 20 Años,,Si,,6,4,,,595000,Si,Perfecto Estado
+34,,,140,,Si,,Placas Solares,,sevilla,Si,3,,,Individual,,,Marmol,,,,Si,2003,,3,Cemento,,,,,,,,,,Si,,,,,,Entre 20 y 25 Años,,,,4,3,,,A consultar,Si,Perfecto Estado
+35,,,49,,,,,,sevilla,,,,,Individual,,,Gres,,,,,1975,,1,Cemento,,,,,,,"30,00 €",,,Si,,,Sureste,,,Mas de 25 Años,,,1,2,1,,,40000,Si,
+36,,,66,,Si,,Gas Butano,,sevilla,,1,,,,,,Terrazo,,,,,1968,,,Cemento,,,,,,,"25,00 €",,,,,,Sureste,,,Más de 50 años,,,,3,1,,,55000,,A reformar
+37,,,93,,Si,,,,sevilla,Si,1,,,Eléctrica,,,Otros,,,,,1973,,2,Ladrillo,,,,,,,,,,Si,,,,,,Entre 35 y 50 Años,,,,3,1,,,79900,,Perfecto Estado
+38,,,55,,,,Gas Butano,,sevilla,Si,,,,Eléctrica,,,Terrazo,,,,,1963,,,,Si,,,,,,,46,,,,,,,,Entre 35 y 50 Años,,,,3,1,,,80000,Si,Perfecto Estado
+39,,Si,85,,,,,,sevilla,Si,,,,,,1,,,Si,,,,,,,,,,,Si,,,80,Si,,,,Sur,,,Entre 15 y 20 Años,,,,1,1,,,82000,Si,
+40,,,80,4,Si,,Gas Butano,,sevilla,,1,,,,,,Gres,,,,,,,,Ladrillo,,,,,,,"50,00 €",,Si,Si,,,Sureste,,,Más de 50 años,,,,3,1,,,88900,Si,
+41,,,87,4,Si,,Gas Butano,,sevilla,Si,,,,,,,Terrazo,,,,,1978,,2,Ladrillo,Si,32,,,,,,,,Si,,,Sureste,,,Más de 50 años,,,1,4,2,,,89900,,
+42,,,187,1,,Si,Gas Butano,,sevilla,Si,1,Si,,Individual,,,Terrazo,,,,,1992,Si,,,,,Si,Exento,,,,,,,,Si,,,,Mas de 25 Años,,,,3,1,,,90000,Si,
+43,,,135,,Si,,Gas natural,,sevilla,Si,1,Si,,,,1,,,,,Si,2007,Si,3,Cemento,,,,,,,,,Si,,,,,,,Entre 20 y 25 Años,,,,3,2,,,97000,,Perfecto Estado
+44,,,66,,Si,,Gas Butano,,sevilla,,,,,Individual,,,Terrazo,,,,,,,,Ladrillo,,,,,,,"65,00 €",,,Si,,,,,,Más de 50 años,,,,3,1,,,120000,,
+45,,,122,2,Si,,Placas Solares,,sevilla,Si,2,,,Eléctrica,,2,Marmol,,,,Si,2003,,2,Cemento,,,,,,,,,,Si,,Si,,,,Entre 20 y 25 Años,,,,3,3,,,123000,Si,Perfecto Estado
+46,,Si,141,,Si,,Gas Butano,,sevilla,Si,1,,,,,1,Terrazo,,,,,1996,,3,Ladrillo,,10,,,Si,,"67,00 €",,Si,Si,,,Noroeste,,,Mas de 25 Años,,,,3,2,,,138000,,Perfecto Estado
+47,,,110,3,Si,,Gas Butano,,sevilla,Si,1,,,,,1,,,,,,1992,,3,Ladrillo,,,,,Si,,"60,00 €",,Si,,,,,,,Mas de 25 Años,,,2,3,2,,,138000,,
+48,,,128,,Si,,Gas natural,,sevilla,Si,,,,Eléctrica,,1,Terrazo,,,,Si,,Si,,Cemento,,,,,,,,,Si,Si,,Si,,,,Entre 10 y 15 Años,,,,3,2,,,145000,,Perfecto Estado
+49,,,66,4,Si,,,214 KW h/m² año,sevilla,Si,1,,,,,,Gres,,,,,1961,,,,,,,,,,"55,00 €",60,,Si,,,Noroeste,,,Más de 50 años,,,,3,1,,44 Kg CO2/m² año,147000,,A reformar
+50,,Si,129,3,Si,,Placas Solares,,sevilla,Si,1,Si,,Individual,,1,Tarima Flotante,,,,,2007,Si,2,Cemento,,,,,Si,Si,"160,00 €",93,Si,Si,,Si,,,,Entre 15 y 20 Años,,Si,,2,2,,,149900,Si,Perfecto Estado
+51,,,183,,Si,,Gas natural,,sevilla,Si,2,,,Eléctrica,,2,Marmol,,,,Si,2005,,,Mono Capa,Si,,,,,,,,Si,Si,,,,,,Entre 20 y 25 Años,,,,4,3,,,154900,,
+52,,,68,,Si,,Gas Butano,,sevilla,Si,1,,,Individual,,,Gres,,,,,1965,,,Ladrillo,,,,,,,,57,Si,Si,,,Sur,,,Mas de 25 Años,,,,3,1,Si,,160000,Si,
+53,,Si,74,5,Si,,Gas natural,102 KW h/m² año,sevilla,Si,1,Si,,Central,,1,Parquet,,,,,2008,Si,2,Ladrillo,,,,,Si,,"57,00 €",62,Si,Si,Si,,Oeste,,,Entre 10 y 15 Años,,Si,,2,2,,21 Kg CO2/m² año,169900,Si,Perfecto Estado
+54,,,60,3,,,Gas Butano,,sevilla,Si,1,,,,,,Terrazo,,,,,1965,,,Ladrillo,,5,,,Si,,"55,00 €",50,,,,,Noreste,,,Más de 50 años,,,,3,1,,,173000,,A reformar
+55,,,78,3,Si,,Individual,,sevilla,Si,1,,,,,,Marmol,,,,,1988,,1,Cemento,,2,,,,,,65,,Si,,,Sureste,,,Mas de 25 Años,,,,2,1,,,195000,Si,Perfecto Estado
+56,,,203,,,Si,Gas Butano,,sevilla,Si,1,Si,,,,2,Terrazo,,,,,1982,Si,2,Cemento,,,,,,,,,,Si,,Si,Sureste,,,Mas de 25 Años,,,,5,3,,,199900,Si,
+57,,,91,,Si,,,178 KW h/m² año,sevilla,Si,,,,,,,Terrazo,,,,,1940,,,Cemento,,,,,,,,75,,,,,Sur,,,Más de 50 años,,,,4,1,,36 Kg CO2/m² año,215000,,A reformar
+58,,,180,2,Si,,Gas natural,154 KW h/m² año,sevilla,Si,,Si,,Eléctrica,,1,Tarima Flotante,,,,,,Si,2,Otros materiales,,,,,,,,,Si,Si,,Si,Sureste,,,Mas de 25 Años,Si,,,4,2,,2.820 Kg CO2/m² año,235000,,Perfecto Estado
+59,,,82,,Si,,,,sevilla,Si,,,,,,,Terrazo,,,,,1940,,,Cemento,,,,,,,"35,00 €",68,,Si,,Si,Oeste,,,,,,,3,1,,,249000,,Perfecto Estado
+60,,,84,2,,,Individual,,sevilla,Si,1,,,,,,Terrazo,,,,,1940,,,Cemento,,,,,,,"50,00 €",69,,Si,,Si,Este,,,Más de 50 años,,,,2,1,,,249000,Si,
+61,,,135,,Si,,,227 KW h/m² año,sevilla,Si,1,,,,,,,,,,Si,,,,,,,,,,,,123,,Si,,,Este,,,Entre 35 y 50 Años,,,,3,2,,46 Kg CO2/m² año,250000,,A reformar
+62,,Si,105,,Si,,Gas Butano,,sevilla,Si,1,Si,Si,,,1,Marmol,Si,,Si,,1992,Si,3,Mono Capa,,,,,Si,,"100,00 €",,Si,,Si,,,,Si,Entre 25 y 35 años,,Si,,3,2,,,255000,,Perfecto Estado
+63,,Si,175,,Si,,Gas natural,,sevilla,Si,2,Si,,Eléctrica,,1,Marmol,,Si,,,,Si,3,Mono Capa,,,,,,,,165,Si,Si,Si,Si,Sureste,,Si,,Si,Si,,4,3,,,280000,Si,Perfecto Estado
+64,,,147,,Si,,,171 KW h/m² año,sevilla,,,,,,,,Marmol,,,,,1980,,,Ladrillo,,,,,Si,,"90,00 €",122,,Si,,Si,Sur,,,Entre 35 y 50 Años,,,,3,2,,31 Kg CO2/m² año,367500,,Perfecto Estado
+65,,Si,133,9,Si,,,88 KW h/m² año,sevilla,,1,,,,,1,Marmol,,,,,1991,,,Ladrillo,,,,,Si,,,110,Si,Si,,,Sur,,,Mas de 25 Años,,,,3,3,,16 Kg CO2/m² año,420000,,
+66,,,188,8,,,,,sevilla,Si,1,,,,,1,Terrazo,,,,,1963,,,,,,,,Si,,"180,00 €",156,,Si,,Si,Norte,,,Más de 50 años,,,,4,2,,,470000,,
+67,,,138,,Si,,,,sevilla,,1,,,,,1,Porcelánico,,,,Si,1988,,2,,,,,,,,"10,00 €",90,Si,Si,,,,,,Entre 25 y 35 años,,,,4,2,,,A consultar,Si,
+68,,Si,66,4,Si,,,122 KW h/m² año,sevilla,Si,,,,,,,,,,,,1961,,,,,,,,,,"55,00 €",57,,,,,Sur,,,Más de 50 años,,,,2,1,,24 Kg CO2/m² año,A consultar,,A reformar
+69,,,117,,Si,,,,sevilla,Si,,,,,,,Otros,,,,,2014,,,,,,,,,,"50,00 €",75,,,,,Sur,,,Entre 5 y 10 Años,,,,2,1,,,210000,,A reformar
+70,,,93,4,Si,,,,sevilla,,1,,,,,,,,,,,1962,,,,,,,,,,,77,,,,,Sur,,,Entre 35 y 50 Años,,,,3,1,,,342000,,Perfecto Estado
